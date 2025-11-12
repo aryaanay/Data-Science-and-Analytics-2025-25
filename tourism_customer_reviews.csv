@@ -1,0 +1,1001 @@
+review_id,user_id,review_text,review_date,location,service_category,rating,sentiment_score,visit_frequency,recommendation_likelihood,customer_segment,demand_prediction
+R0001,U9599,"Terrible Hotel experience in Tokyo, Japan. Will not return.",2024-10-11,"Tokyo, Japan",Hotel,1,-0.53,2,0.79,Solo Traveler,Medium
+R0002,U5990,"Absolutely loved the Restaurant experience in New York, USA. Exceeded all expectations!",2024-07-23,"New York, USA",Restaurant,5,0.85,1,0.26,Budget Traveler,Medium
+R0003,U6716,"Terrible Transport experience in Paris, France. Will not return.",2025-05-08,"Paris, France",Transport,1,-0.56,2,0.33,Family Tourist,Medium
+R0004,U5004,"Not impressed with the City Tour in Paris, France. Several issues encountered.",2024-12-08,"Paris, France",City Tour,2,-0.16,3,0.67,Budget Traveler,Medium
+R0005,U9053,"Enjoyed the Hotel at New York, USA. Would recommend to others.",2024-09-25,"New York, USA",Hotel,4,0.47,2,0.98,Solo Traveler,Medium
+R0006,U8280,"Decent Restaurant in Tokyo, Japan, but room for improvement.",2024-10-14,"Tokyo, Japan",Restaurant,3,0.2,1,0.09,Business Traveler,Medium
+R0007,U2720,"The Hotel at Sydney, Australia was okay. Could be better.",2025-02-12,"Sydney, Australia",Hotel,3,-0.01,4,0.13,Family Tourist,Medium
+R0008,U6333,"Enjoyed the Hotel at New York, USA. Would recommend to others.",2025-02-06,"New York, USA",Hotel,4,0.45,1,0.18,Solo Traveler,Medium
+R0009,U2562,"Avoid the Adventure Tour at Sydney, Australia. Very poor service.",2024-08-28,"Sydney, Australia",Adventure Tour,1,-0.57,4,0.65,Solo Traveler,Medium
+R0010,U7320,"Terrible Restaurant experience in Paris, France. Will not return.",2024-06-25,"Paris, France",Restaurant,1,-0.73,4,0.2,Business Traveler,Low
+R0011,U8574,"The best Restaurant I've ever had in Paris, France. Will come back again!",2024-08-21,"Paris, France",Restaurant,5,0.9,1,0.97,Family Tourist,High
+R0012,U4333,"Avoid the Hotel at Paris, France. Very poor service.",2025-02-14,"Paris, France",Hotel,1,-0.83,1,0.4,Solo Traveler,Medium
+R0013,U7800,"The best Restaurant I've ever had in Rome, Italy. Will come back again!",2024-08-08,"Rome, Italy",Restaurant,5,0.83,2,0.2,Solo Traveler,Medium
+R0014,U2907,"Enjoyed the Restaurant at Paris, France. Would recommend to others.",2024-07-03,"Paris, France",Restaurant,4,0.4,2,0.52,Luxury Seeker,Medium
+R0015,U2699,"Great City Tour experience in Sydney, Australia. A few minor issues but overall satisfied.",2024-05-31,"Sydney, Australia",City Tour,4,0.46,2,0.75,Family Tourist,Medium
+R0016,U5498,"Great City Tour experience in Rome, Italy. A few minor issues but overall satisfied.",2025-02-01,"Rome, Italy",City Tour,4,0.67,2,0.06,Family Tourist,Medium
+R0017,U5412,"The best Restaurant I've ever had in Paris, France. Will come back again!",2025-05-03,"Paris, France",Restaurant,5,0.93,2,0.01,Luxury Seeker,Medium
+R0018,U9893,"Had problems with the City Tour in Tokyo, Japan. Needs improvement.",2025-03-26,"Tokyo, Japan",City Tour,2,-0.37,4,0.93,Luxury Seeker,Medium
+R0019,U2543,"Not impressed with the Hotel in Rome, Italy. Several issues encountered.",2024-10-06,"Rome, Italy",Hotel,2,-0.23,2,0.13,Luxury Seeker,Low
+R0020,U8674,"Disappointing Restaurant experience at Paris, France. Would not recommend.",2024-09-27,"Paris, France",Restaurant,2,-0.11,5,0.8,Budget Traveler,Medium
+R0021,U7525,"Great Restaurant experience in Sydney, Australia. A few minor issues but overall satisfied.",2024-08-03,"Sydney, Australia",Restaurant,4,0.63,2,0.39,Business Traveler,Medium
+R0022,U9044,"The Restaurant at Rome, Italy was okay. Could be better.",2024-06-03,"Rome, Italy",Restaurant,3,0.12,3,0.9,Solo Traveler,Medium
+R0023,U6230,"Enjoyed the Transport at New York, USA. Would recommend to others.",2025-02-17,"New York, USA",Transport,4,0.55,3,0.36,Budget Traveler,Medium
+R0024,U4479,"Great Transport experience in Tokyo, Japan. A few minor issues but overall satisfied.",2024-09-02,"Tokyo, Japan",Transport,4,0.66,1,0.91,Solo Traveler,High
+R0025,U5977,"Worst Restaurant I've had in New York, USA. Completely dissatisfied.",2025-01-02,"New York, USA",Restaurant,1,-0.42,1,0.01,Business Traveler,Low
+R0026,U2123,"Not impressed with the Adventure Tour in Sydney, Australia. Several issues encountered.",2024-08-05,"Sydney, Australia",Adventure Tour,2,-0.38,5,0.13,Solo Traveler,Low
+R0027,U5687,"Terrible Transport experience in Rome, Italy. Will not return.",2025-03-15,"Rome, Italy",Transport,1,-0.86,3,0.76,Luxury Seeker,Medium
+R0028,U6908,"Decent Hotel in Rome, Italy, but room for improvement.",2024-12-24,"Rome, Italy",Hotel,3,-0.06,5,0.16,Solo Traveler,Medium
+R0029,U4036,"The best Restaurant I've ever had in Tokyo, Japan. Will come back again!",2024-10-19,"Tokyo, Japan",Restaurant,5,0.91,1,0.98,Luxury Seeker,High
+R0030,U3261,"The Hotel at Tokyo, Japan was okay. Could be better.",2024-12-07,"Tokyo, Japan",Hotel,3,0.26,4,0.44,Business Traveler,Medium
+R0031,U1798,"Average Transport experience in Paris, France. Nothing special.",2024-10-22,"Paris, France",Transport,3,0.09,3,0.46,Solo Traveler,Medium
+R0032,U4402,"Disappointing City Tour experience at Paris, France. Would not recommend.",2024-07-23,"Paris, France",City Tour,2,-0.3,4,0.55,Solo Traveler,Medium
+R0033,U4084,"Terrible Transport experience in Paris, France. Will not return.",2024-12-07,"Paris, France",Transport,1,-0.69,4,0.11,Family Tourist,Low
+R0034,U2706,"Great City Tour experience in Tokyo, Japan. A few minor issues but overall satisfied.",2024-12-23,"Tokyo, Japan",City Tour,4,0.42,2,0.66,Family Tourist,Medium
+R0035,U5838,"Not impressed with the Restaurant in Tokyo, Japan. Several issues encountered.",2024-12-26,"Tokyo, Japan",Restaurant,2,-0.31,4,0.92,Business Traveler,Medium
+R0036,U4704,"Enjoyed the Hotel at Sydney, Australia. Would recommend to others.",2024-06-26,"Sydney, Australia",Hotel,4,0.43,3,0.95,Luxury Seeker,Medium
+R0037,U4908,"Worst Restaurant I've had in New York, USA. Completely dissatisfied.",2024-07-14,"New York, USA",Restaurant,1,-0.84,3,0.59,Luxury Seeker,Medium
+R0038,U6889,"Decent Hotel in New York, USA, but room for improvement.",2025-04-18,"New York, USA",Hotel,3,0.08,5,0.91,Luxury Seeker,Medium
+R0039,U4543,"Very good Adventure Tour in Sydney, Australia. Met most of my expectations.",2024-06-15,"Sydney, Australia",Adventure Tour,4,0.55,1,0.23,Business Traveler,Medium
+R0040,U4486,"Enjoyed the City Tour at Sydney, Australia. Would recommend to others.",2024-07-13,"Sydney, Australia",City Tour,4,0.59,3,0.99,Business Traveler,High
+R0041,U7386,"Fantastic Restaurant experience at Paris, France. Highly recommend!",2024-10-25,"Paris, France",Restaurant,5,0.76,3,0.46,Solo Traveler,Medium
+R0042,U8699,"Avoid the Adventure Tour at Tokyo, Japan. Very poor service.",2024-11-24,"Tokyo, Japan",Adventure Tour,1,-0.75,4,0.11,Budget Traveler,Low
+R0043,U3955,"The Adventure Tour at Tokyo, Japan was okay. Could be better.",2024-11-09,"Tokyo, Japan",Adventure Tour,3,0.17,1,0.58,Business Traveler,Medium
+R0044,U2079,"Worst Hotel I've had in Sydney, Australia. Completely dissatisfied.",2024-10-02,"Sydney, Australia",Hotel,1,-0.95,4,0.83,Budget Traveler,Medium
+R0045,U7960,"The best Hotel I've ever had in New York, USA. Will come back again!",2025-02-13,"New York, USA",Hotel,5,0.8,1,0.47,Family Tourist,Medium
+R0046,U8650,"The best Adventure Tour I've ever had in Sydney, Australia. Will come back again!",2024-08-19,"Sydney, Australia",Adventure Tour,5,0.74,1,0.01,Business Traveler,Medium
+R0047,U6613,"Fantastic City Tour experience at Rome, Italy. Highly recommend!",2025-03-24,"Rome, Italy",City Tour,5,0.97,4,0.57,Budget Traveler,Medium
+R0048,U8984,"Terrible Transport experience in Rome, Italy. Will not return.",2024-06-09,"Rome, Italy",Transport,1,-0.93,2,0.57,Luxury Seeker,Medium
+R0049,U2931,"Worst City Tour I've had in Sydney, Australia. Completely dissatisfied.",2025-03-01,"Sydney, Australia",City Tour,1,-0.45,2,0.28,Business Traveler,Low
+R0050,U1804,"Average Hotel experience in Tokyo, Japan. Nothing special.",2024-08-18,"Tokyo, Japan",Hotel,3,0.18,2,0.12,Budget Traveler,Medium
+R0051,U7210,"Fantastic Adventure Tour experience at Tokyo, Japan. Highly recommend!",2024-11-01,"Tokyo, Japan",Adventure Tour,5,0.93,1,0.19,Solo Traveler,Medium
+R0052,U3656,"Disappointing Adventure Tour experience at Tokyo, Japan. Would not recommend.",2024-10-15,"Tokyo, Japan",Adventure Tour,2,-0.34,3,0.96,Family Tourist,Medium
+R0053,U8730,"Great Transport experience in Tokyo, Japan. A few minor issues but overall satisfied.",2024-05-30,"Tokyo, Japan",Transport,4,0.61,2,0.34,Budget Traveler,Medium
+R0054,U9626,"Decent Adventure Tour in Rome, Italy, but room for improvement.",2024-05-25,"Rome, Italy",Adventure Tour,3,0.08,2,0.25,Family Tourist,Medium
+R0055,U8648,"Not impressed with the City Tour in Sydney, Australia. Several issues encountered.",2024-12-03,"Sydney, Australia",City Tour,2,-0.29,5,0.62,Business Traveler,Medium
+R0056,U7770,"Disappointing Adventure Tour experience at Rome, Italy. Would not recommend.",2024-05-31,"Rome, Italy",Adventure Tour,2,-0.32,5,0.07,Luxury Seeker,Low
+R0057,U5186,"Enjoyed the Restaurant at Sydney, Australia. Would recommend to others.",2025-02-13,"Sydney, Australia",Restaurant,4,0.67,4,0.62,Budget Traveler,Medium
+R0058,U2312,"Great Adventure Tour experience in Rome, Italy. A few minor issues but overall satisfied.",2024-10-05,"Rome, Italy",Adventure Tour,4,0.46,1,0.15,Budget Traveler,Medium
+R0059,U8109,"Fantastic Restaurant experience at Tokyo, Japan. Highly recommend!",2024-09-11,"Tokyo, Japan",Restaurant,5,0.73,1,0.71,Luxury Seeker,High
+R0060,U2007,"Worst Transport I've had in Sydney, Australia. Completely dissatisfied.",2025-01-31,"Sydney, Australia",Transport,1,-0.46,1,0.78,Business Traveler,Medium
+R0061,U7407,"The best City Tour I've ever had in Tokyo, Japan. Will come back again!",2025-02-27,"Tokyo, Japan",City Tour,5,0.71,2,0.64,Luxury Seeker,Medium
+R0062,U8550,"Not impressed with the Adventure Tour in Tokyo, Japan. Several issues encountered.",2025-03-05,"Tokyo, Japan",Adventure Tour,2,-0.28,3,0.58,Budget Traveler,Medium
+R0063,U4136,"Had problems with the Hotel in New York, USA. Needs improvement.",2024-07-15,"New York, USA",Hotel,2,-0.21,3,0.07,Luxury Seeker,Low
+R0064,U2293,"The Transport at Tokyo, Japan was okay. Could be better.",2025-04-04,"Tokyo, Japan",Transport,3,0.23,3,0.66,Family Tourist,Medium
+R0065,U6923,"Great Transport experience in Sydney, Australia. A few minor issues but overall satisfied.",2024-09-15,"Sydney, Australia",Transport,4,0.66,1,0.27,Budget Traveler,Medium
+R0066,U5700,"Average Restaurant experience in Paris, France. Nothing special.",2024-07-10,"Paris, France",Restaurant,3,0.07,3,0.58,Family Tourist,Medium
+R0067,U1536,"Not impressed with the City Tour in Rome, Italy. Several issues encountered.",2025-05-07,"Rome, Italy",City Tour,2,-0.29,2,0.83,Business Traveler,Medium
+R0068,U1690,"Fantastic Adventure Tour experience at Paris, France. Highly recommend!",2024-08-03,"Paris, France",Adventure Tour,5,0.97,2,0.94,Solo Traveler,High
+R0069,U5350,"Fantastic City Tour experience at New York, USA. Highly recommend!",2025-03-05,"New York, USA",City Tour,5,0.93,4,0.82,Budget Traveler,High
+R0070,U5661,"Worst Transport I've had in Rome, Italy. Completely dissatisfied.",2024-07-13,"Rome, Italy",Transport,1,-0.47,3,0.07,Solo Traveler,Low
+R0071,U9057,"Terrible City Tour experience in Sydney, Australia. Will not return.",2024-06-08,"Sydney, Australia",City Tour,1,-0.72,5,0.79,Business Traveler,Medium
+R0072,U9665,"Average Hotel experience in Tokyo, Japan. Nothing special.",2025-01-06,"Tokyo, Japan",Hotel,3,-0.04,3,0.81,Budget Traveler,Medium
+R0073,U6678,"The Adventure Tour at New York, USA was okay. Could be better.",2024-07-20,"New York, USA",Adventure Tour,3,0.38,5,0.73,Luxury Seeker,Medium
+R0074,U9293,"Avoid the Restaurant at Paris, France. Very poor service.",2024-12-28,"Paris, France",Restaurant,1,-0.82,3,0.39,Family Tourist,Medium
+R0075,U7238,"Disappointing Restaurant experience at Tokyo, Japan. Would not recommend.",2024-08-31,"Tokyo, Japan",Restaurant,2,-0.2,4,0.73,Budget Traveler,Medium
+R0076,U7352,"Very good Transport in Rome, Italy. Met most of my expectations.",2024-10-15,"Rome, Italy",Transport,4,0.52,3,0.53,Business Traveler,Medium
+R0077,U3213,"The best Hotel I've ever had in New York, USA. Will come back again!",2025-03-02,"New York, USA",Hotel,5,0.83,2,0.69,Solo Traveler,Medium
+R0078,U2102,"Enjoyed the Adventure Tour at Rome, Italy. Would recommend to others.",2024-10-14,"Rome, Italy",Adventure Tour,4,0.62,4,0.23,Solo Traveler,Medium
+R0079,U4916,"Not impressed with the City Tour in Tokyo, Japan. Several issues encountered.",2024-11-23,"Tokyo, Japan",City Tour,2,-0.32,2,0.51,Luxury Seeker,Medium
+R0080,U7210,"Had problems with the Hotel in Rome, Italy. Needs improvement.",2025-03-19,"Rome, Italy",Hotel,2,-0.29,1,0.89,Business Traveler,Medium
+R0081,U3262,"Not impressed with the City Tour in Sydney, Australia. Several issues encountered.",2025-03-31,"Sydney, Australia",City Tour,2,-0.19,1,0.2,Budget Traveler,Low
+R0082,U3116,"Decent Adventure Tour in Paris, France, but room for improvement.",2024-10-02,"Paris, France",Adventure Tour,3,0.22,1,0.16,Luxury Seeker,Medium
+R0083,U5963,"Average Restaurant experience in Tokyo, Japan. Nothing special.",2024-08-10,"Tokyo, Japan",Restaurant,3,0.08,5,0.44,Luxury Seeker,Medium
+R0084,U4809,"The best Hotel I've ever had in New York, USA. Will come back again!",2024-11-16,"New York, USA",Hotel,5,0.89,5,0.27,Budget Traveler,Medium
+R0085,U3034,"Had problems with the Hotel in New York, USA. Needs improvement.",2025-03-26,"New York, USA",Hotel,2,-0.26,4,0.13,Solo Traveler,Low
+R0086,U9889,"Average Restaurant experience in Paris, France. Nothing special.",2024-08-29,"Paris, France",Restaurant,3,-0.09,1,0.44,Budget Traveler,Medium
+R0087,U6453,"Disappointing Adventure Tour experience at Rome, Italy. Would not recommend.",2024-12-29,"Rome, Italy",Adventure Tour,2,-0.39,3,0.78,Business Traveler,Medium
+R0088,U3561,"Average City Tour experience in New York, USA. Nothing special.",2024-08-11,"New York, USA",City Tour,3,0.12,5,0.67,Family Tourist,Medium
+R0089,U3020,"Disappointing Adventure Tour experience at Tokyo, Japan. Would not recommend.",2024-09-18,"Tokyo, Japan",Adventure Tour,2,-0.27,5,0.46,Business Traveler,Medium
+R0090,U7705,"The best City Tour I've ever had in Sydney, Australia. Will come back again!",2024-09-25,"Sydney, Australia",City Tour,5,0.91,3,0.33,Business Traveler,Medium
+R0091,U7256,"Average Hotel experience in Sydney, Australia. Nothing special.",2024-11-18,"Sydney, Australia",Hotel,3,0.12,2,0.83,Budget Traveler,Medium
+R0092,U9489,"Absolutely loved the Restaurant experience in Paris, France. Exceeded all expectations!",2024-10-28,"Paris, France",Restaurant,5,0.85,5,0.07,Solo Traveler,Medium
+R0093,U5254,"Great Restaurant experience in Rome, Italy. A few minor issues but overall satisfied.",2025-05-02,"Rome, Italy",Restaurant,4,0.47,5,0.36,Budget Traveler,Medium
+R0094,U4630,"Not impressed with the Adventure Tour in Sydney, Australia. Several issues encountered.",2024-10-14,"Sydney, Australia",Adventure Tour,2,-0.26,5,0.1,Solo Traveler,Low
+R0095,U5298,"Worst City Tour I've had in New York, USA. Completely dissatisfied.",2024-08-27,"New York, USA",City Tour,1,-0.57,1,0.94,Solo Traveler,Medium
+R0096,U4230,"Decent Adventure Tour in New York, USA, but room for improvement.",2024-08-12,"New York, USA",Adventure Tour,3,0.3,5,0.03,Luxury Seeker,Medium
+R0097,U2221,"Disappointing Adventure Tour experience at Paris, France. Would not recommend.",2024-08-01,"Paris, France",Adventure Tour,2,-0.23,5,0.18,Luxury Seeker,Low
+R0098,U2949,"Very good Adventure Tour in Tokyo, Japan. Met most of my expectations.",2024-09-03,"Tokyo, Japan",Adventure Tour,4,0.51,5,0.47,Luxury Seeker,Medium
+R0099,U4091,"The best Transport I've ever had in Sydney, Australia. Will come back again!",2025-01-04,"Sydney, Australia",Transport,5,0.71,2,0.81,Business Traveler,High
+R0100,U9619,"Disappointing Restaurant experience at Tokyo, Japan. Would not recommend.",2025-01-19,"Tokyo, Japan",Restaurant,2,-0.24,2,0.55,Budget Traveler,Medium
+R0101,U9001,"Great City Tour experience in Rome, Italy. A few minor issues but overall satisfied.",2024-08-08,"Rome, Italy",City Tour,4,0.66,5,0.42,Solo Traveler,Medium
+R0102,U2279,"Had problems with the Adventure Tour in Paris, France. Needs improvement.",2025-04-26,"Paris, France",Adventure Tour,2,-0.37,1,0.83,Business Traveler,Medium
+R0103,U2342,"Fantastic City Tour experience at New York, USA. Highly recommend!",2025-04-22,"New York, USA",City Tour,5,0.79,3,0.26,Family Tourist,Medium
+R0104,U9956,"Had problems with the Hotel in Tokyo, Japan. Needs improvement.",2024-09-21,"Tokyo, Japan",Hotel,2,-0.12,4,0.95,Business Traveler,Medium
+R0105,U9198,"Fantastic City Tour experience at Paris, France. Highly recommend!",2025-04-25,"Paris, France",City Tour,5,0.87,2,0.37,Budget Traveler,Medium
+R0106,U7173,"Average City Tour experience in New York, USA. Nothing special.",2025-01-28,"New York, USA",City Tour,3,0.07,2,0.41,Family Tourist,Medium
+R0107,U7727,"The Restaurant at New York, USA was okay. Could be better.",2024-06-24,"New York, USA",Restaurant,3,-0.04,5,0.05,Luxury Seeker,Medium
+R0108,U8001,"Very good Restaurant in New York, USA. Met most of my expectations.",2024-10-11,"New York, USA",Restaurant,4,0.45,4,0.32,Solo Traveler,Medium
+R0109,U7078,"Very good Transport in Sydney, Australia. Met most of my expectations.",2025-04-25,"Sydney, Australia",Transport,4,0.64,1,0.16,Budget Traveler,Medium
+R0110,U5622,"Fantastic Restaurant experience at Sydney, Australia. Highly recommend!",2025-03-30,"Sydney, Australia",Restaurant,5,0.77,3,0.48,Budget Traveler,Medium
+R0111,U3216,"Fantastic Hotel experience at Tokyo, Japan. Highly recommend!",2024-08-15,"Tokyo, Japan",Hotel,5,0.85,1,0.85,Solo Traveler,High
+R0112,U7134,"Avoid the City Tour at Sydney, Australia. Very poor service.",2024-05-25,"Sydney, Australia",City Tour,1,-0.84,5,0.23,Budget Traveler,Low
+R0113,U9660,"Fantastic Hotel experience at Sydney, Australia. Highly recommend!",2024-09-14,"Sydney, Australia",Hotel,5,0.72,3,0.71,Budget Traveler,High
+R0114,U8580,"Great Restaurant experience in Rome, Italy. A few minor issues but overall satisfied.",2024-06-01,"Rome, Italy",Restaurant,4,0.54,2,0.54,Business Traveler,Medium
+R0115,U1409,"Average Adventure Tour experience in Paris, France. Nothing special.",2024-06-25,"Paris, France",Adventure Tour,3,0.03,1,0.71,Luxury Seeker,Medium
+R0116,U1844,"Very good Restaurant in Rome, Italy. Met most of my expectations.",2024-10-31,"Rome, Italy",Restaurant,4,0.63,2,0.46,Budget Traveler,Medium
+R0117,U6333,"The best City Tour I've ever had in New York, USA. Will come back again!",2024-06-30,"New York, USA",City Tour,5,0.79,2,0.53,Budget Traveler,Medium
+R0118,U7083,"Very good Adventure Tour in Rome, Italy. Met most of my expectations.",2025-04-01,"Rome, Italy",Adventure Tour,4,0.62,2,0.39,Family Tourist,Medium
+R0119,U5276,"Very good Hotel in Sydney, Australia. Met most of my expectations.",2025-03-10,"Sydney, Australia",Hotel,4,0.69,1,0.21,Family Tourist,Medium
+R0120,U1477,"Great Restaurant experience in New York, USA. A few minor issues but overall satisfied.",2024-12-30,"New York, USA",Restaurant,4,0.56,5,0.74,Luxury Seeker,High
+R0121,U1322,"Decent Adventure Tour in Sydney, Australia, but room for improvement.",2024-10-16,"Sydney, Australia",Adventure Tour,3,0.2,1,0.34,Business Traveler,Medium
+R0122,U1042,"Not impressed with the Restaurant in Tokyo, Japan. Several issues encountered.",2025-02-08,"Tokyo, Japan",Restaurant,2,-0.26,3,0.7,Family Tourist,Medium
+R0123,U3549,"Avoid the Hotel at Paris, France. Very poor service.",2024-08-26,"Paris, France",Hotel,1,-0.99,3,0.4,Business Traveler,Medium
+R0124,U8836,"Disappointing City Tour experience at Tokyo, Japan. Would not recommend.",2024-07-02,"Tokyo, Japan",City Tour,2,-0.36,3,0.12,Luxury Seeker,Low
+R0125,U4766,"Worst Restaurant I've had in Tokyo, Japan. Completely dissatisfied.",2024-07-09,"Tokyo, Japan",Restaurant,1,-0.41,2,0.11,Luxury Seeker,Low
+R0126,U3115,"Decent City Tour in Tokyo, Japan, but room for improvement.",2024-05-31,"Tokyo, Japan",City Tour,3,-0.02,2,0.61,Business Traveler,Medium
+R0127,U3844,"Worst Adventure Tour I've had in Paris, France. Completely dissatisfied.",2025-05-06,"Paris, France",Adventure Tour,1,-0.75,1,0.66,Family Tourist,Medium
+R0128,U5797,"Fantastic Restaurant experience at Tokyo, Japan. Highly recommend!",2025-02-23,"Tokyo, Japan",Restaurant,5,0.99,3,0.81,Family Tourist,High
+R0129,U7593,"Average Transport experience in New York, USA. Nothing special.",2024-10-20,"New York, USA",Transport,3,-0.01,1,0.43,Business Traveler,Medium
+R0130,U1224,"Enjoyed the Hotel at Paris, France. Would recommend to others.",2024-10-28,"Paris, France",Hotel,4,0.44,3,0.33,Family Tourist,Medium
+R0131,U3566,"Great City Tour experience in Sydney, Australia. A few minor issues but overall satisfied.",2024-07-07,"Sydney, Australia",City Tour,4,0.61,2,0.35,Solo Traveler,Medium
+R0132,U6955,"The Adventure Tour at Paris, France was okay. Could be better.",2024-06-23,"Paris, France",Adventure Tour,3,0.4,2,0.54,Luxury Seeker,Medium
+R0133,U9587,"Terrible Transport experience in Rome, Italy. Will not return.",2024-07-20,"Rome, Italy",Transport,1,-0.9,1,0.25,Business Traveler,Low
+R0134,U6553,"Avoid the Hotel at Rome, Italy. Very poor service.",2025-04-21,"Rome, Italy",Hotel,1,-0.82,2,0.14,Solo Traveler,Low
+R0135,U5970,"Very good Restaurant in New York, USA. Met most of my expectations.",2024-08-31,"New York, USA",Restaurant,4,0.65,3,0.59,Solo Traveler,Medium
+R0136,U2042,"Worst Transport I've had in Sydney, Australia. Completely dissatisfied.",2025-03-09,"Sydney, Australia",Transport,1,-0.77,1,0.04,Solo Traveler,Low
+R0137,U4578,"Enjoyed the Hotel at Paris, France. Would recommend to others.",2025-04-26,"Paris, France",Hotel,4,0.59,2,0.91,Business Traveler,High
+R0138,U7377,"Decent Adventure Tour in Paris, France, but room for improvement.",2025-04-26,"Paris, France",Adventure Tour,3,-0.04,3,0.16,Business Traveler,Medium
+R0139,U6296,"Fantastic Transport experience at Sydney, Australia. Highly recommend!",2025-02-21,"Sydney, Australia",Transport,5,0.79,5,0.55,Luxury Seeker,Medium
+R0140,U4208,"The best Adventure Tour I've ever had in Tokyo, Japan. Will come back again!",2024-08-01,"Tokyo, Japan",Adventure Tour,5,0.86,4,0.28,Business Traveler,Medium
+R0141,U9960,"Worst Hotel I've had in Sydney, Australia. Completely dissatisfied.",2024-06-09,"Sydney, Australia",Hotel,1,-0.7,5,0.76,Budget Traveler,Medium
+R0142,U9532,"Not impressed with the Restaurant in Rome, Italy. Several issues encountered.",2024-07-21,"Rome, Italy",Restaurant,2,-0.12,4,0.47,Budget Traveler,Medium
+R0143,U3198,"Worst Transport I've had in Tokyo, Japan. Completely dissatisfied.",2024-07-15,"Tokyo, Japan",Transport,1,-0.89,5,0.3,Solo Traveler,Medium
+R0144,U4243,"Enjoyed the City Tour at New York, USA. Would recommend to others.",2025-03-12,"New York, USA",City Tour,4,0.55,5,0.24,Family Tourist,Medium
+R0145,U5505,"Absolutely loved the Adventure Tour experience in Paris, France. Exceeded all expectations!",2025-02-28,"Paris, France",Adventure Tour,5,0.98,5,0.13,Business Traveler,Medium
+R0146,U2945,"Great Adventure Tour experience in New York, USA. A few minor issues but overall satisfied.",2025-01-31,"New York, USA",Adventure Tour,4,0.64,1,0.13,Solo Traveler,Medium
+R0147,U2981,"Disappointing City Tour experience at Rome, Italy. Would not recommend.",2024-09-08,"Rome, Italy",City Tour,2,-0.16,4,0.75,Budget Traveler,Medium
+R0148,U2344,"Enjoyed the City Tour at Tokyo, Japan. Would recommend to others.",2024-05-29,"Tokyo, Japan",City Tour,4,0.42,2,0.56,Luxury Seeker,Medium
+R0149,U1291,"Avoid the Hotel at Sydney, Australia. Very poor service.",2024-07-10,"Sydney, Australia",Hotel,1,-0.9,3,0.7,Luxury Seeker,Medium
+R0150,U2555,"Disappointing Restaurant experience at Paris, France. Would not recommend.",2025-04-18,"Paris, France",Restaurant,2,-0.27,3,0.21,Luxury Seeker,Low
+R0151,U7300,"The Adventure Tour at Tokyo, Japan was okay. Could be better.",2024-10-18,"Tokyo, Japan",Adventure Tour,3,0.11,4,0.02,Budget Traveler,Medium
+R0152,U9078,"Fantastic Transport experience at Tokyo, Japan. Highly recommend!",2025-05-02,"Tokyo, Japan",Transport,5,0.76,2,0.39,Solo Traveler,Medium
+R0153,U1358,"Disappointing Adventure Tour experience at New York, USA. Would not recommend.",2024-09-17,"New York, USA",Adventure Tour,2,-0.18,5,0.38,Family Tourist,Medium
+R0154,U8934,"Terrible Hotel experience in Sydney, Australia. Will not return.",2025-02-05,"Sydney, Australia",Hotel,1,-0.82,2,0.9,Family Tourist,Medium
+R0155,U5996,"Had problems with the Adventure Tour in Tokyo, Japan. Needs improvement.",2025-02-08,"Tokyo, Japan",Adventure Tour,2,-0.27,4,0.29,Business Traveler,Low
+R0156,U2342,"Decent Transport in Rome, Italy, but room for improvement.",2025-01-18,"Rome, Italy",Transport,3,0.33,1,0.51,Business Traveler,Medium
+R0157,U4036,"Great Transport experience in Paris, France. A few minor issues but overall satisfied.",2024-05-15,"Paris, France",Transport,4,0.45,1,0.28,Solo Traveler,Medium
+R0158,U9925,"Very good Adventure Tour in Sydney, Australia. Met most of my expectations.",2024-09-28,"Sydney, Australia",Adventure Tour,4,0.59,1,0.37,Business Traveler,Medium
+R0159,U8063,"Not impressed with the City Tour in Paris, France. Several issues encountered.",2024-07-24,"Paris, France",City Tour,2,-0.12,4,0.49,Budget Traveler,Medium
+R0160,U6267,"The best Adventure Tour I've ever had in Tokyo, Japan. Will come back again!",2025-03-30,"Tokyo, Japan",Adventure Tour,5,0.72,2,0.14,Budget Traveler,Medium
+R0161,U3770,"Very good Transport in Rome, Italy. Met most of my expectations.",2024-06-07,"Rome, Italy",Transport,4,0.65,1,0.77,Solo Traveler,High
+R0162,U5278,"Worst Transport I've had in Tokyo, Japan. Completely dissatisfied.",2024-08-05,"Tokyo, Japan",Transport,1,-0.42,5,0.44,Budget Traveler,Medium
+R0163,U6247,"Decent Transport in Tokyo, Japan, but room for improvement.",2024-09-07,"Tokyo, Japan",Transport,3,0.16,5,0.32,Family Tourist,Medium
+R0164,U4754,"Decent Hotel in New York, USA, but room for improvement.",2024-07-08,"New York, USA",Hotel,3,0.21,2,0.35,Family Tourist,Medium
+R0165,U9187,"Absolutely loved the Hotel experience in New York, USA. Exceeded all expectations!",2025-01-19,"New York, USA",Hotel,5,0.76,3,0.97,Family Tourist,High
+R0166,U7829,"Worst Adventure Tour I've had in Sydney, Australia. Completely dissatisfied.",2024-07-26,"Sydney, Australia",Adventure Tour,1,-0.97,2,1.0,Solo Traveler,Medium
+R0167,U8931,"The Adventure Tour at Paris, France was okay. Could be better.",2024-12-08,"Paris, France",Adventure Tour,3,0.4,3,0.38,Solo Traveler,Medium
+R0168,U4575,"Not impressed with the City Tour in Sydney, Australia. Several issues encountered.",2025-04-30,"Sydney, Australia",City Tour,2,-0.32,2,0.68,Business Traveler,Medium
+R0169,U1691,"Great Transport experience in Rome, Italy. A few minor issues but overall satisfied.",2024-08-05,"Rome, Italy",Transport,4,0.6,5,0.8,Budget Traveler,High
+R0170,U7362,"Decent Hotel in Rome, Italy, but room for improvement.",2025-02-17,"Rome, Italy",Hotel,3,0.22,2,0.99,Budget Traveler,Medium
+R0171,U7142,"Decent Restaurant in Tokyo, Japan, but room for improvement.",2024-07-27,"Tokyo, Japan",Restaurant,3,0.13,3,0.95,Solo Traveler,Medium
+R0172,U9897,"Not impressed with the City Tour in Paris, France. Several issues encountered.",2025-02-12,"Paris, France",City Tour,2,-0.25,1,0.42,Luxury Seeker,Medium
+R0173,U3769,"Disappointing City Tour experience at Sydney, Australia. Would not recommend.",2024-05-19,"Sydney, Australia",City Tour,2,-0.13,1,0.53,Solo Traveler,Medium
+R0174,U2571,"The Adventure Tour at Tokyo, Japan was okay. Could be better.",2025-02-12,"Tokyo, Japan",Adventure Tour,3,-0.09,1,0.37,Luxury Seeker,Medium
+R0175,U6284,"Great Adventure Tour experience in Paris, France. A few minor issues but overall satisfied.",2025-04-08,"Paris, France",Adventure Tour,4,0.42,1,0.12,Family Tourist,Medium
+R0176,U2668,"Very good Adventure Tour in Tokyo, Japan. Met most of my expectations.",2024-11-28,"Tokyo, Japan",Adventure Tour,4,0.57,3,0.45,Solo Traveler,Medium
+R0177,U5540,"Average Hotel experience in Tokyo, Japan. Nothing special.",2024-09-15,"Tokyo, Japan",Hotel,3,0.07,4,0.59,Solo Traveler,Medium
+R0178,U6822,"Fantastic Transport experience at Rome, Italy. Highly recommend!",2024-08-20,"Rome, Italy",Transport,5,0.89,2,0.65,Business Traveler,Medium
+R0179,U2508,"Terrible City Tour experience in Tokyo, Japan. Will not return.",2024-12-12,"Tokyo, Japan",City Tour,1,-0.85,4,0.55,Family Tourist,Medium
+R0180,U5001,"Had problems with the City Tour in Sydney, Australia. Needs improvement.",2024-11-26,"Sydney, Australia",City Tour,2,-0.14,5,0.18,Family Tourist,Low
+R0181,U5985,"Worst City Tour I've had in Paris, France. Completely dissatisfied.",2024-07-14,"Paris, France",City Tour,1,-0.68,1,0.14,Solo Traveler,Low
+R0182,U4678,"The Restaurant at Paris, France was okay. Could be better.",2025-01-06,"Paris, France",Restaurant,3,0.06,3,0.43,Family Tourist,Medium
+R0183,U7460,"Worst Restaurant I've had in Tokyo, Japan. Completely dissatisfied.",2024-06-06,"Tokyo, Japan",Restaurant,1,-0.88,5,0.82,Business Traveler,Medium
+R0184,U7433,"Decent Hotel in Sydney, Australia, but room for improvement.",2024-10-03,"Sydney, Australia",Hotel,3,0.12,3,0.76,Luxury Seeker,Medium
+R0185,U6264,"Decent Transport in New York, USA, but room for improvement.",2024-06-07,"New York, USA",Transport,3,0.2,1,0.34,Budget Traveler,Medium
+R0186,U1737,"Very good City Tour in Paris, France. Met most of my expectations.",2024-07-15,"Paris, France",City Tour,4,0.56,2,0.06,Budget Traveler,Medium
+R0187,U7504,"Enjoyed the Adventure Tour at Tokyo, Japan. Would recommend to others.",2024-07-22,"Tokyo, Japan",Adventure Tour,4,0.67,2,0.85,Family Tourist,High
+R0188,U1028,"Not impressed with the Adventure Tour in New York, USA. Several issues encountered.",2025-05-12,"New York, USA",Adventure Tour,2,-0.29,3,0.83,Budget Traveler,Medium
+R0189,U7104,"Very good City Tour in New York, USA. Met most of my expectations.",2024-11-02,"New York, USA",City Tour,4,0.58,1,0.01,Business Traveler,Medium
+R0190,U4668,"Disappointing Adventure Tour experience at Tokyo, Japan. Would not recommend.",2025-02-22,"Tokyo, Japan",Adventure Tour,2,-0.22,2,0.16,Luxury Seeker,Low
+R0191,U2058,"Fantastic Hotel experience at New York, USA. Highly recommend!",2024-05-24,"New York, USA",Hotel,5,0.82,3,0.09,Solo Traveler,Medium
+R0192,U8313,"Very good Transport in Paris, France. Met most of my expectations.",2024-05-29,"Paris, France",Transport,4,0.55,3,0.7,Family Tourist,Medium
+R0193,U8715,"Great Transport experience in Sydney, Australia. A few minor issues but overall satisfied.",2024-10-14,"Sydney, Australia",Transport,4,0.6,5,0.29,Family Tourist,Medium
+R0194,U2900,"Not impressed with the City Tour in New York, USA. Several issues encountered.",2025-04-30,"New York, USA",City Tour,2,-0.29,1,0.26,Budget Traveler,Low
+R0195,U6556,"The best Adventure Tour I've ever had in Rome, Italy. Will come back again!",2024-11-17,"Rome, Italy",Adventure Tour,5,0.74,3,0.06,Luxury Seeker,Medium
+R0196,U5996,"Decent Hotel in New York, USA, but room for improvement.",2025-03-02,"New York, USA",Hotel,3,0.14,2,0.03,Family Tourist,Medium
+R0197,U3498,"Decent Adventure Tour in Tokyo, Japan, but room for improvement.",2024-10-28,"Tokyo, Japan",Adventure Tour,3,0.33,1,0.74,Family Tourist,Medium
+R0198,U4401,"Had problems with the Hotel in Paris, France. Needs improvement.",2024-10-05,"Paris, France",Hotel,2,-0.34,1,0.75,Solo Traveler,Medium
+R0199,U1005,"The best Restaurant I've ever had in Rome, Italy. Will come back again!",2024-08-06,"Rome, Italy",Restaurant,5,0.89,3,0.83,Luxury Seeker,High
+R0200,U1040,"Average Adventure Tour experience in Sydney, Australia. Nothing special.",2025-03-30,"Sydney, Australia",Adventure Tour,3,0.22,1,0.62,Budget Traveler,Medium
+R0201,U9892,"Very good Transport in Rome, Italy. Met most of my expectations.",2024-10-17,"Rome, Italy",Transport,4,0.47,5,0.71,Luxury Seeker,Medium
+R0202,U5561,"Avoid the City Tour at Tokyo, Japan. Very poor service.",2024-10-02,"Tokyo, Japan",City Tour,1,-0.98,3,0.74,Luxury Seeker,Medium
+R0203,U7801,"Decent Restaurant in Tokyo, Japan, but room for improvement.",2024-12-21,"Tokyo, Japan",Restaurant,3,-0.08,4,0.33,Budget Traveler,Medium
+R0204,U1490,"Average Adventure Tour experience in Sydney, Australia. Nothing special.",2025-01-02,"Sydney, Australia",Adventure Tour,3,0.36,1,0.59,Solo Traveler,Medium
+R0205,U6001,"The best City Tour I've ever had in Rome, Italy. Will come back again!",2024-06-03,"Rome, Italy",City Tour,5,0.94,4,0.25,Budget Traveler,Medium
+R0206,U7946,"Average Adventure Tour experience in Sydney, Australia. Nothing special.",2024-08-08,"Sydney, Australia",Adventure Tour,3,0.0,2,0.09,Luxury Seeker,Medium
+R0207,U6267,"Very good Hotel in Rome, Italy. Met most of my expectations.",2025-01-05,"Rome, Italy",Hotel,4,0.64,1,0.25,Business Traveler,Medium
+R0208,U8283,"Terrible City Tour experience in Rome, Italy. Will not return.",2025-05-08,"Rome, Italy",City Tour,1,-0.87,5,0.3,Luxury Seeker,Medium
+R0209,U8968,"Terrible Adventure Tour experience in Tokyo, Japan. Will not return.",2025-03-02,"Tokyo, Japan",Adventure Tour,1,-0.7,2,0.19,Business Traveler,Low
+R0210,U2991,"Very good Adventure Tour in New York, USA. Met most of my expectations.",2024-12-10,"New York, USA",Adventure Tour,4,0.64,4,0.29,Solo Traveler,Medium
+R0211,U3212,"Enjoyed the Transport at Tokyo, Japan. Would recommend to others.",2025-01-13,"Tokyo, Japan",Transport,4,0.4,4,0.02,Luxury Seeker,Medium
+R0212,U6193,"Fantastic Hotel experience at Rome, Italy. Highly recommend!",2024-07-03,"Rome, Italy",Hotel,5,0.94,5,0.07,Business Traveler,Medium
+R0213,U9598,"Had problems with the Hotel in New York, USA. Needs improvement.",2024-12-07,"New York, USA",Hotel,2,-0.25,4,0.39,Budget Traveler,Medium
+R0214,U5562,"Avoid the City Tour at Paris, France. Very poor service.",2025-02-19,"Paris, France",City Tour,1,-0.49,1,0.13,Budget Traveler,Low
+R0215,U2830,"Not impressed with the City Tour in Sydney, Australia. Several issues encountered.",2024-11-08,"Sydney, Australia",City Tour,2,-0.38,2,0.12,Solo Traveler,Low
+R0216,U5249,"Disappointing City Tour experience at Paris, France. Would not recommend.",2025-02-17,"Paris, France",City Tour,2,-0.2,5,0.51,Budget Traveler,Medium
+R0217,U2870,"The Restaurant at Rome, Italy was okay. Could be better.",2025-02-24,"Rome, Italy",Restaurant,3,0.37,4,0.27,Solo Traveler,Medium
+R0218,U9051,"Fantastic Hotel experience at Paris, France. Highly recommend!",2024-05-25,"Paris, France",Hotel,5,0.91,5,0.96,Luxury Seeker,High
+R0219,U4980,"Decent Restaurant in Sydney, Australia, but room for improvement.",2024-07-14,"Sydney, Australia",Restaurant,3,0.31,4,0.35,Solo Traveler,Medium
+R0220,U8537,"Fantastic Restaurant experience at Rome, Italy. Highly recommend!",2024-12-30,"Rome, Italy",Restaurant,5,0.97,1,0.01,Business Traveler,Medium
+R0221,U2797,"Worst City Tour I've had in Tokyo, Japan. Completely dissatisfied.",2024-11-09,"Tokyo, Japan",City Tour,1,-0.51,3,0.52,Family Tourist,Medium
+R0222,U5957,"Enjoyed the Restaurant at New York, USA. Would recommend to others.",2024-05-28,"New York, USA",Restaurant,4,0.52,1,0.02,Family Tourist,Medium
+R0223,U5710,"The best Transport I've ever had in Rome, Italy. Will come back again!",2025-03-26,"Rome, Italy",Transport,5,0.71,2,0.94,Budget Traveler,High
+R0224,U7577,"Had problems with the Hotel in New York, USA. Needs improvement.",2024-07-04,"New York, USA",Hotel,2,-0.37,4,0.79,Budget Traveler,Medium
+R0225,U8420,"Decent Hotel in Rome, Italy, but room for improvement.",2025-05-10,"Rome, Italy",Hotel,3,-0.09,3,0.54,Solo Traveler,Medium
+R0226,U8501,"Decent City Tour in New York, USA, but room for improvement.",2024-06-19,"New York, USA",City Tour,3,0.17,3,0.55,Solo Traveler,Medium
+R0227,U2437,"Fantastic Hotel experience at Paris, France. Highly recommend!",2025-04-11,"Paris, France",Hotel,5,0.77,1,0.93,Family Tourist,High
+R0228,U4181,"Great City Tour experience in Sydney, Australia. A few minor issues but overall satisfied.",2024-09-06,"Sydney, Australia",City Tour,4,0.49,1,0.39,Family Tourist,Medium
+R0229,U1668,"Fantastic Hotel experience at Rome, Italy. Highly recommend!",2024-07-02,"Rome, Italy",Hotel,5,0.76,2,0.45,Budget Traveler,Medium
+R0230,U8235,"Disappointing Adventure Tour experience at New York, USA. Would not recommend.",2025-03-23,"New York, USA",Adventure Tour,2,-0.22,2,0.56,Budget Traveler,Medium
+R0231,U2554,"The best Adventure Tour I've ever had in Sydney, Australia. Will come back again!",2025-04-22,"Sydney, Australia",Adventure Tour,5,0.89,5,0.78,Solo Traveler,High
+R0232,U7107,"Very good Restaurant in Rome, Italy. Met most of my expectations.",2024-05-20,"Rome, Italy",Restaurant,4,0.42,5,0.09,Family Tourist,Medium
+R0233,U5982,"Not impressed with the Hotel in New York, USA. Several issues encountered.",2025-04-10,"New York, USA",Hotel,2,-0.38,4,0.89,Luxury Seeker,Medium
+R0234,U2509,"Fantastic City Tour experience at Paris, France. Highly recommend!",2024-07-21,"Paris, France",City Tour,5,0.76,3,0.89,Budget Traveler,High
+R0235,U4657,"Disappointing Adventure Tour experience at Rome, Italy. Would not recommend.",2024-05-13,"Rome, Italy",Adventure Tour,2,-0.13,3,0.84,Solo Traveler,Medium
+R0236,U8090,"Very good Restaurant in Rome, Italy. Met most of my expectations.",2024-09-06,"Rome, Italy",Restaurant,4,0.59,5,0.95,Business Traveler,High
+R0237,U2433,"Fantastic Restaurant experience at Sydney, Australia. Highly recommend!",2024-11-08,"Sydney, Australia",Restaurant,5,0.74,3,0.32,Business Traveler,Medium
+R0238,U3816,"Had problems with the Hotel in Tokyo, Japan. Needs improvement.",2024-11-22,"Tokyo, Japan",Hotel,2,-0.11,5,0.56,Solo Traveler,Medium
+R0239,U9486,"Great Adventure Tour experience in New York, USA. A few minor issues but overall satisfied.",2024-07-19,"New York, USA",Adventure Tour,4,0.5,5,0.39,Budget Traveler,Medium
+R0240,U4748,"Terrible City Tour experience in Paris, France. Will not return.",2024-10-14,"Paris, France",City Tour,1,-0.73,5,0.0,Family Tourist,Low
+R0241,U5129,"Very good Hotel in New York, USA. Met most of my expectations.",2024-05-26,"New York, USA",Hotel,4,0.68,2,0.19,Solo Traveler,Medium
+R0242,U1855,"Terrible City Tour experience in Paris, France. Will not return.",2024-12-20,"Paris, France",City Tour,1,-0.64,4,0.19,Luxury Seeker,Low
+R0243,U8517,"Great Hotel experience in Tokyo, Japan. A few minor issues but overall satisfied.",2024-11-30,"Tokyo, Japan",Hotel,4,0.51,5,0.11,Budget Traveler,Medium
+R0244,U6550,"Very good Hotel in Tokyo, Japan. Met most of my expectations.",2025-04-27,"Tokyo, Japan",Hotel,4,0.52,3,0.11,Solo Traveler,Medium
+R0245,U2058,"Terrible Adventure Tour experience in Sydney, Australia. Will not return.",2024-12-26,"Sydney, Australia",Adventure Tour,1,-0.66,5,0.35,Business Traveler,Medium
+R0246,U7263,"Worst Transport I've had in New York, USA. Completely dissatisfied.",2025-01-17,"New York, USA",Transport,1,-0.87,3,0.56,Business Traveler,Medium
+R0247,U1010,"The City Tour at Rome, Italy was okay. Could be better.",2024-06-15,"Rome, Italy",City Tour,3,0.03,3,0.52,Solo Traveler,Medium
+R0248,U9839,"Very good Adventure Tour in Rome, Italy. Met most of my expectations.",2025-03-15,"Rome, Italy",Adventure Tour,4,0.41,1,0.74,Luxury Seeker,Medium
+R0249,U8260,"Enjoyed the City Tour at Rome, Italy. Would recommend to others.",2024-07-08,"Rome, Italy",City Tour,4,0.49,2,0.14,Budget Traveler,Medium
+R0250,U8726,"Had problems with the Transport in Paris, France. Needs improvement.",2024-10-24,"Paris, France",Transport,2,-0.18,2,0.75,Family Tourist,Medium
+R0251,U2506,"Absolutely loved the Transport experience in Sydney, Australia. Exceeded all expectations!",2024-07-02,"Sydney, Australia",Transport,5,0.87,4,0.99,Budget Traveler,High
+R0252,U8103,"Absolutely loved the Adventure Tour experience in Sydney, Australia. Exceeded all expectations!",2024-06-19,"Sydney, Australia",Adventure Tour,5,0.94,1,0.03,Solo Traveler,Medium
+R0253,U1338,"Great City Tour experience in Sydney, Australia. A few minor issues but overall satisfied.",2024-10-20,"Sydney, Australia",City Tour,4,0.53,5,1.0,Luxury Seeker,High
+R0254,U7832,"Avoid the City Tour at New York, USA. Very poor service.",2024-08-06,"New York, USA",City Tour,1,-0.98,2,0.15,Family Tourist,Low
+R0255,U1651,"Worst Restaurant I've had in Sydney, Australia. Completely dissatisfied.",2024-11-10,"Sydney, Australia",Restaurant,1,-0.7,2,0.98,Family Tourist,Medium
+R0256,U3103,"Average Hotel experience in Rome, Italy. Nothing special.",2024-09-21,"Rome, Italy",Hotel,3,0.26,4,0.96,Solo Traveler,Medium
+R0257,U1554,"Very good Hotel in New York, USA. Met most of my expectations.",2024-08-30,"New York, USA",Hotel,4,0.54,2,0.58,Business Traveler,Medium
+R0258,U9694,"Not impressed with the Hotel in New York, USA. Several issues encountered.",2024-05-17,"New York, USA",Hotel,2,-0.29,3,0.53,Budget Traveler,Medium
+R0259,U9469,"Enjoyed the Hotel at Tokyo, Japan. Would recommend to others.",2024-08-21,"Tokyo, Japan",Hotel,4,0.64,3,0.08,Business Traveler,Medium
+R0260,U2680,"Very good Hotel in Tokyo, Japan. Met most of my expectations.",2024-08-28,"Tokyo, Japan",Hotel,4,0.69,4,0.41,Luxury Seeker,Medium
+R0261,U8550,"Fantastic Restaurant experience at Rome, Italy. Highly recommend!",2024-08-11,"Rome, Italy",Restaurant,5,0.83,5,0.3,Family Tourist,Medium
+R0262,U5200,"The best Hotel I've ever had in Sydney, Australia. Will come back again!",2024-11-17,"Sydney, Australia",Hotel,5,0.97,2,0.15,Luxury Seeker,Medium
+R0263,U1772,"Had problems with the City Tour in Rome, Italy. Needs improvement.",2024-08-09,"Rome, Italy",City Tour,2,-0.2,3,0.77,Family Tourist,Medium
+R0264,U6261,"Disappointing Hotel experience at Rome, Italy. Would not recommend.",2024-11-20,"Rome, Italy",Hotel,2,-0.29,5,0.62,Luxury Seeker,Medium
+R0265,U9361,"Had problems with the Adventure Tour in Sydney, Australia. Needs improvement.",2025-04-20,"Sydney, Australia",Adventure Tour,2,-0.14,1,0.31,Luxury Seeker,Medium
+R0266,U6183,"Terrible Adventure Tour experience in Sydney, Australia. Will not return.",2025-05-12,"Sydney, Australia",Adventure Tour,1,-0.91,5,0.47,Budget Traveler,Medium
+R0267,U5454,"Avoid the Hotel at Sydney, Australia. Very poor service.",2025-04-05,"Sydney, Australia",Hotel,1,-0.65,5,0.29,Solo Traveler,Low
+R0268,U1432,"Absolutely loved the Adventure Tour experience in Sydney, Australia. Exceeded all expectations!",2024-05-29,"Sydney, Australia",Adventure Tour,5,0.9,3,0.75,Luxury Seeker,High
+R0269,U5295,"Fantastic Adventure Tour experience at Sydney, Australia. Highly recommend!",2024-10-28,"Sydney, Australia",Adventure Tour,5,0.88,3,0.87,Business Traveler,High
+R0270,U3917,"Avoid the Transport at New York, USA. Very poor service.",2025-02-18,"New York, USA",Transport,1,-0.73,4,0.68,Solo Traveler,Medium
+R0271,U9958,"Terrible Restaurant experience in Rome, Italy. Will not return.",2025-02-04,"Rome, Italy",Restaurant,1,-0.9,5,0.85,Family Tourist,Medium
+R0272,U7858,"Fantastic Transport experience at Rome, Italy. Highly recommend!",2024-08-01,"Rome, Italy",Transport,5,0.82,3,0.32,Budget Traveler,Medium
+R0273,U4620,"Avoid the Hotel at Tokyo, Japan. Very poor service.",2024-08-12,"Tokyo, Japan",Hotel,1,-0.96,5,0.52,Family Tourist,Medium
+R0274,U9374,"Avoid the Hotel at Sydney, Australia. Very poor service.",2025-01-19,"Sydney, Australia",Hotel,1,-0.94,5,0.8,Family Tourist,Medium
+R0275,U9251,"Had problems with the Restaurant in Rome, Italy. Needs improvement.",2024-08-29,"Rome, Italy",Restaurant,2,-0.11,5,0.88,Budget Traveler,Medium
+R0276,U8951,"Had problems with the Adventure Tour in Rome, Italy. Needs improvement.",2024-06-27,"Rome, Italy",Adventure Tour,2,-0.14,4,0.82,Luxury Seeker,Medium
+R0277,U1645,"Average Adventure Tour experience in New York, USA. Nothing special.",2024-06-02,"New York, USA",Adventure Tour,3,0.18,5,0.8,Budget Traveler,Medium
+R0278,U6836,"Decent Restaurant in New York, USA, but room for improvement.",2024-10-13,"New York, USA",Restaurant,3,-0.04,3,0.0,Luxury Seeker,Medium
+R0279,U3131,"Disappointing Adventure Tour experience at New York, USA. Would not recommend.",2025-05-03,"New York, USA",Adventure Tour,2,-0.22,1,0.75,Budget Traveler,Medium
+R0280,U5172,"Worst City Tour I've had in Sydney, Australia. Completely dissatisfied.",2024-10-07,"Sydney, Australia",City Tour,1,-0.64,4,0.94,Business Traveler,Medium
+R0281,U9398,"Average Restaurant experience in New York, USA. Nothing special.",2024-12-18,"New York, USA",Restaurant,3,0.26,4,0.05,Family Tourist,Medium
+R0282,U7704,"The best Transport I've ever had in New York, USA. Will come back again!",2024-09-09,"New York, USA",Transport,5,0.8,2,0.91,Family Tourist,High
+R0283,U8743,"Absolutely loved the Adventure Tour experience in Sydney, Australia. Exceeded all expectations!",2024-09-30,"Sydney, Australia",Adventure Tour,5,0.73,1,0.08,Budget Traveler,Medium
+R0284,U8939,"Terrible City Tour experience in New York, USA. Will not return.",2024-06-04,"New York, USA",City Tour,1,-0.82,4,0.61,Family Tourist,Medium
+R0285,U5825,"Great City Tour experience in Paris, France. A few minor issues but overall satisfied.",2024-10-08,"Paris, France",City Tour,4,0.58,4,0.19,Luxury Seeker,Medium
+R0286,U6293,"Disappointing Restaurant experience at New York, USA. Would not recommend.",2024-08-17,"New York, USA",Restaurant,2,-0.27,5,0.89,Family Tourist,Medium
+R0287,U2324,"Disappointing Restaurant experience at Tokyo, Japan. Would not recommend.",2024-11-29,"Tokyo, Japan",Restaurant,2,-0.38,1,0.66,Budget Traveler,Medium
+R0288,U1463,"Terrible Transport experience in Rome, Italy. Will not return.",2025-04-19,"Rome, Italy",Transport,1,-0.89,5,0.57,Family Tourist,Medium
+R0289,U7891,"Absolutely loved the Hotel experience in Paris, France. Exceeded all expectations!",2024-10-16,"Paris, France",Hotel,5,0.85,3,0.03,Budget Traveler,Medium
+R0290,U5251,"Had problems with the Restaurant in New York, USA. Needs improvement.",2025-03-21,"New York, USA",Restaurant,2,-0.11,1,0.03,Luxury Seeker,Low
+R0291,U3059,"Terrible Adventure Tour experience in Paris, France. Will not return.",2025-02-04,"Paris, France",Adventure Tour,1,-0.9,1,0.4,Business Traveler,Medium
+R0292,U6091,"Disappointing Transport experience at Tokyo, Japan. Would not recommend.",2024-06-10,"Tokyo, Japan",Transport,2,-0.37,3,0.94,Business Traveler,Medium
+R0293,U2859,"Had problems with the Adventure Tour in Tokyo, Japan. Needs improvement.",2024-11-06,"Tokyo, Japan",Adventure Tour,2,-0.37,2,0.98,Luxury Seeker,Medium
+R0294,U7826,"Worst Hotel I've had in Sydney, Australia. Completely dissatisfied.",2024-12-30,"Sydney, Australia",Hotel,1,-0.58,5,0.22,Luxury Seeker,Low
+R0295,U6330,"The best Adventure Tour I've ever had in Paris, France. Will come back again!",2025-04-12,"Paris, France",Adventure Tour,5,0.91,5,0.68,Business Traveler,Medium
+R0296,U1831,"Fantastic City Tour experience at Sydney, Australia. Highly recommend!",2024-09-24,"Sydney, Australia",City Tour,5,0.82,2,0.61,Family Tourist,Medium
+R0297,U8960,"Absolutely loved the Restaurant experience in Paris, France. Exceeded all expectations!",2024-08-22,"Paris, France",Restaurant,5,0.76,5,0.56,Business Traveler,Medium
+R0298,U2213,"Worst Transport I've had in Rome, Italy. Completely dissatisfied.",2024-07-14,"Rome, Italy",Transport,1,-0.98,1,0.99,Budget Traveler,Medium
+R0299,U9739,"Decent City Tour in New York, USA, but room for improvement.",2024-08-02,"New York, USA",City Tour,3,-0.0,3,0.44,Luxury Seeker,Medium
+R0300,U7476,"Worst Transport I've had in Paris, France. Completely dissatisfied.",2024-07-20,"Paris, France",Transport,1,-0.62,4,0.89,Budget Traveler,Medium
+R0301,U4671,"The best Hotel I've ever had in Paris, France. Will come back again!",2025-04-06,"Paris, France",Hotel,5,0.91,2,0.09,Budget Traveler,Medium
+R0302,U2308,"Terrible City Tour experience in Paris, France. Will not return.",2024-08-31,"Paris, France",City Tour,1,-0.47,5,0.19,Business Traveler,Low
+R0303,U5418,"Had problems with the Hotel in New York, USA. Needs improvement.",2024-08-11,"New York, USA",Hotel,2,-0.3,3,0.39,Luxury Seeker,Medium
+R0304,U3066,"Enjoyed the Hotel at Paris, France. Would recommend to others.",2024-10-26,"Paris, France",Hotel,4,0.61,5,0.86,Budget Traveler,High
+R0305,U8293,"Decent Adventure Tour in Paris, France, but room for improvement.",2025-02-22,"Paris, France",Adventure Tour,3,0.32,3,0.62,Solo Traveler,Medium
+R0306,U5696,"Terrible Restaurant experience in Sydney, Australia. Will not return.",2024-08-28,"Sydney, Australia",Restaurant,1,-0.53,5,0.14,Business Traveler,Low
+R0307,U8896,"Fantastic City Tour experience at Sydney, Australia. Highly recommend!",2024-12-26,"Sydney, Australia",City Tour,5,0.73,1,0.67,Solo Traveler,Medium
+R0308,U3143,"Fantastic Restaurant experience at Paris, France. Highly recommend!",2024-12-29,"Paris, France",Restaurant,5,0.78,4,0.2,Family Tourist,Medium
+R0309,U7280,"Disappointing Adventure Tour experience at Rome, Italy. Would not recommend.",2025-04-02,"Rome, Italy",Adventure Tour,2,-0.3,4,0.46,Solo Traveler,Medium
+R0310,U8521,"Terrible Transport experience in Tokyo, Japan. Will not return.",2025-02-25,"Tokyo, Japan",Transport,1,-0.41,1,0.57,Solo Traveler,Medium
+R0311,U5643,"Avoid the Transport at Rome, Italy. Very poor service.",2024-10-30,"Rome, Italy",Transport,1,-0.76,5,0.92,Business Traveler,Medium
+R0312,U7487,"Enjoyed the Restaurant at Tokyo, Japan. Would recommend to others.",2025-04-28,"Tokyo, Japan",Restaurant,4,0.61,1,0.79,Family Tourist,High
+R0313,U5023,"Fantastic Transport experience at Tokyo, Japan. Highly recommend!",2025-02-11,"Tokyo, Japan",Transport,5,0.73,4,0.45,Family Tourist,Medium
+R0314,U3226,"Decent Hotel in Tokyo, Japan, but room for improvement.",2024-08-03,"Tokyo, Japan",Hotel,3,0.31,2,0.64,Luxury Seeker,Medium
+R0315,U7207,"Disappointing Adventure Tour experience at Sydney, Australia. Would not recommend.",2025-01-25,"Sydney, Australia",Adventure Tour,2,-0.11,1,0.62,Solo Traveler,Medium
+R0316,U7391,"Disappointing City Tour experience at New York, USA. Would not recommend.",2024-07-23,"New York, USA",City Tour,2,-0.2,4,0.21,Budget Traveler,Low
+R0317,U3035,"Avoid the City Tour at New York, USA. Very poor service.",2024-11-03,"New York, USA",City Tour,1,-0.44,1,0.42,Budget Traveler,Medium
+R0318,U3075,"Disappointing Transport experience at Sydney, Australia. Would not recommend.",2024-08-16,"Sydney, Australia",Transport,2,-0.32,5,0.55,Business Traveler,Medium
+R0319,U1157,"Had problems with the Adventure Tour in New York, USA. Needs improvement.",2024-12-13,"New York, USA",Adventure Tour,2,-0.33,3,0.49,Budget Traveler,Medium
+R0320,U4147,"Terrible Hotel experience in Tokyo, Japan. Will not return.",2024-08-21,"Tokyo, Japan",Hotel,1,-0.56,3,0.38,Solo Traveler,Medium
+R0321,U5036,"Absolutely loved the Restaurant experience in New York, USA. Exceeded all expectations!",2024-07-24,"New York, USA",Restaurant,5,0.94,1,0.23,Luxury Seeker,Medium
+R0322,U6993,"Had problems with the Restaurant in Rome, Italy. Needs improvement.",2024-10-15,"Rome, Italy",Restaurant,2,-0.39,5,0.99,Family Tourist,Medium
+R0323,U1748,"Very good City Tour in Sydney, Australia. Met most of my expectations.",2024-06-12,"Sydney, Australia",City Tour,4,0.46,3,0.23,Solo Traveler,Medium
+R0324,U9580,"Terrible Hotel experience in Tokyo, Japan. Will not return.",2024-07-29,"Tokyo, Japan",Hotel,1,-0.83,1,0.64,Solo Traveler,Medium
+R0325,U2502,"Absolutely loved the City Tour experience in New York, USA. Exceeded all expectations!",2024-10-21,"New York, USA",City Tour,5,0.7,5,0.17,Business Traveler,Medium
+R0326,U7163,"Decent City Tour in Paris, France, but room for improvement.",2025-05-09,"Paris, France",City Tour,3,-0.01,4,0.04,Business Traveler,Medium
+R0327,U7489,"Very good Adventure Tour in Paris, France. Met most of my expectations.",2025-04-27,"Paris, France",Adventure Tour,4,0.6,3,0.6,Budget Traveler,Medium
+R0328,U2696,"Fantastic Hotel experience at Tokyo, Japan. Highly recommend!",2024-06-15,"Tokyo, Japan",Hotel,5,0.95,2,0.04,Luxury Seeker,Medium
+R0329,U7672,"Worst Adventure Tour I've had in Rome, Italy. Completely dissatisfied.",2024-08-27,"Rome, Italy",Adventure Tour,1,-0.71,5,0.42,Luxury Seeker,Medium
+R0330,U6146,"Great Adventure Tour experience in Paris, France. A few minor issues but overall satisfied.",2024-11-02,"Paris, France",Adventure Tour,4,0.7,1,0.96,Family Tourist,High
+R0331,U6736,"Fantastic Adventure Tour experience at Paris, France. Highly recommend!",2024-08-25,"Paris, France",Adventure Tour,5,0.77,3,0.41,Luxury Seeker,Medium
+R0332,U3828,"Absolutely loved the Adventure Tour experience in Tokyo, Japan. Exceeded all expectations!",2024-11-10,"Tokyo, Japan",Adventure Tour,5,0.85,3,0.18,Budget Traveler,Medium
+R0333,U1818,"Absolutely loved the Transport experience in New York, USA. Exceeded all expectations!",2025-05-05,"New York, USA",Transport,5,0.74,2,0.03,Budget Traveler,Medium
+R0334,U6725,"Decent Transport in Rome, Italy, but room for improvement.",2024-12-27,"Rome, Italy",Transport,3,0.19,4,0.87,Luxury Seeker,Medium
+R0335,U2741,"Fantastic Restaurant experience at Tokyo, Japan. Highly recommend!",2024-06-01,"Tokyo, Japan",Restaurant,5,0.88,2,0.03,Luxury Seeker,Medium
+R0336,U9828,"Enjoyed the Restaurant at Sydney, Australia. Would recommend to others.",2025-04-05,"Sydney, Australia",Restaurant,4,0.45,3,0.45,Family Tourist,Medium
+R0337,U9975,"Decent Restaurant in Paris, France, but room for improvement.",2024-12-22,"Paris, France",Restaurant,3,-0.07,5,0.1,Solo Traveler,Medium
+R0338,U5592,"Average City Tour experience in New York, USA. Nothing special.",2024-06-14,"New York, USA",City Tour,3,0.27,3,0.82,Business Traveler,Medium
+R0339,U2934,"Disappointing Transport experience at Sydney, Australia. Would not recommend.",2024-07-11,"Sydney, Australia",Transport,2,-0.17,4,0.43,Family Tourist,Medium
+R0340,U3845,"Had problems with the Hotel in Sydney, Australia. Needs improvement.",2025-04-09,"Sydney, Australia",Hotel,2,-0.39,4,0.15,Solo Traveler,Low
+R0341,U9358,"Terrible Transport experience in Sydney, Australia. Will not return.",2025-04-09,"Sydney, Australia",Transport,1,-0.73,2,0.75,Luxury Seeker,Medium
+R0342,U7349,"Not impressed with the Transport in Sydney, Australia. Several issues encountered.",2025-02-17,"Sydney, Australia",Transport,2,-0.23,1,0.74,Business Traveler,Medium
+R0343,U8731,"Disappointing Restaurant experience at Tokyo, Japan. Would not recommend.",2024-11-14,"Tokyo, Japan",Restaurant,2,-0.31,1,0.41,Budget Traveler,Medium
+R0344,U5531,"Terrible Adventure Tour experience in Sydney, Australia. Will not return.",2025-04-21,"Sydney, Australia",Adventure Tour,1,-0.77,5,0.16,Luxury Seeker,Low
+R0345,U6623,"Disappointing Adventure Tour experience at Rome, Italy. Would not recommend.",2025-01-12,"Rome, Italy",Adventure Tour,2,-0.11,3,0.95,Budget Traveler,Medium
+R0346,U9239,"The best Hotel I've ever had in Paris, France. Will come back again!",2024-06-13,"Paris, France",Hotel,5,0.93,5,0.31,Solo Traveler,Medium
+R0347,U4263,"Absolutely loved the Transport experience in Sydney, Australia. Exceeded all expectations!",2024-11-23,"Sydney, Australia",Transport,5,0.92,3,0.6,Solo Traveler,Medium
+R0348,U9536,"Fantastic Adventure Tour experience at Tokyo, Japan. Highly recommend!",2024-09-15,"Tokyo, Japan",Adventure Tour,5,0.91,5,0.37,Luxury Seeker,Medium
+R0349,U5726,"Had problems with the Transport in Rome, Italy. Needs improvement.",2025-01-12,"Rome, Italy",Transport,2,-0.15,2,0.09,Luxury Seeker,Low
+R0350,U2273,"Decent Hotel in Paris, France, but room for improvement.",2024-11-18,"Paris, France",Hotel,3,0.16,3,0.91,Family Tourist,Medium
+R0351,U8802,"Not impressed with the Transport in New York, USA. Several issues encountered.",2024-11-14,"New York, USA",Transport,2,-0.11,3,0.66,Luxury Seeker,Medium
+R0352,U9831,"Decent Adventure Tour in Rome, Italy, but room for improvement.",2025-02-03,"Rome, Italy",Adventure Tour,3,0.13,2,0.84,Solo Traveler,Medium
+R0353,U2489,"Worst Restaurant I've had in Sydney, Australia. Completely dissatisfied.",2025-01-18,"Sydney, Australia",Restaurant,1,-0.82,1,0.27,Family Tourist,Low
+R0354,U5465,"Worst City Tour I've had in Rome, Italy. Completely dissatisfied.",2024-08-21,"Rome, Italy",City Tour,1,-0.77,4,0.94,Budget Traveler,Medium
+R0355,U8102,"Fantastic City Tour experience at Tokyo, Japan. Highly recommend!",2024-11-23,"Tokyo, Japan",City Tour,5,0.8,4,0.43,Budget Traveler,Medium
+R0356,U1451,"Average Adventure Tour experience in Paris, France. Nothing special.",2024-12-27,"Paris, France",Adventure Tour,3,0.04,4,0.09,Family Tourist,Medium
+R0357,U4568,"Absolutely loved the City Tour experience in Sydney, Australia. Exceeded all expectations!",2024-05-15,"Sydney, Australia",City Tour,5,0.91,2,0.21,Family Tourist,Medium
+R0358,U4419,"Had problems with the City Tour in Rome, Italy. Needs improvement.",2024-12-16,"Rome, Italy",City Tour,2,-0.12,1,0.38,Solo Traveler,Medium
+R0359,U8832,"Fantastic Adventure Tour experience at Sydney, Australia. Highly recommend!",2024-09-02,"Sydney, Australia",Adventure Tour,5,0.99,4,0.69,Budget Traveler,Medium
+R0360,U5691,"Average City Tour experience in Rome, Italy. Nothing special.",2025-02-28,"Rome, Italy",City Tour,3,0.36,3,0.1,Business Traveler,Medium
+R0361,U3874,"Not impressed with the Adventure Tour in Tokyo, Japan. Several issues encountered.",2025-03-13,"Tokyo, Japan",Adventure Tour,2,-0.1,5,0.3,Luxury Seeker,Medium
+R0362,U4236,"Terrible Transport experience in Sydney, Australia. Will not return.",2025-01-26,"Sydney, Australia",Transport,1,-0.72,1,0.62,Family Tourist,Medium
+R0363,U9225,"Fantastic Adventure Tour experience at Rome, Italy. Highly recommend!",2024-12-23,"Rome, Italy",Adventure Tour,5,0.8,3,0.91,Luxury Seeker,High
+R0364,U9991,"Average City Tour experience in Sydney, Australia. Nothing special.",2025-02-10,"Sydney, Australia",City Tour,3,0.39,2,0.78,Solo Traveler,Medium
+R0365,U9159,"The best City Tour I've ever had in Rome, Italy. Will come back again!",2025-01-03,"Rome, Italy",City Tour,5,0.83,4,0.29,Luxury Seeker,Medium
+R0366,U3454,"The Restaurant at Sydney, Australia was okay. Could be better.",2025-03-13,"Sydney, Australia",Restaurant,3,0.39,3,0.32,Solo Traveler,Medium
+R0367,U6532,"Absolutely loved the Adventure Tour experience in Sydney, Australia. Exceeded all expectations!",2025-04-28,"Sydney, Australia",Adventure Tour,5,0.91,1,0.01,Family Tourist,Medium
+R0368,U4692,"Very good Hotel in Paris, France. Met most of my expectations.",2024-06-09,"Paris, France",Hotel,4,0.67,1,0.12,Business Traveler,Medium
+R0369,U4438,"The best Transport I've ever had in Tokyo, Japan. Will come back again!",2025-03-19,"Tokyo, Japan",Transport,5,0.86,1,0.93,Luxury Seeker,High
+R0370,U2040,"Terrible Adventure Tour experience in Rome, Italy. Will not return.",2025-01-20,"Rome, Italy",Adventure Tour,1,-0.94,1,0.46,Luxury Seeker,Medium
+R0371,U4189,"Terrible Adventure Tour experience in New York, USA. Will not return.",2024-12-04,"New York, USA",Adventure Tour,1,-0.82,3,0.92,Business Traveler,Medium
+R0372,U7715,"Disappointing Hotel experience at Sydney, Australia. Would not recommend.",2025-04-17,"Sydney, Australia",Hotel,2,-0.36,4,0.27,Family Tourist,Low
+R0373,U1716,"Had problems with the Hotel in Sydney, Australia. Needs improvement.",2024-09-16,"Sydney, Australia",Hotel,2,-0.18,4,0.69,Family Tourist,Medium
+R0374,U4451,"Absolutely loved the City Tour experience in Tokyo, Japan. Exceeded all expectations!",2025-04-28,"Tokyo, Japan",City Tour,5,0.88,1,0.36,Solo Traveler,Medium
+R0375,U3666,"Very good Hotel in Rome, Italy. Met most of my expectations.",2024-11-17,"Rome, Italy",Hotel,4,0.6,1,0.0,Solo Traveler,Medium
+R0376,U1606,"Absolutely loved the Transport experience in Sydney, Australia. Exceeded all expectations!",2024-12-25,"Sydney, Australia",Transport,5,0.82,1,0.54,Family Tourist,Medium
+R0377,U6599,"Had problems with the Adventure Tour in Paris, France. Needs improvement.",2024-10-19,"Paris, France",Adventure Tour,2,-0.15,3,0.84,Budget Traveler,Medium
+R0378,U2431,"Enjoyed the Transport at New York, USA. Would recommend to others.",2024-08-17,"New York, USA",Transport,4,0.57,3,0.18,Budget Traveler,Medium
+R0379,U6612,"The best Adventure Tour I've ever had in Rome, Italy. Will come back again!",2025-02-15,"Rome, Italy",Adventure Tour,5,0.89,1,0.49,Luxury Seeker,Medium
+R0380,U5489,"Decent City Tour in New York, USA, but room for improvement.",2024-07-10,"New York, USA",City Tour,3,0.22,1,0.09,Solo Traveler,Medium
+R0381,U6182,"Great Adventure Tour experience in New York, USA. A few minor issues but overall satisfied.",2025-03-28,"New York, USA",Adventure Tour,4,0.41,4,0.06,Family Tourist,Medium
+R0382,U2416,"The City Tour at Sydney, Australia was okay. Could be better.",2024-08-04,"Sydney, Australia",City Tour,3,-0.05,4,0.58,Family Tourist,Medium
+R0383,U6066,"Very good City Tour in New York, USA. Met most of my expectations.",2024-05-20,"New York, USA",City Tour,4,0.47,2,0.96,Solo Traveler,Medium
+R0384,U7445,"Enjoyed the Restaurant at New York, USA. Would recommend to others.",2025-01-05,"New York, USA",Restaurant,4,0.5,1,0.28,Budget Traveler,Medium
+R0385,U2106,"Not impressed with the Transport in Tokyo, Japan. Several issues encountered.",2024-11-07,"Tokyo, Japan",Transport,2,-0.28,5,0.45,Business Traveler,Medium
+R0386,U4016,"Disappointing Hotel experience at New York, USA. Would not recommend.",2024-08-17,"New York, USA",Hotel,2,-0.18,3,0.3,Business Traveler,Medium
+R0387,U9370,"Disappointing Transport experience at Rome, Italy. Would not recommend.",2024-05-14,"Rome, Italy",Transport,2,-0.4,1,0.64,Family Tourist,Medium
+R0388,U8273,"The best Transport I've ever had in Rome, Italy. Will come back again!",2025-04-11,"Rome, Italy",Transport,5,0.92,1,0.62,Family Tourist,Medium
+R0389,U5526,"Decent Adventure Tour in Tokyo, Japan, but room for improvement.",2024-12-08,"Tokyo, Japan",Adventure Tour,3,0.16,3,0.68,Family Tourist,Medium
+R0390,U2992,"Very good Adventure Tour in Tokyo, Japan. Met most of my expectations.",2025-05-08,"Tokyo, Japan",Adventure Tour,4,0.61,4,0.62,Business Traveler,Medium
+R0391,U1714,"Worst Adventure Tour I've had in New York, USA. Completely dissatisfied.",2025-04-27,"New York, USA",Adventure Tour,1,-0.98,3,0.49,Family Tourist,Medium
+R0392,U6441,"Terrible City Tour experience in Rome, Italy. Will not return.",2024-09-28,"Rome, Italy",City Tour,1,-0.71,2,0.46,Luxury Seeker,Medium
+R0393,U8388,"Very good Transport in Tokyo, Japan. Met most of my expectations.",2024-06-21,"Tokyo, Japan",Transport,4,0.52,3,0.68,Family Tourist,Medium
+R0394,U2472,"Decent Adventure Tour in Rome, Italy, but room for improvement.",2024-12-20,"Rome, Italy",Adventure Tour,3,-0.09,5,0.95,Solo Traveler,Medium
+R0395,U3351,"Terrible City Tour experience in Paris, France. Will not return.",2025-01-04,"Paris, France",City Tour,1,-0.5,2,0.04,Budget Traveler,Low
+R0396,U2357,"Average City Tour experience in New York, USA. Nothing special.",2025-04-09,"New York, USA",City Tour,3,-0.0,4,0.16,Solo Traveler,Medium
+R0397,U4075,"Not impressed with the Transport in Tokyo, Japan. Several issues encountered.",2024-10-30,"Tokyo, Japan",Transport,2,-0.3,4,0.37,Budget Traveler,Medium
+R0398,U8865,"Worst Transport I've had in Sydney, Australia. Completely dissatisfied.",2025-02-14,"Sydney, Australia",Transport,1,-0.42,1,0.7,Solo Traveler,Medium
+R0399,U5668,"Avoid the Hotel at Tokyo, Japan. Very poor service.",2024-09-20,"Tokyo, Japan",Hotel,1,-0.6,1,0.4,Solo Traveler,Medium
+R0400,U1270,"Had problems with the Restaurant in Paris, France. Needs improvement.",2024-07-12,"Paris, France",Restaurant,2,-0.15,2,0.57,Family Tourist,Medium
+R0401,U3459,"Decent Restaurant in Sydney, Australia, but room for improvement.",2024-10-24,"Sydney, Australia",Restaurant,3,0.28,2,0.61,Family Tourist,Medium
+R0402,U1938,"The best Adventure Tour I've ever had in New York, USA. Will come back again!",2024-09-23,"New York, USA",Adventure Tour,5,0.99,2,0.69,Business Traveler,Medium
+R0403,U9317,"Worst Hotel I've had in New York, USA. Completely dissatisfied.",2025-02-05,"New York, USA",Hotel,1,-0.64,4,0.84,Luxury Seeker,Medium
+R0404,U3317,"Absolutely loved the Hotel experience in Sydney, Australia. Exceeded all expectations!",2024-11-03,"Sydney, Australia",Hotel,5,0.73,2,0.03,Budget Traveler,Medium
+R0405,U1722,"The Transport at Rome, Italy was okay. Could be better.",2024-07-03,"Rome, Italy",Transport,3,0.34,2,0.2,Solo Traveler,Medium
+R0406,U8702,"Great Hotel experience in Rome, Italy. A few minor issues but overall satisfied.",2024-11-30,"Rome, Italy",Hotel,4,0.51,3,0.07,Business Traveler,Medium
+R0407,U9722,"Not impressed with the City Tour in Tokyo, Japan. Several issues encountered.",2025-01-05,"Tokyo, Japan",City Tour,2,-0.14,1,0.99,Business Traveler,Medium
+R0408,U6678,"Enjoyed the Restaurant at New York, USA. Would recommend to others.",2024-08-25,"New York, USA",Restaurant,4,0.66,4,0.83,Luxury Seeker,High
+R0409,U1800,"Had problems with the Transport in Rome, Italy. Needs improvement.",2025-02-25,"Rome, Italy",Transport,2,-0.29,1,0.4,Business Traveler,Medium
+R0410,U7520,"Worst Adventure Tour I've had in Tokyo, Japan. Completely dissatisfied.",2025-02-06,"Tokyo, Japan",Adventure Tour,1,-0.45,4,0.25,Family Tourist,Low
+R0411,U4649,"Great Hotel experience in Sydney, Australia. A few minor issues but overall satisfied.",2024-11-18,"Sydney, Australia",Hotel,4,0.52,4,0.35,Business Traveler,Medium
+R0412,U9366,"Average Restaurant experience in New York, USA. Nothing special.",2024-09-10,"New York, USA",Restaurant,3,0.32,4,0.33,Family Tourist,Medium
+R0413,U3806,"Terrible Hotel experience in New York, USA. Will not return.",2024-08-08,"New York, USA",Hotel,1,-0.73,4,0.19,Business Traveler,Low
+R0414,U2160,"Fantastic City Tour experience at Rome, Italy. Highly recommend!",2025-03-31,"Rome, Italy",City Tour,5,0.86,5,0.73,Business Traveler,High
+R0415,U3774,"Very good Hotel in Rome, Italy. Met most of my expectations.",2025-01-27,"Rome, Italy",Hotel,4,0.69,2,0.81,Luxury Seeker,High
+R0416,U1809,"Enjoyed the Hotel at Tokyo, Japan. Would recommend to others.",2024-08-21,"Tokyo, Japan",Hotel,4,0.63,4,0.88,Solo Traveler,High
+R0417,U1272,"Worst Restaurant I've had in New York, USA. Completely dissatisfied.",2024-07-09,"New York, USA",Restaurant,1,-0.74,2,0.32,Family Tourist,Medium
+R0418,U5913,"Had problems with the Restaurant in Sydney, Australia. Needs improvement.",2024-08-16,"Sydney, Australia",Restaurant,2,-0.38,5,0.95,Budget Traveler,Medium
+R0419,U7289,"The City Tour at Sydney, Australia was okay. Could be better.",2024-05-17,"Sydney, Australia",City Tour,3,0.19,3,0.21,Luxury Seeker,Medium
+R0420,U3111,"Had problems with the Hotel in Paris, France. Needs improvement.",2024-10-03,"Paris, France",Hotel,2,-0.25,3,0.51,Solo Traveler,Medium
+R0421,U9990,"Decent Transport in Sydney, Australia, but room for improvement.",2024-10-04,"Sydney, Australia",Transport,3,0.24,2,0.52,Luxury Seeker,Medium
+R0422,U3310,"Great Transport experience in Tokyo, Japan. A few minor issues but overall satisfied.",2024-11-06,"Tokyo, Japan",Transport,4,0.62,4,0.56,Business Traveler,Medium
+R0423,U4466,"Very good City Tour in Sydney, Australia. Met most of my expectations.",2024-06-12,"Sydney, Australia",City Tour,4,0.6,4,0.19,Family Tourist,Medium
+R0424,U8422,"The Restaurant at Sydney, Australia was okay. Could be better.",2024-07-10,"Sydney, Australia",Restaurant,3,0.4,2,0.2,Budget Traveler,Medium
+R0425,U5734,"The best Transport I've ever had in Sydney, Australia. Will come back again!",2024-10-25,"Sydney, Australia",Transport,5,0.86,4,0.8,Solo Traveler,High
+R0426,U6813,"Worst Adventure Tour I've had in New York, USA. Completely dissatisfied.",2024-08-14,"New York, USA",Adventure Tour,1,-0.83,3,0.99,Luxury Seeker,Medium
+R0427,U2536,"Enjoyed the Restaurant at Paris, France. Would recommend to others.",2025-02-03,"Paris, France",Restaurant,4,0.54,5,0.47,Business Traveler,Medium
+R0428,U8247,"Worst Transport I've had in Rome, Italy. Completely dissatisfied.",2024-09-26,"Rome, Italy",Transport,1,-0.45,1,0.63,Luxury Seeker,Medium
+R0429,U5911,"Great Transport experience in New York, USA. A few minor issues but overall satisfied.",2024-06-03,"New York, USA",Transport,4,0.52,1,0.32,Luxury Seeker,Medium
+R0430,U8369,"Avoid the Restaurant at New York, USA. Very poor service.",2025-04-15,"New York, USA",Restaurant,1,-0.59,4,0.25,Family Tourist,Low
+R0431,U6462,"Enjoyed the Hotel at Rome, Italy. Would recommend to others.",2025-02-16,"Rome, Italy",Hotel,4,0.62,3,0.35,Luxury Seeker,Medium
+R0432,U8378,"Great City Tour experience in New York, USA. A few minor issues but overall satisfied.",2024-10-21,"New York, USA",City Tour,4,0.63,4,0.4,Business Traveler,Medium
+R0433,U7988,"Enjoyed the Transport at Paris, France. Would recommend to others.",2024-09-07,"Paris, France",Transport,4,0.66,2,0.79,Luxury Seeker,High
+R0434,U2179,"Fantastic City Tour experience at Sydney, Australia. Highly recommend!",2024-11-28,"Sydney, Australia",City Tour,5,0.79,3,0.76,Solo Traveler,High
+R0435,U9267,"Avoid the Hotel at Rome, Italy. Very poor service.",2024-07-14,"Rome, Italy",Hotel,1,-0.77,1,0.56,Luxury Seeker,Medium
+R0436,U2559,"The Adventure Tour at Tokyo, Japan was okay. Could be better.",2024-06-07,"Tokyo, Japan",Adventure Tour,3,0.13,2,0.93,Family Tourist,Medium
+R0437,U2943,"Avoid the Transport at New York, USA. Very poor service.",2025-04-13,"New York, USA",Transport,1,-0.97,1,0.77,Family Tourist,Medium
+R0438,U1268,"Not impressed with the Restaurant in Sydney, Australia. Several issues encountered.",2025-02-24,"Sydney, Australia",Restaurant,2,-0.2,3,0.97,Business Traveler,Medium
+R0439,U8379,"Average Transport experience in Tokyo, Japan. Nothing special.",2025-02-09,"Tokyo, Japan",Transport,3,0.35,3,0.54,Budget Traveler,Medium
+R0440,U7136,"Disappointing Restaurant experience at Rome, Italy. Would not recommend.",2024-10-13,"Rome, Italy",Restaurant,2,-0.14,3,0.53,Luxury Seeker,Medium
+R0441,U4359,"Had problems with the Restaurant in Rome, Italy. Needs improvement.",2024-08-07,"Rome, Italy",Restaurant,2,-0.24,4,0.47,Family Tourist,Medium
+R0442,U8225,"Worst Restaurant I've had in Rome, Italy. Completely dissatisfied.",2024-11-15,"Rome, Italy",Restaurant,1,-0.85,4,0.07,Family Tourist,Low
+R0443,U2085,"Very good Hotel in Paris, France. Met most of my expectations.",2025-01-06,"Paris, France",Hotel,4,0.64,2,0.96,Solo Traveler,High
+R0444,U7311,"Absolutely loved the Restaurant experience in New York, USA. Exceeded all expectations!",2024-09-05,"New York, USA",Restaurant,5,0.87,4,0.46,Budget Traveler,Medium
+R0445,U2515,"Very good Transport in Tokyo, Japan. Met most of my expectations.",2024-08-15,"Tokyo, Japan",Transport,4,0.57,1,0.78,Business Traveler,High
+R0446,U7531,"Fantastic Transport experience at Sydney, Australia. Highly recommend!",2024-06-01,"Sydney, Australia",Transport,5,0.86,4,0.65,Luxury Seeker,Medium
+R0447,U4320,"Absolutely loved the Restaurant experience in New York, USA. Exceeded all expectations!",2024-06-28,"New York, USA",Restaurant,5,0.82,3,0.04,Budget Traveler,Medium
+R0448,U8520,"Worst Adventure Tour I've had in New York, USA. Completely dissatisfied.",2024-10-14,"New York, USA",Adventure Tour,1,-0.68,5,0.25,Budget Traveler,Low
+R0449,U5144,"Absolutely loved the Transport experience in New York, USA. Exceeded all expectations!",2024-06-07,"New York, USA",Transport,5,0.75,4,0.7,Business Traveler,Medium
+R0450,U8366,"Average City Tour experience in Sydney, Australia. Nothing special.",2025-03-07,"Sydney, Australia",City Tour,3,0.38,4,0.32,Business Traveler,Medium
+R0451,U3505,"Fantastic Hotel experience at Tokyo, Japan. Highly recommend!",2025-01-14,"Tokyo, Japan",Hotel,5,0.86,3,0.91,Luxury Seeker,High
+R0452,U9485,"Absolutely loved the Hotel experience in Paris, France. Exceeded all expectations!",2025-03-29,"Paris, France",Hotel,5,0.9,4,0.33,Budget Traveler,Medium
+R0453,U5487,"Decent City Tour in Paris, France, but room for improvement.",2025-01-20,"Paris, France",City Tour,3,0.17,5,0.02,Solo Traveler,Medium
+R0454,U4103,"Average Restaurant experience in Paris, France. Nothing special.",2025-04-13,"Paris, France",Restaurant,3,0.08,4,0.78,Luxury Seeker,Medium
+R0455,U7278,"The City Tour at Rome, Italy was okay. Could be better.",2024-06-06,"Rome, Italy",City Tour,3,0.17,2,0.41,Luxury Seeker,Medium
+R0456,U3425,"The City Tour at New York, USA was okay. Could be better.",2024-07-12,"New York, USA",City Tour,3,0.39,2,0.96,Solo Traveler,Medium
+R0457,U4433,"Terrible Restaurant experience in Rome, Italy. Will not return.",2024-09-15,"Rome, Italy",Restaurant,1,-0.45,5,0.45,Family Tourist,Medium
+R0458,U1445,"Average Hotel experience in Paris, France. Nothing special.",2025-03-19,"Paris, France",Hotel,3,0.18,4,0.26,Solo Traveler,Medium
+R0459,U3488,"Avoid the Hotel at Tokyo, Japan. Very poor service.",2025-03-11,"Tokyo, Japan",Hotel,1,-0.8,4,0.56,Luxury Seeker,Medium
+R0460,U2275,"Great Transport experience in New York, USA. A few minor issues but overall satisfied.",2025-01-13,"New York, USA",Transport,4,0.5,2,0.61,Family Tourist,Medium
+R0461,U7093,"Disappointing Hotel experience at Paris, France. Would not recommend.",2024-10-30,"Paris, France",Hotel,2,-0.2,1,0.11,Solo Traveler,Low
+R0462,U3896,"Not impressed with the Hotel in Tokyo, Japan. Several issues encountered.",2025-05-09,"Tokyo, Japan",Hotel,2,-0.23,5,0.86,Luxury Seeker,Medium
+R0463,U4890,"The best Adventure Tour I've ever had in Paris, France. Will come back again!",2024-11-18,"Paris, France",Adventure Tour,5,0.7,5,0.58,Family Tourist,Medium
+R0464,U2031,"Absolutely loved the Restaurant experience in New York, USA. Exceeded all expectations!",2025-01-14,"New York, USA",Restaurant,5,0.84,3,0.42,Family Tourist,Medium
+R0465,U1142,"Disappointing Hotel experience at New York, USA. Would not recommend.",2024-11-15,"New York, USA",Hotel,2,-0.13,1,0.24,Budget Traveler,Low
+R0466,U6065,"Absolutely loved the Adventure Tour experience in Paris, France. Exceeded all expectations!",2024-12-13,"Paris, France",Adventure Tour,5,0.86,3,0.76,Business Traveler,High
+R0467,U3263,"Enjoyed the Adventure Tour at Paris, France. Would recommend to others.",2025-03-16,"Paris, France",Adventure Tour,4,0.42,1,0.95,Luxury Seeker,Medium
+R0468,U7364,"Not impressed with the Hotel in Rome, Italy. Several issues encountered.",2024-06-14,"Rome, Italy",Hotel,2,-0.16,3,0.78,Solo Traveler,Medium
+R0469,U7956,"Worst Adventure Tour I've had in Rome, Italy. Completely dissatisfied.",2024-08-17,"Rome, Italy",Adventure Tour,1,-0.46,2,0.53,Business Traveler,Medium
+R0470,U9296,"Very good Adventure Tour in Sydney, Australia. Met most of my expectations.",2024-12-28,"Sydney, Australia",Adventure Tour,4,0.54,1,0.11,Family Tourist,Medium
+R0471,U9040,"Not impressed with the Hotel in Tokyo, Japan. Several issues encountered.",2025-04-06,"Tokyo, Japan",Hotel,2,-0.29,2,0.93,Family Tourist,Medium
+R0472,U9887,"Average Adventure Tour experience in New York, USA. Nothing special.",2024-12-28,"New York, USA",Adventure Tour,3,0.03,4,0.15,Luxury Seeker,Medium
+R0473,U6615,"Absolutely loved the Restaurant experience in Paris, France. Exceeded all expectations!",2024-09-28,"Paris, France",Restaurant,5,0.75,2,0.12,Budget Traveler,Medium
+R0474,U6224,"Great Hotel experience in Paris, France. A few minor issues but overall satisfied.",2024-07-17,"Paris, France",Hotel,4,0.67,4,0.82,Luxury Seeker,High
+R0475,U7035,"Enjoyed the Adventure Tour at New York, USA. Would recommend to others.",2025-01-05,"New York, USA",Adventure Tour,4,0.66,2,0.12,Family Tourist,Medium
+R0476,U3267,"Disappointing City Tour experience at Rome, Italy. Would not recommend.",2024-12-31,"Rome, Italy",City Tour,2,-0.2,5,0.09,Family Tourist,Low
+R0477,U2172,"Great City Tour experience in Rome, Italy. A few minor issues but overall satisfied.",2024-08-23,"Rome, Italy",City Tour,4,0.54,1,0.57,Budget Traveler,Medium
+R0478,U3323,"Worst Restaurant I've had in New York, USA. Completely dissatisfied.",2024-08-04,"New York, USA",Restaurant,1,-0.59,4,0.79,Luxury Seeker,Medium
+R0479,U4422,"Average Transport experience in Tokyo, Japan. Nothing special.",2025-03-24,"Tokyo, Japan",Transport,3,0.12,2,0.47,Luxury Seeker,Medium
+R0480,U6214,"Worst Transport I've had in Sydney, Australia. Completely dissatisfied.",2025-05-06,"Sydney, Australia",Transport,1,-0.9,1,0.15,Business Traveler,Low
+R0481,U5167,"Absolutely loved the Restaurant experience in Sydney, Australia. Exceeded all expectations!",2024-08-13,"Sydney, Australia",Restaurant,5,0.83,3,0.48,Luxury Seeker,Medium
+R0482,U6288,"Avoid the Hotel at Rome, Italy. Very poor service.",2025-04-06,"Rome, Italy",Hotel,1,-0.45,4,0.01,Family Tourist,Low
+R0483,U5818,"Enjoyed the Restaurant at Tokyo, Japan. Would recommend to others.",2025-02-23,"Tokyo, Japan",Restaurant,4,0.58,3,0.42,Budget Traveler,Medium
+R0484,U6420,"Enjoyed the Restaurant at Paris, France. Would recommend to others.",2024-10-12,"Paris, France",Restaurant,4,0.59,5,0.36,Family Tourist,Medium
+R0485,U2790,"Terrible Adventure Tour experience in Paris, France. Will not return.",2025-03-18,"Paris, France",Adventure Tour,1,-0.83,5,0.95,Business Traveler,Medium
+R0486,U9170,"Great City Tour experience in Sydney, Australia. A few minor issues but overall satisfied.",2024-07-17,"Sydney, Australia",City Tour,4,0.54,4,0.41,Family Tourist,Medium
+R0487,U7883,"Fantastic Restaurant experience at Rome, Italy. Highly recommend!",2025-04-08,"Rome, Italy",Restaurant,5,0.76,3,0.69,Budget Traveler,Medium
+R0488,U7988,"The Restaurant at Tokyo, Japan was okay. Could be better.",2024-10-06,"Tokyo, Japan",Restaurant,3,0.32,1,0.18,Business Traveler,Medium
+R0489,U1110,"Had problems with the City Tour in Sydney, Australia. Needs improvement.",2025-03-04,"Sydney, Australia",City Tour,2,-0.33,4,0.83,Luxury Seeker,Medium
+R0490,U3643,"Disappointing Restaurant experience at Rome, Italy. Would not recommend.",2025-03-31,"Rome, Italy",Restaurant,2,-0.36,4,0.09,Family Tourist,Low
+R0491,U2518,"Very good Transport in New York, USA. Met most of my expectations.",2024-12-25,"New York, USA",Transport,4,0.59,4,0.78,Luxury Seeker,High
+R0492,U9424,"Very good Transport in Sydney, Australia. Met most of my expectations.",2025-02-02,"Sydney, Australia",Transport,4,0.5,2,0.46,Budget Traveler,Medium
+R0493,U4363,"The Hotel at Sydney, Australia was okay. Could be better.",2024-12-20,"Sydney, Australia",Hotel,3,0.15,2,0.69,Family Tourist,Medium
+R0494,U4070,"The best Hotel I've ever had in Sydney, Australia. Will come back again!",2024-05-21,"Sydney, Australia",Hotel,5,0.8,1,0.92,Luxury Seeker,High
+R0495,U3631,"Had problems with the Transport in New York, USA. Needs improvement.",2024-10-24,"New York, USA",Transport,2,-0.17,4,0.24,Family Tourist,Low
+R0496,U3035,"Not impressed with the Restaurant in Tokyo, Japan. Several issues encountered.",2024-09-30,"Tokyo, Japan",Restaurant,2,-0.18,3,0.36,Family Tourist,Medium
+R0497,U7224,"Disappointing Restaurant experience at New York, USA. Would not recommend.",2024-08-07,"New York, USA",Restaurant,2,-0.17,5,0.92,Budget Traveler,Medium
+R0498,U1548,"Great Restaurant experience in Tokyo, Japan. A few minor issues but overall satisfied.",2025-01-17,"Tokyo, Japan",Restaurant,4,0.45,3,0.53,Solo Traveler,Medium
+R0499,U7141,"Very good Hotel in Paris, France. Met most of my expectations.",2024-12-17,"Paris, France",Hotel,4,0.45,2,0.84,Business Traveler,Medium
+R0500,U3082,"Average Restaurant experience in Sydney, Australia. Nothing special.",2024-09-14,"Sydney, Australia",Restaurant,3,0.03,5,0.61,Solo Traveler,Medium
+R0501,U3779,"Avoid the Hotel at Sydney, Australia. Very poor service.",2024-12-23,"Sydney, Australia",Hotel,1,-0.52,1,0.3,Family Tourist,Medium
+R0502,U1157,"Terrible Adventure Tour experience in Paris, France. Will not return.",2024-11-23,"Paris, France",Adventure Tour,1,-0.88,5,0.52,Budget Traveler,Medium
+R0503,U1521,"Disappointing Restaurant experience at Paris, France. Would not recommend.",2025-04-20,"Paris, France",Restaurant,2,-0.33,3,0.88,Budget Traveler,Medium
+R0504,U9298,"Fantastic Adventure Tour experience at Rome, Italy. Highly recommend!",2025-02-16,"Rome, Italy",Adventure Tour,5,0.77,4,0.09,Luxury Seeker,Medium
+R0505,U2557,"Terrible Hotel experience in Paris, France. Will not return.",2024-08-28,"Paris, France",Hotel,1,-0.93,5,0.96,Budget Traveler,Medium
+R0506,U1943,"Worst Transport I've had in Rome, Italy. Completely dissatisfied.",2025-05-10,"Rome, Italy",Transport,1,-0.54,3,0.81,Solo Traveler,Medium
+R0507,U9893,"Decent Transport in Tokyo, Japan, but room for improvement.",2024-06-19,"Tokyo, Japan",Transport,3,0.35,2,0.81,Family Tourist,Medium
+R0508,U6878,"Very good Transport in Tokyo, Japan. Met most of my expectations.",2024-06-02,"Tokyo, Japan",Transport,4,0.58,1,0.27,Budget Traveler,Medium
+R0509,U4767,"Terrible City Tour experience in Rome, Italy. Will not return.",2024-06-07,"Rome, Italy",City Tour,1,-0.41,4,0.84,Solo Traveler,Medium
+R0510,U3223,"The Adventure Tour at Rome, Italy was okay. Could be better.",2024-10-13,"Rome, Italy",Adventure Tour,3,-0.05,1,0.59,Budget Traveler,Medium
+R0511,U3795,"Fantastic Transport experience at New York, USA. Highly recommend!",2025-03-25,"New York, USA",Transport,5,0.88,5,0.55,Business Traveler,Medium
+R0512,U1951,"Fantastic City Tour experience at Tokyo, Japan. Highly recommend!",2024-08-20,"Tokyo, Japan",City Tour,5,0.8,5,1.0,Luxury Seeker,High
+R0513,U7517,"Absolutely loved the Transport experience in New York, USA. Exceeded all expectations!",2025-04-15,"New York, USA",Transport,5,0.82,3,0.07,Budget Traveler,Medium
+R0514,U1541,"The best Hotel I've ever had in Rome, Italy. Will come back again!",2024-09-22,"Rome, Italy",Hotel,5,0.88,2,0.23,Luxury Seeker,Medium
+R0515,U3740,"Very good Adventure Tour in New York, USA. Met most of my expectations.",2024-08-02,"New York, USA",Adventure Tour,4,0.68,4,0.99,Budget Traveler,High
+R0516,U7263,"Terrible City Tour experience in Paris, France. Will not return.",2025-03-25,"Paris, France",City Tour,1,-0.62,5,0.23,Family Tourist,Low
+R0517,U9594,"Not impressed with the Hotel in New York, USA. Several issues encountered.",2024-10-01,"New York, USA",Hotel,2,-0.35,5,0.98,Budget Traveler,Medium
+R0518,U7628,"Avoid the Restaurant at Paris, France. Very poor service.",2025-03-28,"Paris, France",Restaurant,1,-0.63,3,0.17,Luxury Seeker,Low
+R0519,U8576,"Great Adventure Tour experience in Sydney, Australia. A few minor issues but overall satisfied.",2024-09-25,"Sydney, Australia",Adventure Tour,4,0.5,1,0.57,Luxury Seeker,Medium
+R0520,U9584,"Not impressed with the City Tour in Paris, France. Several issues encountered.",2025-03-01,"Paris, France",City Tour,2,-0.22,2,0.5,Luxury Seeker,Medium
+R0521,U9880,"Decent City Tour in Rome, Italy, but room for improvement.",2024-12-18,"Rome, Italy",City Tour,3,-0.06,3,0.36,Budget Traveler,Medium
+R0522,U3408,"Average City Tour experience in Tokyo, Japan. Nothing special.",2025-04-27,"Tokyo, Japan",City Tour,3,0.31,5,0.58,Budget Traveler,Medium
+R0523,U3557,"Not impressed with the City Tour in Tokyo, Japan. Several issues encountered.",2025-01-08,"Tokyo, Japan",City Tour,2,-0.31,2,0.28,Family Tourist,Low
+R0524,U7382,"Enjoyed the Restaurant at Tokyo, Japan. Would recommend to others.",2025-05-01,"Tokyo, Japan",Restaurant,4,0.51,3,0.65,Business Traveler,Medium
+R0525,U7571,"Avoid the City Tour at Tokyo, Japan. Very poor service.",2025-01-23,"Tokyo, Japan",City Tour,1,-0.96,3,0.73,Family Tourist,Medium
+R0526,U5326,"Disappointing Adventure Tour experience at Rome, Italy. Would not recommend.",2024-06-09,"Rome, Italy",Adventure Tour,2,-0.24,4,0.7,Budget Traveler,Medium
+R0527,U4512,"Very good City Tour in New York, USA. Met most of my expectations.",2025-03-30,"New York, USA",City Tour,4,0.4,1,0.96,Budget Traveler,Medium
+R0528,U1736,"Very good Adventure Tour in Sydney, Australia. Met most of my expectations.",2024-07-03,"Sydney, Australia",Adventure Tour,4,0.61,3,0.26,Business Traveler,Medium
+R0529,U6605,"Decent Hotel in Rome, Italy, but room for improvement.",2025-03-02,"Rome, Italy",Hotel,3,0.23,2,0.04,Budget Traveler,Medium
+R0530,U1028,"Had problems with the Hotel in Rome, Italy. Needs improvement.",2024-06-22,"Rome, Italy",Hotel,2,-0.21,5,0.37,Budget Traveler,Medium
+R0531,U3716,"The Hotel at Tokyo, Japan was okay. Could be better.",2024-08-22,"Tokyo, Japan",Hotel,3,0.12,5,0.38,Budget Traveler,Medium
+R0532,U5258,"Not impressed with the City Tour in Paris, France. Several issues encountered.",2025-03-12,"Paris, France",City Tour,2,-0.29,2,0.56,Budget Traveler,Medium
+R0533,U6830,"Decent Restaurant in Tokyo, Japan, but room for improvement.",2025-01-04,"Tokyo, Japan",Restaurant,3,-0.03,2,0.85,Budget Traveler,Medium
+R0534,U5110,"Terrible Adventure Tour experience in Rome, Italy. Will not return.",2024-07-22,"Rome, Italy",Adventure Tour,1,-0.62,5,0.49,Solo Traveler,Medium
+R0535,U3731,"Very good Hotel in Rome, Italy. Met most of my expectations.",2024-11-18,"Rome, Italy",Hotel,4,0.46,1,0.39,Budget Traveler,Medium
+R0536,U7634,"The best City Tour I've ever had in New York, USA. Will come back again!",2025-01-07,"New York, USA",City Tour,5,0.84,5,0.31,Business Traveler,Medium
+R0537,U3230,"Average Restaurant experience in Sydney, Australia. Nothing special.",2024-08-11,"Sydney, Australia",Restaurant,3,0.33,3,0.69,Business Traveler,Medium
+R0538,U1884,"Disappointing Hotel experience at Paris, France. Would not recommend.",2024-09-18,"Paris, France",Hotel,2,-0.17,5,0.1,Solo Traveler,Low
+R0539,U7661,"Absolutely loved the Restaurant experience in Tokyo, Japan. Exceeded all expectations!",2024-08-16,"Tokyo, Japan",Restaurant,5,0.71,1,0.29,Business Traveler,Medium
+R0540,U2621,"The best Restaurant I've ever had in Rome, Italy. Will come back again!",2024-10-27,"Rome, Italy",Restaurant,5,1.0,4,0.84,Family Tourist,High
+R0541,U7105,"Average City Tour experience in New York, USA. Nothing special.",2024-08-30,"New York, USA",City Tour,3,0.11,3,0.25,Solo Traveler,Medium
+R0542,U5408,"Not impressed with the City Tour in Sydney, Australia. Several issues encountered.",2025-03-18,"Sydney, Australia",City Tour,2,-0.15,2,0.79,Business Traveler,Medium
+R0543,U3347,"Disappointing Hotel experience at Rome, Italy. Would not recommend.",2024-11-12,"Rome, Italy",Hotel,2,-0.35,2,0.85,Budget Traveler,Medium
+R0544,U8522,"Disappointing City Tour experience at Rome, Italy. Would not recommend.",2024-06-08,"Rome, Italy",City Tour,2,-0.33,4,0.98,Business Traveler,Medium
+R0545,U3810,"Decent Hotel in Paris, France, but room for improvement.",2024-09-11,"Paris, France",Hotel,3,0.15,3,0.03,Luxury Seeker,Medium
+R0546,U9494,"Great Restaurant experience in New York, USA. A few minor issues but overall satisfied.",2024-07-21,"New York, USA",Restaurant,4,0.61,5,0.6,Luxury Seeker,Medium
+R0547,U9027,"Great Transport experience in Paris, France. A few minor issues but overall satisfied.",2025-01-03,"Paris, France",Transport,4,0.44,4,0.65,Budget Traveler,Medium
+R0548,U5239,"The best Transport I've ever had in Paris, France. Will come back again!",2025-03-06,"Paris, France",Transport,5,0.88,2,0.09,Business Traveler,Medium
+R0549,U5470,"Average Adventure Tour experience in Tokyo, Japan. Nothing special.",2024-11-29,"Tokyo, Japan",Adventure Tour,3,-0.07,3,0.38,Luxury Seeker,Medium
+R0550,U2246,"Terrible Restaurant experience in Tokyo, Japan. Will not return.",2025-05-05,"Tokyo, Japan",Restaurant,1,-0.89,5,0.35,Budget Traveler,Medium
+R0551,U9479,"Disappointing Hotel experience at Tokyo, Japan. Would not recommend.",2025-02-23,"Tokyo, Japan",Hotel,2,-0.37,3,0.27,Family Tourist,Low
+R0552,U7373,"Decent Hotel in New York, USA, but room for improvement.",2024-08-07,"New York, USA",Hotel,3,-0.02,4,0.6,Family Tourist,Medium
+R0553,U3043,"The City Tour at Paris, France was okay. Could be better.",2025-02-12,"Paris, France",City Tour,3,0.35,5,0.11,Business Traveler,Medium
+R0554,U2380,"Disappointing Transport experience at Paris, France. Would not recommend.",2024-11-04,"Paris, France",Transport,2,-0.3,5,0.71,Luxury Seeker,Medium
+R0555,U6547,"Great Restaurant experience in Tokyo, Japan. A few minor issues but overall satisfied.",2024-08-28,"Tokyo, Japan",Restaurant,4,0.41,4,0.82,Budget Traveler,Medium
+R0556,U9535,"Absolutely loved the Transport experience in Rome, Italy. Exceeded all expectations!",2024-12-31,"Rome, Italy",Transport,5,0.97,3,0.84,Budget Traveler,High
+R0557,U9339,"Worst City Tour I've had in Sydney, Australia. Completely dissatisfied.",2024-11-21,"Sydney, Australia",City Tour,1,-0.53,5,0.61,Budget Traveler,Medium
+R0558,U7801,"Average Transport experience in Rome, Italy. Nothing special.",2024-10-13,"Rome, Italy",Transport,3,0.18,4,0.52,Business Traveler,Medium
+R0559,U9664,"Terrible City Tour experience in Paris, France. Will not return.",2024-05-14,"Paris, France",City Tour,1,-0.98,3,0.46,Business Traveler,Medium
+R0560,U9160,"Average Restaurant experience in Sydney, Australia. Nothing special.",2024-07-27,"Sydney, Australia",Restaurant,3,0.28,1,0.42,Luxury Seeker,Medium
+R0561,U9595,"The best City Tour I've ever had in New York, USA. Will come back again!",2025-01-30,"New York, USA",City Tour,5,0.8,4,0.03,Solo Traveler,Medium
+R0562,U3805,"The Hotel at Sydney, Australia was okay. Could be better.",2024-07-15,"Sydney, Australia",Hotel,3,0.31,5,0.53,Luxury Seeker,Medium
+R0563,U4252,"Great Adventure Tour experience in Rome, Italy. A few minor issues but overall satisfied.",2024-11-07,"Rome, Italy",Adventure Tour,4,0.48,3,0.78,Budget Traveler,Medium
+R0564,U5535,"Enjoyed the Hotel at Tokyo, Japan. Would recommend to others.",2025-03-28,"Tokyo, Japan",Hotel,4,0.5,3,0.73,Luxury Seeker,Medium
+R0565,U6581,"Disappointing Hotel experience at New York, USA. Would not recommend.",2024-09-11,"New York, USA",Hotel,2,-0.33,3,0.16,Solo Traveler,Low
+R0566,U6807,"Disappointing Transport experience at Paris, France. Would not recommend.",2025-01-14,"Paris, France",Transport,2,-0.18,4,0.97,Solo Traveler,Medium
+R0567,U8066,"Average City Tour experience in Tokyo, Japan. Nothing special.",2024-10-31,"Tokyo, Japan",City Tour,3,0.3,1,0.39,Business Traveler,Medium
+R0568,U7254,"Average Hotel experience in Sydney, Australia. Nothing special.",2025-01-05,"Sydney, Australia",Hotel,3,-0.08,3,0.85,Luxury Seeker,Medium
+R0569,U7223,"Absolutely loved the Restaurant experience in Sydney, Australia. Exceeded all expectations!",2024-06-09,"Sydney, Australia",Restaurant,5,0.9,2,0.54,Business Traveler,Medium
+R0570,U3936,"The Hotel at Sydney, Australia was okay. Could be better.",2025-01-14,"Sydney, Australia",Hotel,3,0.17,3,0.87,Business Traveler,Medium
+R0571,U5302,"The Restaurant at Tokyo, Japan was okay. Could be better.",2025-01-03,"Tokyo, Japan",Restaurant,3,0.38,3,0.17,Luxury Seeker,Medium
+R0572,U5077,"Worst Hotel I've had in Sydney, Australia. Completely dissatisfied.",2024-12-28,"Sydney, Australia",Hotel,1,-0.44,1,0.1,Budget Traveler,Low
+R0573,U2716,"Very good Adventure Tour in Paris, France. Met most of my expectations.",2024-10-13,"Paris, France",Adventure Tour,4,0.61,3,0.22,Solo Traveler,Medium
+R0574,U3533,"Average Transport experience in Rome, Italy. Nothing special.",2025-04-30,"Rome, Italy",Transport,3,0.13,2,0.68,Solo Traveler,Medium
+R0575,U4667,"Not impressed with the City Tour in Sydney, Australia. Several issues encountered.",2025-04-04,"Sydney, Australia",City Tour,2,-0.33,3,0.93,Family Tourist,Medium
+R0576,U1950,"Fantastic Adventure Tour experience at Paris, France. Highly recommend!",2024-07-06,"Paris, France",Adventure Tour,5,0.92,2,0.92,Business Traveler,High
+R0577,U3667,"Not impressed with the Restaurant in Rome, Italy. Several issues encountered.",2025-05-07,"Rome, Italy",Restaurant,2,-0.18,5,0.45,Business Traveler,Medium
+R0578,U1783,"Avoid the Transport at Paris, France. Very poor service.",2025-05-09,"Paris, France",Transport,1,-0.92,4,0.61,Family Tourist,Medium
+R0579,U8038,"Disappointing Transport experience at Paris, France. Would not recommend.",2024-07-31,"Paris, France",Transport,2,-0.25,3,0.9,Business Traveler,Medium
+R0580,U9443,"The Hotel at Rome, Italy was okay. Could be better.",2024-07-27,"Rome, Italy",Hotel,3,0.38,2,0.3,Luxury Seeker,Medium
+R0581,U1978,"The best Transport I've ever had in Rome, Italy. Will come back again!",2025-04-26,"Rome, Italy",Transport,5,0.99,5,0.94,Business Traveler,High
+R0582,U2150,"The Hotel at Tokyo, Japan was okay. Could be better.",2024-11-04,"Tokyo, Japan",Hotel,3,0.01,4,0.14,Solo Traveler,Medium
+R0583,U2955,"The Hotel at Rome, Italy was okay. Could be better.",2024-09-04,"Rome, Italy",Hotel,3,0.1,2,0.66,Solo Traveler,Medium
+R0584,U8506,"The City Tour at Rome, Italy was okay. Could be better.",2024-05-31,"Rome, Italy",City Tour,3,0.33,2,0.61,Solo Traveler,Medium
+R0585,U6349,"The City Tour at Sydney, Australia was okay. Could be better.",2024-11-22,"Sydney, Australia",City Tour,3,0.21,5,0.76,Luxury Seeker,Medium
+R0586,U9459,"Great City Tour experience in Tokyo, Japan. A few minor issues but overall satisfied.",2025-04-12,"Tokyo, Japan",City Tour,4,0.59,2,0.82,Business Traveler,High
+R0587,U2878,"The Restaurant at Tokyo, Japan was okay. Could be better.",2024-05-26,"Tokyo, Japan",Restaurant,3,-0.02,5,0.67,Luxury Seeker,Medium
+R0588,U6831,"Avoid the Transport at Rome, Italy. Very poor service.",2024-06-09,"Rome, Italy",Transport,1,-0.86,4,0.81,Budget Traveler,Medium
+R0589,U8961,"Decent Restaurant in Rome, Italy, but room for improvement.",2024-10-09,"Rome, Italy",Restaurant,3,0.35,2,0.2,Business Traveler,Medium
+R0590,U6996,"Fantastic Hotel experience at New York, USA. Highly recommend!",2024-06-15,"New York, USA",Hotel,5,0.78,2,0.38,Budget Traveler,Medium
+R0591,U5936,"Great Transport experience in Tokyo, Japan. A few minor issues but overall satisfied.",2024-12-23,"Tokyo, Japan",Transport,4,0.53,3,0.62,Budget Traveler,Medium
+R0592,U5406,"Avoid the Transport at Sydney, Australia. Very poor service.",2025-04-01,"Sydney, Australia",Transport,1,-0.65,3,0.46,Budget Traveler,Medium
+R0593,U8857,"Avoid the Adventure Tour at New York, USA. Very poor service.",2025-05-12,"New York, USA",Adventure Tour,1,-0.65,1,0.62,Family Tourist,Medium
+R0594,U8827,"Absolutely loved the Restaurant experience in Rome, Italy. Exceeded all expectations!",2025-03-18,"Rome, Italy",Restaurant,5,0.89,3,0.08,Luxury Seeker,Medium
+R0595,U9554,"Fantastic Hotel experience at Rome, Italy. Highly recommend!",2024-12-11,"Rome, Italy",Hotel,5,0.93,1,0.71,Luxury Seeker,High
+R0596,U6161,"The best Hotel I've ever had in Paris, France. Will come back again!",2024-08-06,"Paris, France",Hotel,5,0.77,1,0.11,Business Traveler,Medium
+R0597,U9910,"Terrible City Tour experience in Paris, France. Will not return.",2025-02-21,"Paris, France",City Tour,1,-0.99,3,0.1,Family Tourist,Low
+R0598,U5674,"The Transport at Tokyo, Japan was okay. Could be better.",2024-07-16,"Tokyo, Japan",Transport,3,0.33,4,0.96,Family Tourist,Medium
+R0599,U1873,"Had problems with the Transport in Rome, Italy. Needs improvement.",2024-12-10,"Rome, Italy",Transport,2,-0.33,2,0.53,Solo Traveler,Medium
+R0600,U3968,"Very good Hotel in Tokyo, Japan. Met most of my expectations.",2025-04-30,"Tokyo, Japan",Hotel,4,0.57,5,0.21,Family Tourist,Medium
+R0601,U7905,"Decent Transport in Tokyo, Japan, but room for improvement.",2025-05-06,"Tokyo, Japan",Transport,3,0.29,3,0.79,Business Traveler,Medium
+R0602,U8920,"Great Restaurant experience in Tokyo, Japan. A few minor issues but overall satisfied.",2025-02-10,"Tokyo, Japan",Restaurant,4,0.48,4,0.72,Business Traveler,Medium
+R0603,U3415,"Worst City Tour I've had in Tokyo, Japan. Completely dissatisfied.",2025-04-17,"Tokyo, Japan",City Tour,1,-0.8,5,0.99,Family Tourist,Medium
+R0604,U8581,"Disappointing Hotel experience at New York, USA. Would not recommend.",2024-12-16,"New York, USA",Hotel,2,-0.37,3,0.9,Luxury Seeker,Medium
+R0605,U7843,"Terrible City Tour experience in New York, USA. Will not return.",2025-03-06,"New York, USA",City Tour,1,-0.82,3,0.97,Luxury Seeker,Medium
+R0606,U5242,"Not impressed with the Adventure Tour in Sydney, Australia. Several issues encountered.",2025-03-03,"Sydney, Australia",Adventure Tour,2,-0.39,1,0.78,Family Tourist,Medium
+R0607,U9375,"Great Adventure Tour experience in Sydney, Australia. A few minor issues but overall satisfied.",2024-06-18,"Sydney, Australia",Adventure Tour,4,0.63,1,0.29,Luxury Seeker,Medium
+R0608,U5768,"Very good Adventure Tour in Sydney, Australia. Met most of my expectations.",2024-06-18,"Sydney, Australia",Adventure Tour,4,0.42,1,0.9,Luxury Seeker,Medium
+R0609,U6190,"The Restaurant at Sydney, Australia was okay. Could be better.",2024-09-12,"Sydney, Australia",Restaurant,3,-0.02,5,0.72,Business Traveler,Medium
+R0610,U4725,"Disappointing Transport experience at New York, USA. Would not recommend.",2025-02-05,"New York, USA",Transport,2,-0.32,1,0.81,Luxury Seeker,Medium
+R0611,U1433,"Very good City Tour in Paris, France. Met most of my expectations.",2025-01-19,"Paris, France",City Tour,4,0.43,2,0.52,Business Traveler,Medium
+R0612,U9775,"Very good Adventure Tour in New York, USA. Met most of my expectations.",2024-10-19,"New York, USA",Adventure Tour,4,0.67,4,0.21,Luxury Seeker,Medium
+R0613,U8289,"The Transport at Tokyo, Japan was okay. Could be better.",2024-11-30,"Tokyo, Japan",Transport,3,0.26,1,0.07,Budget Traveler,Medium
+R0614,U6033,"Had problems with the Adventure Tour in New York, USA. Needs improvement.",2024-09-07,"New York, USA",Adventure Tour,2,-0.16,1,0.59,Solo Traveler,Medium
+R0615,U4496,"Had problems with the Restaurant in Paris, France. Needs improvement.",2025-04-18,"Paris, France",Restaurant,2,-0.27,5,0.53,Luxury Seeker,Medium
+R0616,U9649,"Very good Hotel in Sydney, Australia. Met most of my expectations.",2024-09-15,"Sydney, Australia",Hotel,4,0.52,3,0.21,Luxury Seeker,Medium
+R0617,U1445,"Enjoyed the Transport at Sydney, Australia. Would recommend to others.",2024-09-09,"Sydney, Australia",Transport,4,0.4,5,0.97,Business Traveler,Medium
+R0618,U2804,"Great City Tour experience in New York, USA. A few minor issues but overall satisfied.",2025-03-04,"New York, USA",City Tour,4,0.62,2,0.18,Family Tourist,Medium
+R0619,U1271,"Not impressed with the Transport in Rome, Italy. Several issues encountered.",2024-10-25,"Rome, Italy",Transport,2,-0.12,5,0.51,Business Traveler,Medium
+R0620,U9916,"Avoid the Restaurant at Rome, Italy. Very poor service.",2025-03-26,"Rome, Italy",Restaurant,1,-0.57,4,0.32,Budget Traveler,Medium
+R0621,U7170,"Disappointing City Tour experience at Sydney, Australia. Would not recommend.",2024-09-26,"Sydney, Australia",City Tour,2,-0.34,3,0.8,Family Tourist,Medium
+R0622,U4282,"Average Restaurant experience in New York, USA. Nothing special.",2024-12-29,"New York, USA",Restaurant,3,0.32,3,0.72,Solo Traveler,Medium
+R0623,U7811,"Fantastic Adventure Tour experience at Sydney, Australia. Highly recommend!",2024-09-22,"Sydney, Australia",Adventure Tour,5,0.84,4,0.58,Business Traveler,Medium
+R0624,U2298,"Absolutely loved the City Tour experience in Sydney, Australia. Exceeded all expectations!",2025-01-01,"Sydney, Australia",City Tour,5,0.99,4,0.65,Family Tourist,Medium
+R0625,U9389,"Not impressed with the City Tour in Paris, France. Several issues encountered.",2025-01-14,"Paris, France",City Tour,2,-0.33,5,0.7,Luxury Seeker,Medium
+R0626,U4860,"Had problems with the Hotel in New York, USA. Needs improvement.",2024-11-29,"New York, USA",Hotel,2,-0.27,2,0.6,Solo Traveler,Medium
+R0627,U8181,"Great Transport experience in Tokyo, Japan. A few minor issues but overall satisfied.",2024-09-24,"Tokyo, Japan",Transport,4,0.69,3,0.57,Luxury Seeker,Medium
+R0628,U9483,"Enjoyed the Adventure Tour at New York, USA. Would recommend to others.",2024-11-24,"New York, USA",Adventure Tour,4,0.42,1,0.03,Budget Traveler,Medium
+R0629,U2263,"Terrible City Tour experience in Rome, Italy. Will not return.",2025-03-21,"Rome, Italy",City Tour,1,-0.46,3,0.2,Solo Traveler,Low
+R0630,U2362,"Disappointing Hotel experience at Tokyo, Japan. Would not recommend.",2024-08-17,"Tokyo, Japan",Hotel,2,-0.35,5,0.72,Solo Traveler,Medium
+R0631,U2766,"Absolutely loved the Hotel experience in New York, USA. Exceeded all expectations!",2024-10-23,"New York, USA",Hotel,5,0.99,2,0.62,Luxury Seeker,Medium
+R0632,U2247,"Very good Transport in Sydney, Australia. Met most of my expectations.",2024-07-26,"Sydney, Australia",Transport,4,0.6,5,0.6,Luxury Seeker,Medium
+R0633,U7115,"Average Hotel experience in Tokyo, Japan. Nothing special.",2024-11-21,"Tokyo, Japan",Hotel,3,0.37,3,0.39,Business Traveler,Medium
+R0634,U8401,"Not impressed with the Restaurant in Paris, France. Several issues encountered.",2025-04-25,"Paris, France",Restaurant,2,-0.39,4,0.17,Solo Traveler,Low
+R0635,U5971,"Fantastic City Tour experience at Paris, France. Highly recommend!",2024-12-24,"Paris, France",City Tour,5,0.72,3,0.96,Business Traveler,High
+R0636,U9675,"Not impressed with the Adventure Tour in Tokyo, Japan. Several issues encountered.",2025-03-01,"Tokyo, Japan",Adventure Tour,2,-0.17,4,0.36,Solo Traveler,Medium
+R0637,U5835,"Great Hotel experience in Sydney, Australia. A few minor issues but overall satisfied.",2024-05-21,"Sydney, Australia",Hotel,4,0.58,5,0.93,Solo Traveler,High
+R0638,U9719,"Avoid the City Tour at Paris, France. Very poor service.",2025-04-30,"Paris, France",City Tour,1,-0.76,4,0.86,Solo Traveler,Medium
+R0639,U1341,"Great Transport experience in Paris, France. A few minor issues but overall satisfied.",2025-04-23,"Paris, France",Transport,4,0.54,3,0.6,Luxury Seeker,Medium
+R0640,U5906,"The best Adventure Tour I've ever had in Sydney, Australia. Will come back again!",2024-11-14,"Sydney, Australia",Adventure Tour,5,0.79,5,0.44,Budget Traveler,Medium
+R0641,U3446,"Average City Tour experience in New York, USA. Nothing special.",2024-07-05,"New York, USA",City Tour,3,0.03,5,0.06,Family Tourist,Medium
+R0642,U5157,"Absolutely loved the City Tour experience in Tokyo, Japan. Exceeded all expectations!",2025-05-08,"Tokyo, Japan",City Tour,5,0.77,4,0.41,Business Traveler,Medium
+R0643,U1838,"Decent Restaurant in Rome, Italy, but room for improvement.",2024-11-02,"Rome, Italy",Restaurant,3,0.18,3,0.77,Solo Traveler,Medium
+R0644,U7111,"Absolutely loved the Hotel experience in Paris, France. Exceeded all expectations!",2025-01-22,"Paris, France",Hotel,5,0.95,4,0.05,Luxury Seeker,Medium
+R0645,U2362,"Very good Adventure Tour in Sydney, Australia. Met most of my expectations.",2025-02-07,"Sydney, Australia",Adventure Tour,4,0.53,2,0.15,Budget Traveler,Medium
+R0646,U3978,"Decent City Tour in New York, USA, but room for improvement.",2025-03-03,"New York, USA",City Tour,3,0.13,3,0.69,Solo Traveler,Medium
+R0647,U1375,"Great Transport experience in New York, USA. A few minor issues but overall satisfied.",2025-03-08,"New York, USA",Transport,4,0.49,1,0.09,Family Tourist,Medium
+R0648,U2113,"Disappointing Transport experience at Paris, France. Would not recommend.",2024-08-30,"Paris, France",Transport,2,-0.32,2,0.79,Family Tourist,Medium
+R0649,U5105,"The best Restaurant I've ever had in Paris, France. Will come back again!",2025-02-19,"Paris, France",Restaurant,5,0.92,5,0.16,Luxury Seeker,Medium
+R0650,U6822,"Decent Adventure Tour in Paris, France, but room for improvement.",2024-08-07,"Paris, France",Adventure Tour,3,0.03,1,0.86,Luxury Seeker,Medium
+R0651,U3046,"Average Adventure Tour experience in Rome, Italy. Nothing special.",2025-01-14,"Rome, Italy",Adventure Tour,3,0.37,1,0.75,Solo Traveler,Medium
+R0652,U3618,"Disappointing Transport experience at Paris, France. Would not recommend.",2025-02-17,"Paris, France",Transport,2,-0.17,2,0.13,Budget Traveler,Low
+R0653,U5306,"Very good Transport in Sydney, Australia. Met most of my expectations.",2024-07-05,"Sydney, Australia",Transport,4,0.47,1,0.44,Budget Traveler,Medium
+R0654,U3488,"Disappointing Transport experience at New York, USA. Would not recommend.",2025-01-31,"New York, USA",Transport,2,-0.39,5,0.58,Budget Traveler,Medium
+R0655,U4711,"Enjoyed the Restaurant at Paris, France. Would recommend to others.",2024-11-07,"Paris, France",Restaurant,4,0.59,2,0.21,Family Tourist,Medium
+R0656,U1273,"Decent Hotel in New York, USA, but room for improvement.",2024-07-05,"New York, USA",Hotel,3,0.06,2,0.42,Luxury Seeker,Medium
+R0657,U7441,"Fantastic Transport experience at Sydney, Australia. Highly recommend!",2024-09-09,"Sydney, Australia",Transport,5,0.74,4,0.69,Family Tourist,Medium
+R0658,U5541,"Decent Hotel in New York, USA, but room for improvement.",2025-02-01,"New York, USA",Hotel,3,-0.08,4,0.56,Family Tourist,Medium
+R0659,U3577,"Fantastic Adventure Tour experience at Tokyo, Japan. Highly recommend!",2025-02-25,"Tokyo, Japan",Adventure Tour,5,0.77,5,0.1,Luxury Seeker,Medium
+R0660,U4880,"Worst Hotel I've had in Rome, Italy. Completely dissatisfied.",2024-06-28,"Rome, Italy",Hotel,1,-0.61,3,0.92,Luxury Seeker,Medium
+R0661,U7731,"The City Tour at Tokyo, Japan was okay. Could be better.",2024-09-21,"Tokyo, Japan",City Tour,3,0.16,2,0.41,Luxury Seeker,Medium
+R0662,U5238,"The Restaurant at Rome, Italy was okay. Could be better.",2024-12-28,"Rome, Italy",Restaurant,3,0.34,3,0.15,Family Tourist,Medium
+R0663,U4713,"Average Adventure Tour experience in Paris, France. Nothing special.",2024-05-19,"Paris, France",Adventure Tour,3,0.24,1,0.54,Luxury Seeker,Medium
+R0664,U3395,"Decent Adventure Tour in Paris, France, but room for improvement.",2024-10-21,"Paris, France",Adventure Tour,3,0.26,4,0.87,Family Tourist,Medium
+R0665,U6281,"Had problems with the Transport in Rome, Italy. Needs improvement.",2025-01-07,"Rome, Italy",Transport,2,-0.26,4,0.4,Budget Traveler,Medium
+R0666,U6598,"Avoid the City Tour at New York, USA. Very poor service.",2024-07-29,"New York, USA",City Tour,1,-0.7,2,0.35,Family Tourist,Medium
+R0667,U1657,"Worst City Tour I've had in New York, USA. Completely dissatisfied.",2025-04-01,"New York, USA",City Tour,1,-0.46,5,0.63,Budget Traveler,Medium
+R0668,U2075,"Absolutely loved the Restaurant experience in New York, USA. Exceeded all expectations!",2025-01-11,"New York, USA",Restaurant,5,0.81,3,0.54,Budget Traveler,Medium
+R0669,U3675,"Fantastic Hotel experience at Paris, France. Highly recommend!",2024-09-02,"Paris, France",Hotel,5,0.81,5,0.7,Solo Traveler,Medium
+R0670,U6803,"Absolutely loved the City Tour experience in New York, USA. Exceeded all expectations!",2024-05-21,"New York, USA",City Tour,5,0.79,4,0.58,Luxury Seeker,Medium
+R0671,U7339,"Avoid the Transport at Paris, France. Very poor service.",2024-05-22,"Paris, France",Transport,1,-0.96,3,0.92,Family Tourist,Medium
+R0672,U3483,"Great Hotel experience in Sydney, Australia. A few minor issues but overall satisfied.",2025-04-30,"Sydney, Australia",Hotel,4,0.53,2,0.11,Solo Traveler,Medium
+R0673,U6722,"Worst City Tour I've had in New York, USA. Completely dissatisfied.",2024-09-03,"New York, USA",City Tour,1,-0.54,4,0.53,Solo Traveler,Medium
+R0674,U4606,"Very good Transport in Paris, France. Met most of my expectations.",2024-10-23,"Paris, France",Transport,4,0.45,2,0.66,Luxury Seeker,Medium
+R0675,U1031,"Great Restaurant experience in Sydney, Australia. A few minor issues but overall satisfied.",2024-07-19,"Sydney, Australia",Restaurant,4,0.41,3,0.62,Solo Traveler,Medium
+R0676,U2756,"The best Restaurant I've ever had in Rome, Italy. Will come back again!",2024-11-26,"Rome, Italy",Restaurant,5,0.81,5,0.1,Family Tourist,Medium
+R0677,U3935,"Absolutely loved the Transport experience in Rome, Italy. Exceeded all expectations!",2024-05-23,"Rome, Italy",Transport,5,0.96,1,0.47,Luxury Seeker,Medium
+R0678,U7561,"Enjoyed the Hotel at Sydney, Australia. Would recommend to others.",2025-01-19,"Sydney, Australia",Hotel,4,0.55,2,0.42,Business Traveler,Medium
+R0679,U2602,"Great Adventure Tour experience in Tokyo, Japan. A few minor issues but overall satisfied.",2025-02-12,"Tokyo, Japan",Adventure Tour,4,0.48,4,0.05,Business Traveler,Medium
+R0680,U9544,"Very good Hotel in Tokyo, Japan. Met most of my expectations.",2025-05-05,"Tokyo, Japan",Hotel,4,0.45,5,0.15,Budget Traveler,Medium
+R0681,U4573,"Terrible Transport experience in Tokyo, Japan. Will not return.",2024-07-07,"Tokyo, Japan",Transport,1,-0.52,1,0.65,Family Tourist,Medium
+R0682,U5499,"Worst Restaurant I've had in New York, USA. Completely dissatisfied.",2025-05-02,"New York, USA",Restaurant,1,-0.72,2,0.14,Luxury Seeker,Low
+R0683,U9681,"Had problems with the Hotel in Paris, France. Needs improvement.",2025-01-14,"Paris, France",Hotel,2,-0.32,1,0.82,Luxury Seeker,Medium
+R0684,U8989,"Average Hotel experience in Tokyo, Japan. Nothing special.",2025-04-08,"Tokyo, Japan",Hotel,3,-0.05,5,0.95,Luxury Seeker,Medium
+R0685,U9449,"Fantastic Restaurant experience at Sydney, Australia. Highly recommend!",2024-10-16,"Sydney, Australia",Restaurant,5,0.97,1,0.71,Family Tourist,High
+R0686,U4304,"Had problems with the Adventure Tour in Tokyo, Japan. Needs improvement.",2025-02-05,"Tokyo, Japan",Adventure Tour,2,-0.32,5,0.4,Family Tourist,Medium
+R0687,U1038,"Decent Restaurant in New York, USA, but room for improvement.",2024-06-16,"New York, USA",Restaurant,3,0.34,3,0.65,Solo Traveler,Medium
+R0688,U1037,"Disappointing Restaurant experience at Tokyo, Japan. Would not recommend.",2024-09-08,"Tokyo, Japan",Restaurant,2,-0.18,4,0.35,Business Traveler,Medium
+R0689,U4359,"Worst Hotel I've had in Rome, Italy. Completely dissatisfied.",2024-06-02,"Rome, Italy",Hotel,1,-0.72,4,0.21,Budget Traveler,Low
+R0690,U6451,"Absolutely loved the Restaurant experience in Paris, France. Exceeded all expectations!",2024-12-05,"Paris, France",Restaurant,5,0.85,4,0.83,Solo Traveler,High
+R0691,U4405,"Disappointing Hotel experience at Sydney, Australia. Would not recommend.",2025-04-05,"Sydney, Australia",Hotel,2,-0.24,3,0.29,Family Tourist,Low
+R0692,U7499,"The City Tour at Rome, Italy was okay. Could be better.",2025-01-11,"Rome, Italy",City Tour,3,-0.09,4,0.69,Family Tourist,Medium
+R0693,U6155,"Very good City Tour in Rome, Italy. Met most of my expectations.",2024-12-18,"Rome, Italy",City Tour,4,0.61,3,0.7,Luxury Seeker,Medium
+R0694,U3919,"Absolutely loved the Restaurant experience in Tokyo, Japan. Exceeded all expectations!",2025-03-01,"Tokyo, Japan",Restaurant,5,0.87,1,0.82,Business Traveler,High
+R0695,U4933,"Decent Adventure Tour in Sydney, Australia, but room for improvement.",2024-11-12,"Sydney, Australia",Adventure Tour,3,0.03,1,0.53,Luxury Seeker,Medium
+R0696,U4978,"Average Transport experience in Paris, France. Nothing special.",2025-03-12,"Paris, France",Transport,3,0.02,1,0.87,Solo Traveler,Medium
+R0697,U7365,"Had problems with the City Tour in New York, USA. Needs improvement.",2025-05-10,"New York, USA",City Tour,2,-0.12,3,0.34,Budget Traveler,Medium
+R0698,U7011,"Avoid the City Tour at New York, USA. Very poor service.",2025-04-27,"New York, USA",City Tour,1,-0.42,2,0.81,Budget Traveler,Medium
+R0699,U9049,"The Adventure Tour at Paris, France was okay. Could be better.",2024-10-15,"Paris, France",Adventure Tour,3,-0.08,3,0.22,Solo Traveler,Medium
+R0700,U9326,"Had problems with the City Tour in Sydney, Australia. Needs improvement.",2025-01-26,"Sydney, Australia",City Tour,2,-0.29,5,0.99,Budget Traveler,Medium
+R0701,U7592,"Average Hotel experience in Paris, France. Nothing special.",2024-11-25,"Paris, France",Hotel,3,0.14,4,0.6,Budget Traveler,Medium
+R0702,U3517,"Decent Adventure Tour in New York, USA, but room for improvement.",2024-11-05,"New York, USA",Adventure Tour,3,0.1,1,0.22,Budget Traveler,Medium
+R0703,U1297,"Had problems with the Adventure Tour in Rome, Italy. Needs improvement.",2024-09-09,"Rome, Italy",Adventure Tour,2,-0.26,5,0.21,Family Tourist,Low
+R0704,U2846,"Decent Transport in Paris, France, but room for improvement.",2025-04-11,"Paris, France",Transport,3,0.38,4,0.63,Luxury Seeker,Medium
+R0705,U3701,"Avoid the City Tour at Rome, Italy. Very poor service.",2024-05-15,"Rome, Italy",City Tour,1,-0.61,3,0.65,Luxury Seeker,Medium
+R0706,U1921,"The best Restaurant I've ever had in New York, USA. Will come back again!",2024-05-16,"New York, USA",Restaurant,5,0.82,1,0.53,Business Traveler,Medium
+R0707,U4466,"Average Hotel experience in New York, USA. Nothing special.",2024-07-16,"New York, USA",Hotel,3,0.29,3,0.74,Family Tourist,Medium
+R0708,U8719,"Decent Adventure Tour in Tokyo, Japan, but room for improvement.",2024-09-27,"Tokyo, Japan",Adventure Tour,3,0.15,1,0.01,Budget Traveler,Medium
+R0709,U4450,"Not impressed with the Transport in Rome, Italy. Several issues encountered.",2024-08-02,"Rome, Italy",Transport,2,-0.32,4,0.55,Family Tourist,Medium
+R0710,U9803,"Enjoyed the City Tour at New York, USA. Would recommend to others.",2024-11-04,"New York, USA",City Tour,4,0.62,5,0.85,Budget Traveler,High
+R0711,U1523,"Not impressed with the Hotel in Sydney, Australia. Several issues encountered.",2025-02-27,"Sydney, Australia",Hotel,2,-0.16,5,0.03,Luxury Seeker,Low
+R0712,U9582,"Disappointing Adventure Tour experience at Sydney, Australia. Would not recommend.",2024-05-28,"Sydney, Australia",Adventure Tour,2,-0.23,5,0.6,Family Tourist,Medium
+R0713,U1398,"Decent Adventure Tour in Paris, France, but room for improvement.",2024-11-03,"Paris, France",Adventure Tour,3,0.08,5,0.93,Solo Traveler,Medium
+R0714,U4038,"Avoid the City Tour at Rome, Italy. Very poor service.",2024-12-11,"Rome, Italy",City Tour,1,-0.43,1,0.12,Family Tourist,Low
+R0715,U1947,"Enjoyed the Hotel at Rome, Italy. Would recommend to others.",2024-12-22,"Rome, Italy",Hotel,4,0.55,1,0.86,Family Tourist,High
+R0716,U1032,"Not impressed with the City Tour in Tokyo, Japan. Several issues encountered.",2025-03-29,"Tokyo, Japan",City Tour,2,-0.36,4,0.97,Solo Traveler,Medium
+R0717,U6923,"Worst Adventure Tour I've had in New York, USA. Completely dissatisfied.",2024-08-16,"New York, USA",Adventure Tour,1,-0.96,4,0.63,Business Traveler,Medium
+R0718,U7318,"Worst Restaurant I've had in Tokyo, Japan. Completely dissatisfied.",2025-01-13,"Tokyo, Japan",Restaurant,1,-0.48,2,0.61,Solo Traveler,Medium
+R0719,U7125,"Not impressed with the Transport in Rome, Italy. Several issues encountered.",2024-07-29,"Rome, Italy",Transport,2,-0.14,1,0.99,Budget Traveler,Medium
+R0720,U9071,"Absolutely loved the Transport experience in Tokyo, Japan. Exceeded all expectations!",2024-06-05,"Tokyo, Japan",Transport,5,0.71,5,0.33,Business Traveler,Medium
+R0721,U6849,"Decent City Tour in New York, USA, but room for improvement.",2025-02-26,"New York, USA",City Tour,3,-0.03,3,0.85,Family Tourist,Medium
+R0722,U9725,"Had problems with the Restaurant in Tokyo, Japan. Needs improvement.",2025-03-14,"Tokyo, Japan",Restaurant,2,-0.16,2,0.29,Business Traveler,Low
+R0723,U8236,"Average Transport experience in Rome, Italy. Nothing special.",2024-12-04,"Rome, Italy",Transport,3,0.17,5,0.55,Family Tourist,Medium
+R0724,U5587,"Worst City Tour I've had in New York, USA. Completely dissatisfied.",2025-03-16,"New York, USA",City Tour,1,-0.97,4,0.29,Business Traveler,Low
+R0725,U7559,"Absolutely loved the Hotel experience in Sydney, Australia. Exceeded all expectations!",2024-12-24,"Sydney, Australia",Hotel,5,0.77,1,0.9,Luxury Seeker,High
+R0726,U8640,"Disappointing Transport experience at Rome, Italy. Would not recommend.",2024-09-26,"Rome, Italy",Transport,2,-0.27,3,0.06,Business Traveler,Low
+R0727,U8437,"Absolutely loved the Hotel experience in Paris, France. Exceeded all expectations!",2025-01-25,"Paris, France",Hotel,5,0.79,3,0.22,Business Traveler,Medium
+R0728,U5273,"Avoid the Restaurant at New York, USA. Very poor service.",2025-02-28,"New York, USA",Restaurant,1,-0.62,2,0.67,Budget Traveler,Medium
+R0729,U7172,"Had problems with the Hotel in Sydney, Australia. Needs improvement.",2024-05-31,"Sydney, Australia",Hotel,2,-0.29,5,0.98,Budget Traveler,Medium
+R0730,U7489,"Worst Restaurant I've had in Rome, Italy. Completely dissatisfied.",2024-12-14,"Rome, Italy",Restaurant,1,-0.85,5,0.44,Luxury Seeker,Medium
+R0731,U1131,"Avoid the Transport at Paris, France. Very poor service.",2024-08-06,"Paris, France",Transport,1,-0.97,2,0.79,Solo Traveler,Medium
+R0732,U7257,"Fantastic Transport experience at Paris, France. Highly recommend!",2024-08-01,"Paris, France",Transport,5,0.95,1,0.33,Business Traveler,Medium
+R0733,U1747,"Very good Restaurant in Sydney, Australia. Met most of my expectations.",2024-10-14,"Sydney, Australia",Restaurant,4,0.66,1,0.54,Solo Traveler,Medium
+R0734,U2627,"Decent Hotel in Sydney, Australia, but room for improvement.",2024-09-27,"Sydney, Australia",Hotel,3,0.23,4,0.12,Luxury Seeker,Medium
+R0735,U5618,"Decent Restaurant in Paris, France, but room for improvement.",2024-05-29,"Paris, France",Restaurant,3,0.07,1,0.82,Family Tourist,Medium
+R0736,U7090,"Worst Restaurant I've had in New York, USA. Completely dissatisfied.",2025-04-28,"New York, USA",Restaurant,1,-0.98,2,0.38,Budget Traveler,Medium
+R0737,U6935,"Absolutely loved the Adventure Tour experience in Sydney, Australia. Exceeded all expectations!",2024-10-03,"Sydney, Australia",Adventure Tour,5,0.88,2,0.12,Family Tourist,Medium
+R0738,U1787,"The best Adventure Tour I've ever had in Paris, France. Will come back again!",2024-05-30,"Paris, France",Adventure Tour,5,0.77,2,0.52,Luxury Seeker,Medium
+R0739,U8797,"Enjoyed the City Tour at Rome, Italy. Would recommend to others.",2025-02-28,"Rome, Italy",City Tour,4,0.42,3,0.4,Budget Traveler,Medium
+R0740,U4969,"Absolutely loved the Hotel experience in Paris, France. Exceeded all expectations!",2024-09-28,"Paris, France",Hotel,5,0.82,5,0.75,Luxury Seeker,High
+R0741,U3160,"Decent Transport in Rome, Italy, but room for improvement.",2024-12-25,"Rome, Italy",Transport,3,0.35,2,0.56,Family Tourist,Medium
+R0742,U4960,"Disappointing Transport experience at Paris, France. Would not recommend.",2025-04-28,"Paris, France",Transport,2,-0.23,5,0.8,Family Tourist,Medium
+R0743,U2805,"Not impressed with the Adventure Tour in Paris, France. Several issues encountered.",2024-12-12,"Paris, France",Adventure Tour,2,-0.17,3,0.01,Family Tourist,Low
+R0744,U8425,"The best City Tour I've ever had in Tokyo, Japan. Will come back again!",2025-02-11,"Tokyo, Japan",City Tour,5,0.78,1,0.26,Budget Traveler,Medium
+R0745,U3538,"The best Hotel I've ever had in New York, USA. Will come back again!",2024-12-28,"New York, USA",Hotel,5,0.8,1,0.09,Solo Traveler,Medium
+R0746,U8955,"Disappointing City Tour experience at Paris, France. Would not recommend.",2024-11-07,"Paris, France",City Tour,2,-0.37,2,0.59,Solo Traveler,Medium
+R0747,U3017,"Disappointing Transport experience at Rome, Italy. Would not recommend.",2025-03-13,"Rome, Italy",Transport,2,-0.16,2,0.01,Business Traveler,Low
+R0748,U6332,"Worst Transport I've had in Paris, France. Completely dissatisfied.",2025-01-06,"Paris, France",Transport,1,-0.98,3,0.81,Luxury Seeker,Medium
+R0749,U1914,"Great Hotel experience in New York, USA. A few minor issues but overall satisfied.",2025-03-06,"New York, USA",Hotel,4,0.7,3,0.98,Budget Traveler,High
+R0750,U7237,"Absolutely loved the City Tour experience in Sydney, Australia. Exceeded all expectations!",2025-05-07,"Sydney, Australia",City Tour,5,0.82,2,0.18,Solo Traveler,Medium
+R0751,U8854,"The Adventure Tour at Sydney, Australia was okay. Could be better.",2025-02-04,"Sydney, Australia",Adventure Tour,3,0.22,3,0.31,Family Tourist,Medium
+R0752,U2273,"Fantastic Transport experience at Tokyo, Japan. Highly recommend!",2025-02-17,"Tokyo, Japan",Transport,5,0.89,5,0.29,Solo Traveler,Medium
+R0753,U6228,"Not impressed with the Transport in Rome, Italy. Several issues encountered.",2024-10-02,"Rome, Italy",Transport,2,-0.23,5,0.54,Budget Traveler,Medium
+R0754,U8022,"The Hotel at Tokyo, Japan was okay. Could be better.",2025-01-01,"Tokyo, Japan",Hotel,3,0.04,3,0.76,Business Traveler,Medium
+R0755,U8424,"Fantastic City Tour experience at Paris, France. Highly recommend!",2024-10-06,"Paris, France",City Tour,5,0.84,2,0.37,Luxury Seeker,Medium
+R0756,U3859,"Avoid the Restaurant at New York, USA. Very poor service.",2024-05-30,"New York, USA",Restaurant,1,-0.97,2,0.57,Solo Traveler,Medium
+R0757,U5321,"Absolutely loved the Adventure Tour experience in Tokyo, Japan. Exceeded all expectations!",2024-07-07,"Tokyo, Japan",Adventure Tour,5,0.95,2,0.19,Luxury Seeker,Medium
+R0758,U6926,"Very good Restaurant in Rome, Italy. Met most of my expectations.",2024-09-22,"Rome, Italy",Restaurant,4,0.63,4,0.13,Family Tourist,Medium
+R0759,U4996,"The best City Tour I've ever had in Rome, Italy. Will come back again!",2024-12-17,"Rome, Italy",City Tour,5,0.86,5,0.41,Luxury Seeker,Medium
+R0760,U4638,"Enjoyed the Hotel at New York, USA. Would recommend to others.",2024-07-28,"New York, USA",Hotel,4,0.6,2,0.26,Luxury Seeker,Medium
+R0761,U5961,"Enjoyed the Hotel at Tokyo, Japan. Would recommend to others.",2024-05-22,"Tokyo, Japan",Hotel,4,0.49,1,0.37,Luxury Seeker,Medium
+R0762,U1029,"Worst Hotel I've had in Sydney, Australia. Completely dissatisfied.",2024-08-17,"Sydney, Australia",Hotel,1,-0.45,4,0.95,Luxury Seeker,Medium
+R0763,U5350,"Had problems with the City Tour in New York, USA. Needs improvement.",2024-11-20,"New York, USA",City Tour,2,-0.15,5,0.42,Family Tourist,Medium
+R0764,U6333,"Worst City Tour I've had in New York, USA. Completely dissatisfied.",2024-12-15,"New York, USA",City Tour,1,-0.74,2,0.03,Solo Traveler,Low
+R0765,U9398,"The Hotel at Rome, Italy was okay. Could be better.",2025-05-10,"Rome, Italy",Hotel,3,0.29,3,0.44,Solo Traveler,Medium
+R0766,U7550,"Not impressed with the Adventure Tour in Rome, Italy. Several issues encountered.",2024-10-25,"Rome, Italy",Adventure Tour,2,-0.38,5,0.94,Business Traveler,Medium
+R0767,U1498,"Great Hotel experience in Tokyo, Japan. A few minor issues but overall satisfied.",2024-05-19,"Tokyo, Japan",Hotel,4,0.62,5,0.46,Luxury Seeker,Medium
+R0768,U6652,"Not impressed with the Adventure Tour in Sydney, Australia. Several issues encountered.",2024-09-03,"Sydney, Australia",Adventure Tour,2,-0.14,3,0.62,Family Tourist,Medium
+R0769,U3127,"Worst Restaurant I've had in Paris, France. Completely dissatisfied.",2024-10-28,"Paris, France",Restaurant,1,-0.91,4,0.52,Budget Traveler,Medium
+R0770,U9933,"Great Transport experience in Paris, France. A few minor issues but overall satisfied.",2024-05-20,"Paris, France",Transport,4,0.51,2,0.29,Budget Traveler,Medium
+R0771,U3597,"Fantastic Hotel experience at Rome, Italy. Highly recommend!",2024-12-17,"Rome, Italy",Hotel,5,0.8,2,0.5,Family Tourist,Medium
+R0772,U1427,"Worst Transport I've had in Tokyo, Japan. Completely dissatisfied.",2025-01-07,"Tokyo, Japan",Transport,1,-0.53,4,0.93,Business Traveler,Medium
+R0773,U1981,"The Transport at Paris, France was okay. Could be better.",2025-04-09,"Paris, France",Transport,3,0.26,2,0.76,Family Tourist,Medium
+R0774,U3347,"Average Hotel experience in Sydney, Australia. Nothing special.",2025-05-11,"Sydney, Australia",Hotel,3,-0.1,4,0.44,Business Traveler,Medium
+R0775,U9525,"Enjoyed the Hotel at Paris, France. Would recommend to others.",2025-02-16,"Paris, France",Hotel,4,0.66,1,0.04,Budget Traveler,Medium
+R0776,U1535,"Average Adventure Tour experience in New York, USA. Nothing special.",2024-10-23,"New York, USA",Adventure Tour,3,-0.08,5,0.06,Luxury Seeker,Medium
+R0777,U5818,"Terrible Hotel experience in Sydney, Australia. Will not return.",2025-03-31,"Sydney, Australia",Hotel,1,-0.74,3,0.37,Solo Traveler,Medium
+R0778,U1514,"Decent Restaurant in Rome, Italy, but room for improvement.",2024-07-20,"Rome, Italy",Restaurant,3,0.07,2,0.38,Family Tourist,Medium
+R0779,U7625,"Very good Hotel in Sydney, Australia. Met most of my expectations.",2024-06-01,"Sydney, Australia",Hotel,4,0.48,3,0.32,Family Tourist,Medium
+R0780,U5853,"Enjoyed the Restaurant at Paris, France. Would recommend to others.",2025-04-23,"Paris, France",Restaurant,4,0.54,3,0.18,Business Traveler,Medium
+R0781,U3989,"Absolutely loved the Transport experience in Tokyo, Japan. Exceeded all expectations!",2024-06-09,"Tokyo, Japan",Transport,5,0.77,5,0.57,Luxury Seeker,Medium
+R0782,U4305,"Had problems with the Restaurant in Rome, Italy. Needs improvement.",2024-11-09,"Rome, Italy",Restaurant,2,-0.17,1,0.55,Solo Traveler,Medium
+R0783,U7892,"Average Hotel experience in Tokyo, Japan. Nothing special.",2024-08-20,"Tokyo, Japan",Hotel,3,0.24,1,0.95,Budget Traveler,Medium
+R0784,U9033,"Absolutely loved the City Tour experience in Sydney, Australia. Exceeded all expectations!",2024-11-08,"Sydney, Australia",City Tour,5,0.98,5,0.74,Business Traveler,High
+R0785,U3671,"Not impressed with the Adventure Tour in Rome, Italy. Several issues encountered.",2024-10-28,"Rome, Italy",Adventure Tour,2,-0.14,5,0.91,Family Tourist,Medium
+R0786,U4155,"Had problems with the Adventure Tour in Sydney, Australia. Needs improvement.",2024-10-22,"Sydney, Australia",Adventure Tour,2,-0.22,3,0.18,Budget Traveler,Low
+R0787,U2764,"The Adventure Tour at Tokyo, Japan was okay. Could be better.",2024-11-06,"Tokyo, Japan",Adventure Tour,3,0.24,5,0.3,Budget Traveler,Medium
+R0788,U3766,"Had problems with the Adventure Tour in Rome, Italy. Needs improvement.",2024-09-06,"Rome, Italy",Adventure Tour,2,-0.28,1,0.39,Luxury Seeker,Medium
+R0789,U4145,"Terrible Hotel experience in Tokyo, Japan. Will not return.",2024-12-27,"Tokyo, Japan",Hotel,1,-0.7,5,0.18,Solo Traveler,Low
+R0790,U1732,"The best Adventure Tour I've ever had in Paris, France. Will come back again!",2024-06-06,"Paris, France",Adventure Tour,5,0.74,1,0.44,Budget Traveler,Medium
+R0791,U2744,"Enjoyed the Adventure Tour at New York, USA. Would recommend to others.",2024-09-17,"New York, USA",Adventure Tour,4,0.41,3,0.67,Family Tourist,Medium
+R0792,U6225,"Very good Hotel in Tokyo, Japan. Met most of my expectations.",2025-04-19,"Tokyo, Japan",Hotel,4,0.45,5,0.38,Luxury Seeker,Medium
+R0793,U2493,"Disappointing Hotel experience at Paris, France. Would not recommend.",2024-11-28,"Paris, France",Hotel,2,-0.25,5,0.2,Luxury Seeker,Low
+R0794,U9716,"Avoid the Hotel at Paris, France. Very poor service.",2025-01-15,"Paris, France",Hotel,1,-0.62,2,0.77,Family Tourist,Medium
+R0795,U7922,"Very good Hotel in Rome, Italy. Met most of my expectations.",2024-05-30,"Rome, Italy",Hotel,4,0.45,2,0.4,Luxury Seeker,Medium
+R0796,U2147,"Worst Transport I've had in Sydney, Australia. Completely dissatisfied.",2025-03-28,"Sydney, Australia",Transport,1,-0.5,5,0.48,Family Tourist,Medium
+R0797,U1663,"The best Restaurant I've ever had in Rome, Italy. Will come back again!",2025-01-05,"Rome, Italy",Restaurant,5,0.8,3,0.55,Luxury Seeker,Medium
+R0798,U9582,"Enjoyed the Adventure Tour at Sydney, Australia. Would recommend to others.",2025-03-03,"Sydney, Australia",Adventure Tour,4,0.57,1,0.18,Solo Traveler,Medium
+R0799,U5733,"Absolutely loved the City Tour experience in Sydney, Australia. Exceeded all expectations!",2024-11-18,"Sydney, Australia",City Tour,5,0.87,5,0.6,Solo Traveler,Medium
+R0800,U3792,"Great Adventure Tour experience in New York, USA. A few minor issues but overall satisfied.",2024-08-31,"New York, USA",Adventure Tour,4,0.45,1,0.28,Budget Traveler,Medium
+R0801,U9050,"Very good Hotel in New York, USA. Met most of my expectations.",2024-09-12,"New York, USA",Hotel,4,0.46,1,0.18,Budget Traveler,Medium
+R0802,U4261,"Decent Transport in Rome, Italy, but room for improvement.",2025-02-19,"Rome, Italy",Transport,3,0.08,2,0.79,Family Tourist,Medium
+R0803,U9960,"Absolutely loved the Hotel experience in Tokyo, Japan. Exceeded all expectations!",2025-05-12,"Tokyo, Japan",Hotel,5,0.83,3,0.09,Solo Traveler,Medium
+R0804,U4536,"Terrible Hotel experience in Paris, France. Will not return.",2024-12-05,"Paris, France",Hotel,1,-0.75,2,0.22,Luxury Seeker,Low
+R0805,U7965,"Enjoyed the Restaurant at Tokyo, Japan. Would recommend to others.",2024-11-08,"Tokyo, Japan",Restaurant,4,0.47,2,0.52,Budget Traveler,Medium
+R0806,U8844,"Fantastic Adventure Tour experience at Sydney, Australia. Highly recommend!",2024-11-12,"Sydney, Australia",Adventure Tour,5,0.99,1,0.8,Luxury Seeker,High
+R0807,U3572,"Enjoyed the Restaurant at Tokyo, Japan. Would recommend to others.",2025-05-07,"Tokyo, Japan",Restaurant,4,0.5,3,0.55,Business Traveler,Medium
+R0808,U6255,"Decent Adventure Tour in Sydney, Australia, but room for improvement.",2024-11-02,"Sydney, Australia",Adventure Tour,3,0.04,3,0.44,Budget Traveler,Medium
+R0809,U8851,"Enjoyed the Restaurant at New York, USA. Would recommend to others.",2025-04-26,"New York, USA",Restaurant,4,0.51,5,0.11,Budget Traveler,Medium
+R0810,U2654,"Terrible Hotel experience in New York, USA. Will not return.",2024-08-28,"New York, USA",Hotel,1,-0.81,1,0.07,Family Tourist,Low
+R0811,U4041,"The Restaurant at Tokyo, Japan was okay. Could be better.",2024-12-24,"Tokyo, Japan",Restaurant,3,0.35,2,0.42,Luxury Seeker,Medium
+R0812,U5771,"Great Adventure Tour experience in Sydney, Australia. A few minor issues but overall satisfied.",2024-10-21,"Sydney, Australia",Adventure Tour,4,0.53,5,0.58,Luxury Seeker,Medium
+R0813,U4826,"Fantastic Adventure Tour experience at Tokyo, Japan. Highly recommend!",2025-01-22,"Tokyo, Japan",Adventure Tour,5,0.81,5,0.83,Solo Traveler,High
+R0814,U2733,"Terrible City Tour experience in Rome, Italy. Will not return.",2025-04-12,"Rome, Italy",City Tour,1,-0.7,1,0.52,Business Traveler,Medium
+R0815,U4643,"Great Transport experience in Sydney, Australia. A few minor issues but overall satisfied.",2024-10-15,"Sydney, Australia",Transport,4,0.47,5,0.29,Budget Traveler,Medium
+R0816,U8993,"Had problems with the Hotel in Sydney, Australia. Needs improvement.",2025-04-09,"Sydney, Australia",Hotel,2,-0.19,2,0.68,Family Tourist,Medium
+R0817,U3983,"Great City Tour experience in Paris, France. A few minor issues but overall satisfied.",2024-06-13,"Paris, France",City Tour,4,0.67,2,0.09,Business Traveler,Medium
+R0818,U1419,"Worst City Tour I've had in Rome, Italy. Completely dissatisfied.",2024-08-01,"Rome, Italy",City Tour,1,-0.45,2,0.87,Luxury Seeker,Medium
+R0819,U4174,"Average Transport experience in Paris, France. Nothing special.",2024-09-29,"Paris, France",Transport,3,0.08,5,0.89,Business Traveler,Medium
+R0820,U4670,"Not impressed with the Transport in Sydney, Australia. Several issues encountered.",2025-02-23,"Sydney, Australia",Transport,2,-0.29,3,0.97,Family Tourist,Medium
+R0821,U6396,"Terrible City Tour experience in Rome, Italy. Will not return.",2024-08-23,"Rome, Italy",City Tour,1,-0.6,4,0.18,Luxury Seeker,Low
+R0822,U1510,"Fantastic Adventure Tour experience at Tokyo, Japan. Highly recommend!",2024-07-08,"Tokyo, Japan",Adventure Tour,5,0.72,2,0.38,Budget Traveler,Medium
+R0823,U6264,"Absolutely loved the Transport experience in Sydney, Australia. Exceeded all expectations!",2025-02-14,"Sydney, Australia",Transport,5,0.75,5,0.75,Luxury Seeker,High
+R0824,U5089,"Great City Tour experience in New York, USA. A few minor issues but overall satisfied.",2025-04-04,"New York, USA",City Tour,4,0.57,1,0.98,Luxury Seeker,High
+R0825,U5233,"Avoid the Adventure Tour at Tokyo, Japan. Very poor service.",2025-01-04,"Tokyo, Japan",Adventure Tour,1,-0.77,4,0.84,Budget Traveler,Medium
+R0826,U8931,"Avoid the Transport at Sydney, Australia. Very poor service.",2025-03-31,"Sydney, Australia",Transport,1,-0.79,3,0.03,Luxury Seeker,Low
+R0827,U1156,"Not impressed with the City Tour in Sydney, Australia. Several issues encountered.",2024-06-29,"Sydney, Australia",City Tour,2,-0.39,2,0.26,Family Tourist,Low
+R0828,U2619,"Enjoyed the Hotel at New York, USA. Would recommend to others.",2025-02-27,"New York, USA",Hotel,4,0.62,4,0.62,Business Traveler,Medium
+R0829,U5549,"Great Hotel experience in Paris, France. A few minor issues but overall satisfied.",2024-06-19,"Paris, France",Hotel,4,0.67,5,0.55,Family Tourist,Medium
+R0830,U7635,"Not impressed with the Transport in Paris, France. Several issues encountered.",2024-08-18,"Paris, France",Transport,2,-0.12,2,0.51,Solo Traveler,Medium
+R0831,U1809,"Great Restaurant experience in Tokyo, Japan. A few minor issues but overall satisfied.",2024-12-05,"Tokyo, Japan",Restaurant,4,0.48,5,0.52,Business Traveler,Medium
+R0832,U3441,"The City Tour at Tokyo, Japan was okay. Could be better.",2024-12-15,"Tokyo, Japan",City Tour,3,0.38,5,0.19,Budget Traveler,Medium
+R0833,U8248,"Great Adventure Tour experience in New York, USA. A few minor issues but overall satisfied.",2025-04-16,"New York, USA",Adventure Tour,4,0.44,3,0.19,Budget Traveler,Medium
+R0834,U4831,"The best Adventure Tour I've ever had in New York, USA. Will come back again!",2025-03-15,"New York, USA",Adventure Tour,5,0.99,1,0.32,Family Tourist,Medium
+R0835,U5352,"Fantastic Adventure Tour experience at Rome, Italy. Highly recommend!",2024-08-03,"Rome, Italy",Adventure Tour,5,0.86,3,0.83,Luxury Seeker,High
+R0836,U9912,"Decent Hotel in Sydney, Australia, but room for improvement.",2024-09-30,"Sydney, Australia",Hotel,3,0.17,2,0.76,Budget Traveler,Medium
+R0837,U3199,"The best Restaurant I've ever had in Tokyo, Japan. Will come back again!",2025-04-22,"Tokyo, Japan",Restaurant,5,0.78,4,0.18,Solo Traveler,Medium
+R0838,U8245,"Terrible Hotel experience in Paris, France. Will not return.",2024-10-23,"Paris, France",Hotel,1,-0.46,4,0.25,Family Tourist,Low
+R0839,U2853,"Had problems with the City Tour in Sydney, Australia. Needs improvement.",2024-11-14,"Sydney, Australia",City Tour,2,-0.2,4,0.53,Luxury Seeker,Medium
+R0840,U7608,"Decent Hotel in New York, USA, but room for improvement.",2024-07-23,"New York, USA",Hotel,3,0.25,5,0.29,Luxury Seeker,Medium
+R0841,U3909,"Terrible City Tour experience in Paris, France. Will not return.",2024-06-15,"Paris, France",City Tour,1,-0.7,4,0.19,Solo Traveler,Low
+R0842,U2517,"Disappointing Restaurant experience at Tokyo, Japan. Would not recommend.",2024-08-31,"Tokyo, Japan",Restaurant,2,-0.4,4,0.85,Budget Traveler,Medium
+R0843,U4133,"The Transport at Rome, Italy was okay. Could be better.",2024-09-25,"Rome, Italy",Transport,3,0.25,1,0.64,Business Traveler,Medium
+R0844,U8367,"Disappointing Restaurant experience at Sydney, Australia. Would not recommend.",2024-08-01,"Sydney, Australia",Restaurant,2,-0.38,2,0.36,Solo Traveler,Medium
+R0845,U9937,"Great City Tour experience in Rome, Italy. A few minor issues but overall satisfied.",2024-06-04,"Rome, Italy",City Tour,4,0.67,3,0.11,Business Traveler,Medium
+R0846,U9892,"Enjoyed the City Tour at Rome, Italy. Would recommend to others.",2024-12-21,"Rome, Italy",City Tour,4,0.58,1,0.89,Solo Traveler,High
+R0847,U2703,"Fantastic Hotel experience at New York, USA. Highly recommend!",2025-03-14,"New York, USA",Hotel,5,0.83,2,0.45,Solo Traveler,Medium
+R0848,U4685,"Very good City Tour in Paris, France. Met most of my expectations.",2025-02-02,"Paris, France",City Tour,4,0.47,1,0.91,Luxury Seeker,Medium
+R0849,U7001,"Very good Adventure Tour in Rome, Italy. Met most of my expectations.",2024-05-28,"Rome, Italy",Adventure Tour,4,0.65,5,0.63,Business Traveler,Medium
+R0850,U1278,"Average Hotel experience in Rome, Italy. Nothing special.",2024-10-01,"Rome, Italy",Hotel,3,0.15,4,0.11,Budget Traveler,Medium
+R0851,U3490,"Fantastic City Tour experience at New York, USA. Highly recommend!",2025-04-25,"New York, USA",City Tour,5,0.72,5,0.63,Solo Traveler,Medium
+R0852,U7839,"The Adventure Tour at Rome, Italy was okay. Could be better.",2024-06-16,"Rome, Italy",Adventure Tour,3,0.04,4,0.33,Budget Traveler,Medium
+R0853,U3086,"Not impressed with the Adventure Tour in Paris, France. Several issues encountered.",2025-03-15,"Paris, France",Adventure Tour,2,-0.32,5,0.41,Solo Traveler,Medium
+R0854,U9866,"Worst Transport I've had in Paris, France. Completely dissatisfied.",2024-06-10,"Paris, France",Transport,1,-0.74,5,0.12,Solo Traveler,Low
+R0855,U7461,"Enjoyed the Hotel at Rome, Italy. Would recommend to others.",2024-10-23,"Rome, Italy",Hotel,4,0.65,5,0.17,Budget Traveler,Medium
+R0856,U6278,"Absolutely loved the City Tour experience in Rome, Italy. Exceeded all expectations!",2024-11-26,"Rome, Italy",City Tour,5,0.93,1,0.53,Family Tourist,Medium
+R0857,U8955,"The Hotel at Sydney, Australia was okay. Could be better.",2024-08-23,"Sydney, Australia",Hotel,3,0.16,2,0.0,Luxury Seeker,Medium
+R0858,U6984,"Very good Adventure Tour in Paris, France. Met most of my expectations.",2025-01-18,"Paris, France",Adventure Tour,4,0.52,5,0.09,Business Traveler,Medium
+R0859,U4624,"The Transport at Rome, Italy was okay. Could be better.",2024-09-23,"Rome, Italy",Transport,3,0.11,4,0.71,Business Traveler,Medium
+R0860,U1763,"The Transport at Rome, Italy was okay. Could be better.",2024-12-03,"Rome, Italy",Transport,3,0.3,4,0.3,Solo Traveler,Medium
+R0861,U2209,"Disappointing Restaurant experience at Sydney, Australia. Would not recommend.",2024-08-29,"Sydney, Australia",Restaurant,2,-0.23,5,0.09,Luxury Seeker,Low
+R0862,U3442,"Great Transport experience in Rome, Italy. A few minor issues but overall satisfied.",2025-02-23,"Rome, Italy",Transport,4,0.6,2,0.66,Solo Traveler,Medium
+R0863,U3680,"Average Hotel experience in Paris, France. Nothing special.",2024-12-15,"Paris, France",Hotel,3,0.01,4,0.44,Family Tourist,Medium
+R0864,U7533,"Average City Tour experience in Paris, France. Nothing special.",2024-11-08,"Paris, France",City Tour,3,0.28,4,0.23,Family Tourist,Medium
+R0865,U2932,"The Hotel at Tokyo, Japan was okay. Could be better.",2024-08-27,"Tokyo, Japan",Hotel,3,-0.06,4,0.95,Solo Traveler,Medium
+R0866,U5876,"Had problems with the Transport in New York, USA. Needs improvement.",2025-01-11,"New York, USA",Transport,2,-0.16,3,0.8,Budget Traveler,Medium
+R0867,U6864,"Not impressed with the City Tour in Paris, France. Several issues encountered.",2024-12-24,"Paris, France",City Tour,2,-0.39,3,0.58,Budget Traveler,Medium
+R0868,U2545,"Worst Adventure Tour I've had in Tokyo, Japan. Completely dissatisfied.",2024-09-16,"Tokyo, Japan",Adventure Tour,1,-0.57,4,0.43,Solo Traveler,Medium
+R0869,U8004,"Had problems with the Restaurant in New York, USA. Needs improvement.",2024-08-13,"New York, USA",Restaurant,2,-0.33,1,0.19,Solo Traveler,Low
+R0870,U7604,"Fantastic Transport experience at New York, USA. Highly recommend!",2024-09-29,"New York, USA",Transport,5,0.91,5,0.95,Budget Traveler,High
+R0871,U9403,"The Transport at Sydney, Australia was okay. Could be better.",2024-06-06,"Sydney, Australia",Transport,3,0.17,4,0.21,Budget Traveler,Medium
+R0872,U9555,"Great Transport experience in New York, USA. A few minor issues but overall satisfied.",2024-07-17,"New York, USA",Transport,4,0.63,1,0.59,Business Traveler,Medium
+R0873,U4057,"Disappointing Adventure Tour experience at Tokyo, Japan. Would not recommend.",2024-07-04,"Tokyo, Japan",Adventure Tour,2,-0.14,3,0.86,Luxury Seeker,Medium
+R0874,U7417,"The Restaurant at New York, USA was okay. Could be better.",2025-01-08,"New York, USA",Restaurant,3,-0.1,1,0.47,Luxury Seeker,Medium
+R0875,U1369,"Decent Adventure Tour in Tokyo, Japan, but room for improvement.",2024-08-05,"Tokyo, Japan",Adventure Tour,3,-0.06,3,0.26,Business Traveler,Medium
+R0876,U6922,"Terrible City Tour experience in Sydney, Australia. Will not return.",2024-10-17,"Sydney, Australia",City Tour,1,-0.79,1,0.68,Solo Traveler,Medium
+R0877,U5529,"Enjoyed the Hotel at Rome, Italy. Would recommend to others.",2025-05-04,"Rome, Italy",Hotel,4,0.47,3,0.63,Budget Traveler,Medium
+R0878,U8487,"Enjoyed the City Tour at Tokyo, Japan. Would recommend to others.",2024-11-18,"Tokyo, Japan",City Tour,4,0.58,1,0.78,Budget Traveler,High
+R0879,U8944,"Great Hotel experience in Tokyo, Japan. A few minor issues but overall satisfied.",2024-12-11,"Tokyo, Japan",Hotel,4,0.42,4,0.39,Family Tourist,Medium
+R0880,U5774,"Average Transport experience in Tokyo, Japan. Nothing special.",2025-03-08,"Tokyo, Japan",Transport,3,0.24,3,0.89,Solo Traveler,Medium
+R0881,U2074,"Not impressed with the Adventure Tour in Tokyo, Japan. Several issues encountered.",2024-10-26,"Tokyo, Japan",Adventure Tour,2,-0.31,2,0.43,Solo Traveler,Medium
+R0882,U9486,"Decent Hotel in Rome, Italy, but room for improvement.",2024-05-21,"Rome, Italy",Hotel,3,0.18,2,0.21,Solo Traveler,Medium
+R0883,U6836,"Average Hotel experience in New York, USA. Nothing special.",2024-10-14,"New York, USA",Hotel,3,0.17,2,0.87,Family Tourist,Medium
+R0884,U4999,"Worst City Tour I've had in New York, USA. Completely dissatisfied.",2024-09-05,"New York, USA",City Tour,1,-0.78,4,0.07,Business Traveler,Low
+R0885,U3406,"Enjoyed the Adventure Tour at Paris, France. Would recommend to others.",2025-04-21,"Paris, France",Adventure Tour,4,0.47,1,0.05,Business Traveler,Medium
+R0886,U6049,"Not impressed with the City Tour in Paris, France. Several issues encountered.",2024-05-24,"Paris, France",City Tour,2,-0.38,3,0.41,Family Tourist,Medium
+R0887,U1003,"Fantastic Hotel experience at Sydney, Australia. Highly recommend!",2024-09-30,"Sydney, Australia",Hotel,5,0.83,1,0.5,Business Traveler,Medium
+R0888,U4159,"Very good Adventure Tour in Paris, France. Met most of my expectations.",2024-07-01,"Paris, France",Adventure Tour,4,0.62,4,0.29,Business Traveler,Medium
+R0889,U4880,"The Restaurant at Rome, Italy was okay. Could be better.",2024-10-12,"Rome, Italy",Restaurant,3,0.1,2,0.28,Business Traveler,Medium
+R0890,U2614,"Worst City Tour I've had in Sydney, Australia. Completely dissatisfied.",2024-08-06,"Sydney, Australia",City Tour,1,-0.99,2,0.37,Business Traveler,Medium
+R0891,U3131,"Great Transport experience in New York, USA. A few minor issues but overall satisfied.",2024-07-04,"New York, USA",Transport,4,0.57,4,0.26,Solo Traveler,Medium
+R0892,U2391,"Absolutely loved the Adventure Tour experience in Paris, France. Exceeded all expectations!",2024-05-18,"Paris, France",Adventure Tour,5,0.87,3,0.36,Business Traveler,Medium
+R0893,U2289,"Had problems with the Restaurant in New York, USA. Needs improvement.",2024-07-13,"New York, USA",Restaurant,2,-0.38,4,0.57,Budget Traveler,Medium
+R0894,U7138,"The Restaurant at Rome, Italy was okay. Could be better.",2024-11-01,"Rome, Italy",Restaurant,3,0.15,3,0.58,Family Tourist,Medium
+R0895,U7508,"Fantastic Adventure Tour experience at Paris, France. Highly recommend!",2024-07-15,"Paris, France",Adventure Tour,5,0.94,4,0.84,Luxury Seeker,High
+R0896,U4414,"Enjoyed the City Tour at Paris, France. Would recommend to others.",2025-01-01,"Paris, France",City Tour,4,0.58,5,0.74,Business Traveler,High
+R0897,U1355,"Fantastic Transport experience at Sydney, Australia. Highly recommend!",2025-05-03,"Sydney, Australia",Transport,5,0.73,3,0.5,Solo Traveler,Medium
+R0898,U5418,"Avoid the Adventure Tour at Paris, France. Very poor service.",2024-11-24,"Paris, France",Adventure Tour,1,-0.82,2,0.77,Family Tourist,Medium
+R0899,U1312,"Enjoyed the City Tour at Tokyo, Japan. Would recommend to others.",2025-04-21,"Tokyo, Japan",City Tour,4,0.6,3,0.08,Solo Traveler,Medium
+R0900,U5056,"Avoid the Hotel at Rome, Italy. Very poor service.",2024-05-26,"Rome, Italy",Hotel,1,-0.71,2,0.17,Solo Traveler,Low
+R0901,U2557,"Fantastic Restaurant experience at Paris, France. Highly recommend!",2025-01-20,"Paris, France",Restaurant,5,0.72,3,0.13,Business Traveler,Medium
+R0902,U7131,"Worst Adventure Tour I've had in Rome, Italy. Completely dissatisfied.",2024-11-09,"Rome, Italy",Adventure Tour,1,-0.8,1,0.41,Business Traveler,Medium
+R0903,U8216,"The best City Tour I've ever had in Sydney, Australia. Will come back again!",2024-12-05,"Sydney, Australia",City Tour,5,0.78,2,0.88,Budget Traveler,High
+R0904,U8577,"Very good Transport in Tokyo, Japan. Met most of my expectations.",2024-11-07,"Tokyo, Japan",Transport,4,0.61,2,0.87,Family Tourist,High
+R0905,U3756,"Decent Transport in Tokyo, Japan, but room for improvement.",2025-02-13,"Tokyo, Japan",Transport,3,0.38,5,0.35,Budget Traveler,Medium
+R0906,U6904,"Disappointing Transport experience at Rome, Italy. Would not recommend.",2025-04-30,"Rome, Italy",Transport,2,-0.38,2,0.71,Budget Traveler,Medium
+R0907,U5360,"Worst Hotel I've had in Sydney, Australia. Completely dissatisfied.",2025-01-13,"Sydney, Australia",Hotel,1,-0.73,3,0.48,Luxury Seeker,Medium
+R0908,U2486,"Worst Adventure Tour I've had in Rome, Italy. Completely dissatisfied.",2024-09-29,"Rome, Italy",Adventure Tour,1,-0.67,2,0.63,Luxury Seeker,Medium
+R0909,U3763,"Average Transport experience in Paris, France. Nothing special.",2025-04-07,"Paris, France",Transport,3,0.01,1,0.92,Family Tourist,Medium
+R0910,U5204,"Not impressed with the Adventure Tour in Rome, Italy. Several issues encountered.",2024-10-30,"Rome, Italy",Adventure Tour,2,-0.29,3,0.37,Luxury Seeker,Medium
+R0911,U4940,"Great Restaurant experience in Sydney, Australia. A few minor issues but overall satisfied.",2025-05-12,"Sydney, Australia",Restaurant,4,0.63,2,0.18,Business Traveler,Medium
+R0912,U8617,"Disappointing Transport experience at Tokyo, Japan. Would not recommend.",2025-04-04,"Tokyo, Japan",Transport,2,-0.34,2,0.02,Budget Traveler,Low
+R0913,U6958,"Great City Tour experience in Rome, Italy. A few minor issues but overall satisfied.",2024-07-27,"Rome, Italy",City Tour,4,0.43,5,0.02,Luxury Seeker,Medium
+R0914,U7025,"Terrible Transport experience in Sydney, Australia. Will not return.",2024-07-12,"Sydney, Australia",Transport,1,-0.42,1,0.89,Budget Traveler,Medium
+R0915,U5964,"The best Transport I've ever had in Rome, Italy. Will come back again!",2024-12-10,"Rome, Italy",Transport,5,0.86,5,0.51,Family Tourist,Medium
+R0916,U7184,"Worst Transport I've had in Rome, Italy. Completely dissatisfied.",2024-09-09,"Rome, Italy",Transport,1,-0.73,1,0.23,Luxury Seeker,Low
+R0917,U9151,"Had problems with the City Tour in Rome, Italy. Needs improvement.",2024-08-01,"Rome, Italy",City Tour,2,-0.27,4,0.92,Business Traveler,Medium
+R0918,U2233,"Decent Hotel in Rome, Italy, but room for improvement.",2025-01-01,"Rome, Italy",Hotel,3,-0.03,5,0.04,Business Traveler,Medium
+R0919,U3163,"Worst Transport I've had in New York, USA. Completely dissatisfied.",2024-08-02,"New York, USA",Transport,1,-0.75,5,0.62,Luxury Seeker,Medium
+R0920,U5691,"Terrible Hotel experience in New York, USA. Will not return.",2025-03-01,"New York, USA",Hotel,1,-0.6,2,0.72,Family Tourist,Medium
+R0921,U6794,"Not impressed with the City Tour in Tokyo, Japan. Several issues encountered.",2024-06-13,"Tokyo, Japan",City Tour,2,-0.3,5,0.94,Family Tourist,Medium
+R0922,U8437,"Enjoyed the Adventure Tour at Sydney, Australia. Would recommend to others.",2025-02-23,"Sydney, Australia",Adventure Tour,4,0.51,2,0.46,Business Traveler,Medium
+R0923,U1628,"Worst Adventure Tour I've had in Sydney, Australia. Completely dissatisfied.",2025-03-22,"Sydney, Australia",Adventure Tour,1,-0.54,5,0.89,Family Tourist,Medium
+R0924,U7866,"Had problems with the Transport in Tokyo, Japan. Needs improvement.",2025-04-06,"Tokyo, Japan",Transport,2,-0.29,3,0.44,Solo Traveler,Medium
+R0925,U9716,"Terrible City Tour experience in Rome, Italy. Will not return.",2024-09-17,"Rome, Italy",City Tour,1,-0.77,2,0.17,Business Traveler,Low
+R0926,U3022,"Avoid the Adventure Tour at Rome, Italy. Very poor service.",2024-09-08,"Rome, Italy",Adventure Tour,1,-0.8,4,0.73,Solo Traveler,Medium
+R0927,U6113,"Fantastic Hotel experience at New York, USA. Highly recommend!",2024-12-05,"New York, USA",Hotel,5,0.93,3,0.95,Family Tourist,High
+R0928,U6954,"The Adventure Tour at New York, USA was okay. Could be better.",2024-11-16,"New York, USA",Adventure Tour,3,0.11,2,0.34,Luxury Seeker,Medium
+R0929,U5258,"Terrible Hotel experience in Sydney, Australia. Will not return.",2025-01-30,"Sydney, Australia",Hotel,1,-0.93,1,0.82,Luxury Seeker,Medium
+R0930,U9248,"Enjoyed the Transport at Rome, Italy. Would recommend to others.",2025-04-20,"Rome, Italy",Transport,4,0.51,4,0.35,Business Traveler,Medium
+R0931,U6589,"Average Transport experience in New York, USA. Nothing special.",2024-10-12,"New York, USA",Transport,3,-0.02,3,0.31,Family Tourist,Medium
+R0932,U3854,"Great Adventure Tour experience in Paris, France. A few minor issues but overall satisfied.",2025-01-08,"Paris, France",Adventure Tour,4,0.57,5,0.8,Luxury Seeker,High
+R0933,U6396,"Great Restaurant experience in New York, USA. A few minor issues but overall satisfied.",2025-02-11,"New York, USA",Restaurant,4,0.68,2,0.01,Luxury Seeker,Medium
+R0934,U8122,"Worst Transport I've had in Rome, Italy. Completely dissatisfied.",2025-05-03,"Rome, Italy",Transport,1,-0.52,4,0.76,Family Tourist,Medium
+R0935,U5089,"Worst Transport I've had in New York, USA. Completely dissatisfied.",2024-05-21,"New York, USA",Transport,1,-0.52,2,0.66,Business Traveler,Medium
+R0936,U6267,"Enjoyed the Adventure Tour at Rome, Italy. Would recommend to others.",2024-07-07,"Rome, Italy",Adventure Tour,4,0.69,1,0.97,Luxury Seeker,High
+R0937,U8978,"Worst Adventure Tour I've had in Paris, France. Completely dissatisfied.",2024-10-17,"Paris, France",Adventure Tour,1,-0.76,5,0.8,Luxury Seeker,Medium
+R0938,U5424,"Fantastic Transport experience at Paris, France. Highly recommend!",2024-12-26,"Paris, France",Transport,5,1.0,5,0.92,Solo Traveler,High
+R0939,U7585,"Had problems with the Transport in Tokyo, Japan. Needs improvement.",2024-10-04,"Tokyo, Japan",Transport,2,-0.21,1,0.49,Budget Traveler,Medium
+R0940,U2222,"Worst Transport I've had in New York, USA. Completely dissatisfied.",2024-05-17,"New York, USA",Transport,1,-0.46,1,0.52,Business Traveler,Medium
+R0941,U8361,"Enjoyed the Restaurant at Rome, Italy. Would recommend to others.",2025-01-30,"Rome, Italy",Restaurant,4,0.62,3,0.19,Family Tourist,Medium
+R0942,U8634,"The Adventure Tour at Sydney, Australia was okay. Could be better.",2025-02-19,"Sydney, Australia",Adventure Tour,3,0.17,4,0.55,Solo Traveler,Medium
+R0943,U5079,"Had problems with the Restaurant in Rome, Italy. Needs improvement.",2024-11-03,"Rome, Italy",Restaurant,2,-0.32,1,0.31,Business Traveler,Medium
+R0944,U9372,"Enjoyed the Adventure Tour at Rome, Italy. Would recommend to others.",2024-12-28,"Rome, Italy",Adventure Tour,4,0.55,5,0.75,Luxury Seeker,High
+R0945,U4530,"Not impressed with the Adventure Tour in Paris, France. Several issues encountered.",2025-01-01,"Paris, France",Adventure Tour,2,-0.26,2,0.62,Business Traveler,Medium
+R0946,U3391,"Average Adventure Tour experience in Sydney, Australia. Nothing special.",2024-11-05,"Sydney, Australia",Adventure Tour,3,0.34,2,0.21,Business Traveler,Medium
+R0947,U7785,"Worst Adventure Tour I've had in Rome, Italy. Completely dissatisfied.",2025-05-12,"Rome, Italy",Adventure Tour,1,-0.5,2,0.23,Budget Traveler,Low
+R0948,U2486,"Terrible City Tour experience in New York, USA. Will not return.",2024-12-05,"New York, USA",City Tour,1,-0.77,5,0.59,Budget Traveler,Medium
+R0949,U1815,"Average Transport experience in Sydney, Australia. Nothing special.",2024-08-14,"Sydney, Australia",Transport,3,0.2,4,0.77,Solo Traveler,Medium
+R0950,U9317,"Great Adventure Tour experience in New York, USA. A few minor issues but overall satisfied.",2024-11-04,"New York, USA",Adventure Tour,4,0.42,4,0.12,Family Tourist,Medium
+R0951,U3186,"Not impressed with the Adventure Tour in New York, USA. Several issues encountered.",2025-05-06,"New York, USA",Adventure Tour,2,-0.31,1,0.36,Luxury Seeker,Medium
+R0952,U1007,"Very good Restaurant in Rome, Italy. Met most of my expectations.",2024-06-22,"Rome, Italy",Restaurant,4,0.64,3,0.18,Family Tourist,Medium
+R0953,U4150,"Terrible Restaurant experience in Tokyo, Japan. Will not return.",2024-11-22,"Tokyo, Japan",Restaurant,1,-0.82,3,0.47,Business Traveler,Medium
+R0954,U4452,"Absolutely loved the Adventure Tour experience in New York, USA. Exceeded all expectations!",2024-08-31,"New York, USA",Adventure Tour,5,0.81,1,0.26,Family Tourist,Medium
+R0955,U7116,"The best City Tour I've ever had in Sydney, Australia. Will come back again!",2024-12-14,"Sydney, Australia",City Tour,5,0.98,4,0.19,Budget Traveler,Medium
+R0956,U9991,"Decent Transport in Tokyo, Japan, but room for improvement.",2024-11-19,"Tokyo, Japan",Transport,3,-0.08,3,0.54,Solo Traveler,Medium
+R0957,U7129,"Worst Restaurant I've had in Paris, France. Completely dissatisfied.",2025-01-23,"Paris, France",Restaurant,1,-0.56,2,0.34,Business Traveler,Medium
+R0958,U3834,"Worst Adventure Tour I've had in Sydney, Australia. Completely dissatisfied.",2024-12-08,"Sydney, Australia",Adventure Tour,1,-0.52,3,0.84,Business Traveler,Medium
+R0959,U7523,"Avoid the Adventure Tour at Paris, France. Very poor service.",2024-08-11,"Paris, France",Adventure Tour,1,-0.64,2,0.54,Budget Traveler,Medium
+R0960,U3987,"Worst Hotel I've had in Paris, France. Completely dissatisfied.",2025-03-09,"Paris, France",Hotel,1,-0.86,3,0.79,Solo Traveler,Medium
+R0961,U8769,"Not impressed with the Hotel in Paris, France. Several issues encountered.",2024-06-24,"Paris, France",Hotel,2,-0.33,2,0.37,Solo Traveler,Medium
+R0962,U7813,"Had problems with the Restaurant in Rome, Italy. Needs improvement.",2025-05-10,"Rome, Italy",Restaurant,2,-0.18,2,0.91,Solo Traveler,Medium
+R0963,U3279,"Disappointing Transport experience at Paris, France. Would not recommend.",2024-07-03,"Paris, France",Transport,2,-0.32,5,0.57,Budget Traveler,Medium
+R0964,U8563,"Not impressed with the City Tour in Sydney, Australia. Several issues encountered.",2025-05-01,"Sydney, Australia",City Tour,2,-0.26,2,0.57,Solo Traveler,Medium
+R0965,U9875,"Absolutely loved the Hotel experience in Paris, France. Exceeded all expectations!",2024-11-05,"Paris, France",Hotel,5,0.88,2,0.74,Family Tourist,High
+R0966,U5491,"Avoid the Transport at Paris, France. Very poor service.",2025-01-25,"Paris, France",Transport,1,-0.91,4,0.18,Family Tourist,Low
+R0967,U6573,"Not impressed with the Hotel in Tokyo, Japan. Several issues encountered.",2025-05-13,"Tokyo, Japan",Hotel,2,-0.14,5,0.83,Family Tourist,Medium
+R0968,U3706,"Enjoyed the Restaurant at Rome, Italy. Would recommend to others.",2025-04-26,"Rome, Italy",Restaurant,4,0.64,2,0.78,Business Traveler,High
+R0969,U1994,"Worst Transport I've had in Paris, France. Completely dissatisfied.",2025-03-15,"Paris, France",Transport,1,-0.62,2,0.68,Luxury Seeker,Medium
+R0970,U9532,"Enjoyed the Transport at Tokyo, Japan. Would recommend to others.",2024-07-04,"Tokyo, Japan",Transport,4,0.66,5,0.92,Family Tourist,High
+R0971,U2523,"The best Restaurant I've ever had in Paris, France. Will come back again!",2024-10-22,"Paris, France",Restaurant,5,0.99,1,0.63,Luxury Seeker,Medium
+R0972,U7152,"Worst City Tour I've had in Rome, Italy. Completely dissatisfied.",2024-09-20,"Rome, Italy",City Tour,1,-0.59,2,0.11,Luxury Seeker,Low
+R0973,U8674,"The best Hotel I've ever had in Tokyo, Japan. Will come back again!",2024-12-16,"Tokyo, Japan",Hotel,5,0.83,4,0.88,Business Traveler,High
+R0974,U7942,"Not impressed with the Transport in Paris, France. Several issues encountered.",2025-02-23,"Paris, France",Transport,2,-0.25,4,0.57,Solo Traveler,Medium
+R0975,U4182,"The Adventure Tour at New York, USA was okay. Could be better.",2025-01-08,"New York, USA",Adventure Tour,3,0.39,3,0.17,Solo Traveler,Medium
+R0976,U9633,"The City Tour at Rome, Italy was okay. Could be better.",2024-08-20,"Rome, Italy",City Tour,3,0.11,1,0.28,Luxury Seeker,Medium
+R0977,U2669,"Enjoyed the Restaurant at New York, USA. Would recommend to others.",2024-07-26,"New York, USA",Restaurant,4,0.49,5,0.53,Family Tourist,Medium
+R0978,U2749,"Absolutely loved the City Tour experience in Tokyo, Japan. Exceeded all expectations!",2024-06-01,"Tokyo, Japan",City Tour,5,0.8,2,0.75,Luxury Seeker,High
+R0979,U3740,"Great Transport experience in Rome, Italy. A few minor issues but overall satisfied.",2024-08-28,"Rome, Italy",Transport,4,0.62,1,0.67,Luxury Seeker,Medium
+R0980,U2498,"Worst Adventure Tour I've had in Paris, France. Completely dissatisfied.",2025-02-17,"Paris, France",Adventure Tour,1,-0.81,3,0.98,Budget Traveler,Medium
+R0981,U1245,"Fantastic Transport experience at Tokyo, Japan. Highly recommend!",2025-01-15,"Tokyo, Japan",Transport,5,0.9,4,0.51,Family Tourist,Medium
+R0982,U7040,"Decent Adventure Tour in Paris, France, but room for improvement.",2024-06-22,"Paris, France",Adventure Tour,3,0.17,2,0.55,Luxury Seeker,Medium
+R0983,U2306,"Average Restaurant experience in Tokyo, Japan. Nothing special.",2024-12-23,"Tokyo, Japan",Restaurant,3,0.28,4,0.43,Family Tourist,Medium
+R0984,U7681,"Had problems with the Transport in Sydney, Australia. Needs improvement.",2024-05-25,"Sydney, Australia",Transport,2,-0.2,5,0.91,Luxury Seeker,Medium
+R0985,U1911,"Decent City Tour in Rome, Italy, but room for improvement.",2024-10-21,"Rome, Italy",City Tour,3,0.01,3,0.55,Business Traveler,Medium
+R0986,U1900,"Enjoyed the Restaurant at Paris, France. Would recommend to others.",2025-01-05,"Paris, France",Restaurant,4,0.42,2,0.06,Business Traveler,Medium
+R0987,U5650,"Decent City Tour in Sydney, Australia, but room for improvement.",2024-09-18,"Sydney, Australia",City Tour,3,0.24,3,0.97,Family Tourist,Medium
+R0988,U1360,"The City Tour at Sydney, Australia was okay. Could be better.",2024-11-09,"Sydney, Australia",City Tour,3,0.03,2,0.01,Budget Traveler,Medium
+R0989,U5535,"Worst Transport I've had in Sydney, Australia. Completely dissatisfied.",2025-04-26,"Sydney, Australia",Transport,1,-0.94,1,0.41,Business Traveler,Medium
+R0990,U1430,"Not impressed with the Adventure Tour in New York, USA. Several issues encountered.",2024-11-01,"New York, USA",Adventure Tour,2,-0.39,1,0.85,Business Traveler,Medium
+R0991,U2729,"Average Hotel experience in Tokyo, Japan. Nothing special.",2025-02-20,"Tokyo, Japan",Hotel,3,0.36,2,0.58,Business Traveler,Medium
+R0992,U3313,"Terrible Transport experience in Paris, France. Will not return.",2024-10-17,"Paris, France",Transport,1,-0.66,5,0.11,Budget Traveler,Low
+R0993,U5011,"Terrible Hotel experience in Tokyo, Japan. Will not return.",2025-01-26,"Tokyo, Japan",Hotel,1,-0.55,5,0.04,Solo Traveler,Low
+R0994,U4502,"Great Transport experience in Sydney, Australia. A few minor issues but overall satisfied.",2025-02-16,"Sydney, Australia",Transport,4,0.61,5,0.8,Luxury Seeker,High
+R0995,U3309,"Great Adventure Tour experience in Paris, France. A few minor issues but overall satisfied.",2025-05-08,"Paris, France",Adventure Tour,4,0.42,2,0.29,Business Traveler,Medium
+R0996,U2039,"Disappointing Adventure Tour experience at New York, USA. Would not recommend.",2024-07-28,"New York, USA",Adventure Tour,2,-0.38,5,0.4,Solo Traveler,Medium
+R0997,U7518,"Worst Restaurant I've had in Rome, Italy. Completely dissatisfied.",2024-11-22,"Rome, Italy",Restaurant,1,-0.4,3,0.92,Family Tourist,Medium
+R0998,U5554,"Disappointing Restaurant experience at Paris, France. Would not recommend.",2024-12-30,"Paris, France",Restaurant,2,-0.22,4,0.94,Luxury Seeker,Medium
+R0999,U4382,"Terrible Hotel experience in Rome, Italy. Will not return.",2024-06-04,"Rome, Italy",Hotel,1,-0.78,4,0.52,Solo Traveler,Medium
+R1000,U2849,"The Adventure Tour at Rome, Italy was okay. Could be better.",2025-04-27,"Rome, Italy",Adventure Tour,3,0.33,5,0.45,Family Tourist,Medium
