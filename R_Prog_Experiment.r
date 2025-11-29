@@ -1,7 +1,7 @@
 # Install packages
 install.packages(c("tidyverse", "ggridges", "patchwork", 
                    "viridis", "gapminder", "scales", "ggplot2", 
-                   "tidytext", "text", "tm"))
+                   "tidytext", "text", "tm", "wordcloud"))
 library(tidyverse)
 library(ggridges)
 library(patchwork)
@@ -12,20 +12,11 @@ library(ggplot2)
 library(tidytext)
 library(text)
 library(tm)
+library(wordcloud)
 
 # Import data and handle missing values - NA
 tourism_data_original <- read.csv("tourism_customer_reviews.csv")
 tourism_data <- na.omit(tourism_data_original)
-
-# Visualize Data - Average rating vs location
-avg_rating <- mean(tourism_data$rating)
-print(tourism_data |>
-        group_by(location) |>
-        summarize(avg_rating = mean(rating)) |>
-        ggplot(aes(x = location, y = avg_rating)) +
-        stat_summary(fun = mean, geom = "bar") +
-        geom_col(fill = "#c2e5eb") +
-        labs(title = "Location vs Rating", x = "Location", y = "Rating"))
 
 # Split data by bad, mid, and good reviews
 tourism_data <- tourism_data |>
@@ -56,9 +47,48 @@ good_reviews_df <- data.frame(Category = "Good", text = good_reviews)
 reviews_df <- bind_rows(bad_reviews_df, mid_reviews_df, good_reviews_df)
 
 # Remove stop words aka filler/unnecessary words and additional spaces
-reviews_cleaned <- Corpus(VectorSource(reviews_df$text))
-reviews_cleaned <- tm_map(reviews_cleaned, removeWords, stopwords("english"))
-reviews_cleaned <- sapply(reviews_cleaned, as.character)
+
+stop_words <- stopwords::stopwords("en")
+reviews_cleaned <- reviews_df$text
+reviews_cleaned <- tolower(reviews_cleaned)
+reviews_cleaned <- gsub("[[:punct:]]","", reviews_cleaned)
 reviews_cleaned <- gsub("\\s+", " ", reviews_cleaned)
 reviews_cleaned <- trimws(reviews_cleaned)
-print(reviews_cleaned)
+
+review_cleaned <- sapply(reviews_cleaned, function(x){
+  words <- unlist(strsplit(x, " "))
+  paste(setdiff(words, stop_words), collapse= " ")
+})
+
+# Cleaned reviews back in data frame
+reviews_cleaned_df <- data.frame(
+  Category = reviews_df$Category,
+  text = review_cleaned,
+  stringsAsFactors = FALSE
+)
+
+# WORD CLOUDS
+text_bad <- paste(reviews_cleaned_df$text
+                  [reviews_cleaned_df$Category == "Bad"], collapse=" ")
+words_bad <- table(unlist(strsplit(text_bad, " ")))
+wordcloud(words = names(words_bad), 
+          freq = as.numeric(words_bad), scale = c(4,.5), 
+          min.freq = 3, max.words = Inf, random.order=TRUE, random.color=FALSE, 
+          rot.per=.1, colors="black")
+
+text_mid <- paste(reviews_cleaned_df$text
+                  [reviews_cleaned_df$Category == "Mid"], collapse=" ")
+words_mid <- table(unlist(strsplit(text_mid, " ")))
+wordcloud(words = names(words_mid), 
+          freq = as.numeric(words_mid), scale = c(4,.5), 
+          min.freq = 3, max.words = Inf, random.order=TRUE, random.color=FALSE, 
+          rot.per=.1, colors="black")
+
+text_good <- paste(reviews_cleaned_df$text
+                   [reviews_cleaned_df$Category == "Good"], collapse=" ")
+words_good <- table(unlist(strsplit(text_good, " ")))
+wordcloud(words = names(words_good), 
+          freq = as.numeric(words_good), scale = c(4,.5), 
+          min.freq = 3, max.words = Inf, random.order=TRUE, random.color=FALSE, 
+          rot.per=.1, colors="black")
+
