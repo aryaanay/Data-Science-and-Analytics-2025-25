@@ -1,6 +1,7 @@
 # Install packages
-install.packages(c("tidyverse", "text", "tm", "wordcloud"))
+install.packages(c("tidyverse", "text", "tm", "wordcloud", "dplyr"))
 library(tidyverse)
+library(text)
 library(tm)
 library(wordcloud)
 library(dplyr)
@@ -55,7 +56,6 @@ reviews_cleaned_df <- data.frame(
   text = review_cleaned,
   stringsAsFactors = FALSE
 )
-print(reviews_cleaned_df)
 
 # WORD CLOUDS
 text_bad <- paste(reviews_cleaned_df$text
@@ -65,7 +65,7 @@ words_bad <- table(unlist(strsplit(text_bad, " ")))
 windows(title = "Bad Reviews Word Cloud")
 wordcloud(words = names(words_bad), 
           freq = as.numeric(words_bad), scale = c(4,.5), 
-          min.freq = 3, max.words = 30, random.order=FALSE, random.color=FALSE, 
+          min.freq = 3, max.words = 10, random.order=FALSE, random.color=FALSE, 
           rot.per=.1, colors="black")
 
 text_mid <- paste(reviews_cleaned_df$text
@@ -74,7 +74,7 @@ words_mid <- table(unlist(strsplit(text_mid, " ")))
 windows(title = "Mid Reviews Word Cloud")
 wordcloud(words = names(words_mid), 
           freq = as.numeric(words_mid), scale = c(4,.5), 
-          min.freq = 3, max.words = 30, random.order=FALSE, random.color=FALSE, 
+          min.freq = 3, max.words = 10, random.order=FALSE, random.color=FALSE, 
           rot.per=.1, colors="black")
 
 text_good <- paste(reviews_cleaned_df$text
@@ -84,5 +84,31 @@ words_good <- table(unlist(strsplit(text_good, " ")))
 windows(title = "Good Reviews Word Cloud")
 wordcloud(words = names(words_good), 
           freq = as.numeric(words_good), scale = c(4,.5), 
-          min.freq = 3, max.words = 30, random.order=FALSE, random.color=FALSE, 
+          min.freq = 3, max.words = 10, random.order=FALSE, random.color=FALSE, 
           rot.per=.1, colors="black")
+
+top_bad <- sort(words_bad, decreasing = TRUE)[1:10]
+
+#--------------------
+prediction_data <- tourism_data |>
+  filter(Category != "Mid") |>
+  mutate(is_good_review = as.integer(Category == "Good"))
+
+set.seed(123)
+
+sample_indices <- sample(1:nrow(prediction_data), 0.8 * nrow(prediction_data))
+train_data <- prediction_data[sample_indices, ]
+test_data <- prediction_data[-sample_indices, ]
+
+model <- glm(is_good_review ~ sentiment_score, 
+             data = train_data, 
+             family = binomial())
+summary(model)
+
+predicted_prob <- predict(model, test_data, type = "response")
+predicted_class <- as.integer(pred_prob > 0.5)
+
+accuracy <- mean(predicted_class == test_data$is_good_review)
+print(accuracy)
+
+boxplot(sentiment_score ~ Category, data = prediction_data)
