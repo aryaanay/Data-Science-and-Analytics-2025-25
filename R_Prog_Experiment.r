@@ -1,7 +1,6 @@
 # Install packages
-install.packages(c("tidyverse", "text", "tm", "wordcloud", "dplyr"))
+install.packages(c("tidyverse", "text", "tm", "wordcloud"))
 library(tidyverse)
-library(text)
 library(tm)
 library(wordcloud)
 library(dplyr)
@@ -106,7 +105,7 @@ model <- glm(is_good_review ~ sentiment_score,
 summary(model)
 
 predicted_prob <- predict(model, test_data, type = "response")
-predicted_class <- as.integer(pred_prob > 0.5)
+predicted_class <- as.integer(predicted_prob > 0.5)
 
 accuracy <- mean(predicted_class == test_data$is_good_review)
 print(accuracy)
